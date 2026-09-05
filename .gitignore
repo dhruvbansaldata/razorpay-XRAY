@@ -1,0 +1,29 @@
+# Python Environments and Cache
+venv/
+env/
+.env
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Next.js / Node.js
+frontend/node_modules/
+frontend/.next/
+npm-debug.log
+yarn-error.log
+.pnp.*
+
+# Database / Vector DB
+backend/chroma_db/
+*.sqlite3
+*.db
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Note: We are keeping the CSV files in `data/` and the model weights (`fraud_gnn.pth`) 
+# so the judges can run your code immediately without retraining from scratch!

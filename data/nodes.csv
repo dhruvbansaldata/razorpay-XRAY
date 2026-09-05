@@ -1,0 +1,3730 @@
+node_id,label,ip,name,is_fraud,split,account
+n_1,IPAddress,129.153.198.180,,,,
+n_2,IPAddress,183.214.39.114,,,,
+n_3,IPAddress,113.163.209.250,,,,
+n_4,IPAddress,133.144.103.224,,,,
+n_5,IPAddress,130.8.186.60,,,,
+n_6,Director,,Girik Kamdar,,,
+n_7,Director,,Yashasvi Bala,,,
+n_8,Director,,Oni Kannan,,,
+n_9,Director,,Arunima Ahuja,,,
+n_10,Director,,Pahal Oak,,,
+n_11,Director,,Nachiket Kale,,,
+n_12,Director,,Harsh Chanda,,,
+n_13,Director,,Gunbir Parmer,,,
+n_14,Director,,Aishani Bassi,,,
+n_15,Director,,Jeet Radhakrishnan,,,
+n_16,Merchant,,Memon Ltd,0.0,train,
+n_17,Director,,Rehaan Boase,,,
+n_18,BankAccount,,,,,BVHY4131647525534
+n_19,IPAddress,132.145.219.213,,,,
+n_20,Merchant,,"Garg, Walla and Konda",0.0,train,
+n_21,Director,,Turvi Raghavan,,,
+n_22,BankAccount,,,,,IUWR3503056413953
+n_23,IPAddress,153.82.8.116,,,,
+n_24,Merchant,,"Shanker, Dhar and Lanka",0.0,train,
+n_25,Director,,Yatin Yohannan,,,
+n_26,BankAccount,,,,,IXSN9653287101226
+n_27,IPAddress,152.160.7.17,,,,
+n_28,Merchant,,Sidhu-Wadhwa,0.0,train,
+n_29,BankAccount,,,,,IRAV1845146270482
+n_30,IPAddress,9.179.219.213,,,,
+n_31,Merchant,,"Misra, Tripathi and Issac",0.0,train,
+n_32,Director,,Kashvi Edwin,,,
+n_33,BankAccount,,,,,RYQA9570154303911
+n_34,IPAddress,178.54.253.41,,,,
+n_35,Merchant,,"Dass, Dave and Soman",0.0,train,
+n_36,Director,,Alka Wable,,,
+n_37,Director,,Siddharth Zacharia,,,
+n_38,BankAccount,,,,,YXWG4657871331509
+n_39,IPAddress,2.225.128.170,,,,
+n_40,Merchant,,Bobal Ltd,0.0,train,
+n_41,Director,,Veer Bir,,,
+n_42,BankAccount,,,,,BKCQ3473829973763
+n_43,IPAddress,91.150.87.180,,,,
+n_44,Merchant,,Sampath-Roy,0.0,train,
+n_45,Director,,Chatura Chaudhari,,,
+n_46,Director,,Neha Nori,,,
+n_47,BankAccount,,,,,ZDHG3872624731781
+n_48,IPAddress,64.241.202.234,,,,
+n_49,Merchant,,Khalsa and Sons,0.0,train,
+n_50,Director,,Vedika Srivastava,,,
+n_51,Director,,Nandini Bhargava,,,
+n_52,BankAccount,,,,,FMAM4746872343098
+n_53,Merchant,,Murthy Inc,0.0,train,
+n_54,BankAccount,,,,,BSPQ8208121913619
+n_55,IPAddress,112.162.200.39,,,,
+n_56,Merchant,,"Bumb, Saini and Virk",0.0,train,
+n_57,Director,,Advika Jayaraman,,,
+n_58,Director,,William Lanka,,,
+n_59,BankAccount,,,,,MEVU4751079911838
+n_60,IPAddress,122.202.197.36,,,,
+n_61,Merchant,,Konda LLC,0.0,train,
+n_62,Director,,Nakul Sarma,,,
+n_63,Director,,Abhiram Mistry,,,
+n_64,BankAccount,,,,,VDEI1182449353487
+n_65,Merchant,,Behl-Chanda,0.0,train,
+n_66,Director,,Aradhana Basu,,,
+n_67,Director,,Gauri De,,,
+n_68,BankAccount,,,,,UIFX7868011280598
+n_69,IPAddress,106.10.4.80,,,,
+n_70,Merchant,,Morar LLC,0.0,train,
+n_71,Director,,Ishita Kade,,,
+n_72,BankAccount,,,,,VHVD5869232260256
+n_73,IPAddress,163.248.126.54,,,,
+n_74,Merchant,,Dutta-Chokshi,0.0,train,
+n_75,Director,,Balvan Singhal,,,
+n_76,BankAccount,,,,,HGOL4330365414586
+n_77,IPAddress,149.49.143.54,,,,
+n_78,Merchant,,D’Alia LLC,0.0,train,
+n_79,Director,,Alka Barad,,,
+n_80,Director,,Radha Pai,,,
+n_81,BankAccount,,,,,XZKN9816934060883
+n_82,IPAddress,36.122.115.106,,,,
+n_83,Merchant,,"Narayanan, Murthy and Dash",0.0,train,
+n_84,Director,,Yashica More,,,
+n_85,Director,,Eta Rau,,,
+n_86,BankAccount,,,,,WJRE3662994680443
+n_87,Merchant,,Nagy-Shroff,0.0,train,
+n_88,Director,,Riya Kala,,,
+n_89,Director,,Omkaar Chad,,,
+n_90,BankAccount,,,,,JQVU9513433200379
+n_91,IPAddress,168.37.73.189,,,,
+n_92,Merchant,,Sachdeva-Hayer,0.0,train,
+n_93,Director,,Warda Ratta,,,
+n_94,BankAccount,,,,,HEUW0163287083172
+n_95,IPAddress,165.19.167.5,,,,
+n_96,Merchant,,Thaman-Sandhu,0.0,train,
+n_97,Director,,Nathan Soman,,,
+n_98,BankAccount,,,,,OIYH4873471434558
+n_99,Merchant,,Devi and Sons,0.0,train,
+n_100,Director,,Leela Dua,,,
+n_101,BankAccount,,,,,WGCN6587603669096
+n_102,IPAddress,27.65.155.175,,,,
+n_103,Merchant,,Ramakrishnan-Saini,0.0,train,
+n_104,Director,,Vinaya Kanda,,,
+n_105,BankAccount,,,,,INPA6562729806990
+n_106,IPAddress,91.110.100.64,,,,
+n_107,Merchant,,Shenoy and Sons,0.0,train,
+n_108,BankAccount,,,,,BIMK3755646417080
+n_109,IPAddress,198.22.204.184,,,,
+n_110,Merchant,,Biswas Ltd,0.0,train,
+n_111,BankAccount,,,,,BYAH3092327193745
+n_112,IPAddress,105.213.32.106,,,,
+n_113,Merchant,,Mukhopadhyay Inc,0.0,train,
+n_114,Director,,Devika Prashad,,,
+n_115,Director,,Rushil Borra,,,
+n_116,BankAccount,,,,,SWUH1491905865185
+n_117,IPAddress,90.226.62.15,,,,
+n_118,Merchant,,Cherian-Sant,0.0,train,
+n_119,Director,,Tripti Dua,,,
+n_120,Director,,Patrick Vig,,,
+n_121,BankAccount,,,,,UITZ8776945314737
+n_122,Merchant,,"Raghavan, Nayar and Balakrishnan",0.0,train,
+n_123,Director,,Ekta Gopal,,,
+n_124,Director,,Simon Pant,,,
+n_125,BankAccount,,,,,ZIKI9480831367837
+n_126,IPAddress,159.105.157.225,,,,
+n_127,Merchant,,Badal-Chander,0.0,train,
+n_128,Director,,Timothy Ravel,,,
+n_129,Director,,Damini Pillay,,,
+n_130,BankAccount,,,,,PRQL6855744431351
+n_131,IPAddress,181.236.191.95,,,,
+n_132,Merchant,,Kalita Ltd,0.0,train,
+n_133,Director,,Aradhana Vohra,,,
+n_134,BankAccount,,,,,TJDG4352408240084
+n_135,IPAddress,136.20.246.144,,,,
+n_136,Merchant,,"Swaminathan, Chauhan and Arora",0.0,train,
+n_137,BankAccount,,,,,SJPP7520471167190
+n_138,IPAddress,108.220.130.161,,,,
+n_139,Merchant,,Kothari Inc,0.0,train,
+n_140,Director,,Upkaar Virk,,,
+n_141,BankAccount,,,,,MOOJ9649909133412
+n_142,IPAddress,113.51.119.57,,,,
+n_143,Merchant,,Agate Group,0.0,train,
+n_144,Director,,Upma Manne,,,
+n_145,BankAccount,,,,,BHJW4713493618324
+n_146,IPAddress,172.146.63.82,,,,
+n_147,Merchant,,Gandhi LLC,0.0,train,
+n_148,Director,,Reva Dash,,,
+n_149,Director,,Daksha Rau,,,
+n_150,BankAccount,,,,,IQRP7190659401399
+n_151,IPAddress,201.19.250.178,,,,
+n_152,Merchant,,"Baria, Gill and Singhal",0.0,train,
+n_153,Director,,Arunima Golla,,,
+n_154,BankAccount,,,,,SNUP1756551256746
+n_155,IPAddress,160.150.79.187,,,,
+n_156,Merchant,,Chakrabarti-Murty,0.0,train,
+n_157,Director,,Ekiya D’Alia,,,
+n_158,Director,,Yoshita Agarwal,,,
+n_159,BankAccount,,,,,VRON0385977034824
+n_160,IPAddress,31.130.194.81,,,,
+n_161,Merchant,,Balakrishnan Ltd,0.0,train,
+n_162,Director,,Nathan Mukhopadhyay,,,
+n_163,Director,,Nikita Chander,,,
+n_164,BankAccount,,,,,HDOD2748467737826
+n_165,IPAddress,97.23.145.175,,,,
+n_166,Merchant,,Majumdar Group,0.0,train,
+n_167,Director,,Yashica Loke,,,
+n_168,Director,,Barkha Misra,,,
+n_169,BankAccount,,,,,SSVP2787558867533
+n_170,IPAddress,142.242.175.225,,,,
+n_171,Merchant,,Bassi-Nadkarni,0.0,train,
+n_172,Director,,Lakshmi Raju,,,
+n_173,BankAccount,,,,,VZUE7028951718702
+n_174,IPAddress,41.225.13.227,,,,
+n_175,Merchant,,Singh LLC,0.0,train,
+n_176,Director,,Mitali Buch,,,
+n_177,BankAccount,,,,,KVRM5780913431611
+n_178,Merchant,,Ganesan-Mistry,0.0,train,
+n_179,Director,,Chakradhar Nair,,,
+n_180,BankAccount,,,,,ZBJL5623869222196
+n_181,IPAddress,143.105.193.93,,,,
+n_182,Merchant,,Dhar-Kata,0.0,train,
+n_183,Director,,Aachal Sharaf,,,
+n_184,BankAccount,,,,,IVAZ7482175946474
+n_185,IPAddress,103.137.237.6,,,,
+n_186,Merchant,,Chhabra-Khalsa,0.0,train,
+n_187,Director,,Jagrati Merchant,,,
+n_188,Director,,Anthony Randhawa,,,
+n_189,BankAccount,,,,,IASV0974395339421
+n_190,IPAddress,209.66.243.35,,,,
+n_191,Merchant,,Sastry-Bandi,0.0,train,
+n_192,Director,,Karan Chana,,,
+n_193,BankAccount,,,,,JKXN2328588424745
+n_194,Merchant,,Sidhu Inc,0.0,train,
+n_195,Director,,Upkaar Ranganathan,,,
+n_196,BankAccount,,,,,ZRLC6048175496513
+n_197,Merchant,,Bakshi-Narang,0.0,train,
+n_198,Director,,Dev Shetty,,,
+n_199,BankAccount,,,,,WJUN1200471138267
+n_200,IPAddress,58.210.249.4,,,,
+n_201,Merchant,,"Dubey, Sachdeva and Chaudhary",0.0,train,
+n_202,Director,,Nikita Mammen,,,
+n_203,Director,,Kamala Kalla,,,
+n_204,BankAccount,,,,,OOHL1585064317139
+n_205,IPAddress,194.51.202.218,,,,
+n_206,Merchant,,Kohli-Dass,0.0,train,
+n_207,Director,,Ekapad Johal,,,
+n_208,BankAccount,,,,,SGHK2904228421020
+n_209,IPAddress,47.58.69.121,,,,
+n_210,Merchant,,"Naik, Babu and Ghosh",0.0,train,
+n_211,Director,,Charles Date,,,
+n_212,Director,,Ishaan Bhatt,,,
+n_213,BankAccount,,,,,POYL8917839084700
+n_214,IPAddress,198.115.104.49,,,,
+n_215,Merchant,,Chokshi-Swaminathan,0.0,train,
+n_216,Director,,Ethan Buch,,,
+n_217,BankAccount,,,,,KTEC2499856984789
+n_218,IPAddress,19.169.71.176,,,,
+n_219,Merchant,,"Kale, Sani and Seth",0.0,train,
+n_220,BankAccount,,,,,HNKO6615654527111
+n_221,IPAddress,70.46.28.145,,,,
+n_222,Merchant,,"Pradhan, De and Bhasin",0.0,train,
+n_223,Director,,Jason Roy,,,
+n_224,BankAccount,,,,,LVYN0494519832731
+n_225,Merchant,,Pillai-Contractor,0.0,train,
+n_226,Director,,Upkaar Sanghvi,,,
+n_227,BankAccount,,,,,RYTT8094024455022
+n_228,IPAddress,1.205.51.155,,,,
+n_229,Merchant,,Dhar Ltd,0.0,train,
+n_230,BankAccount,,,,,UACX8366752545991
+n_231,IPAddress,212.250.130.182,,,,
+n_232,Merchant,,Bawa Ltd,0.0,train,
+n_233,Director,,Anita Savant,,,
+n_234,BankAccount,,,,,VNPT7643815614978
+n_235,IPAddress,130.232.30.58,,,,
+n_236,Merchant,,Rana PLC,0.0,train,
+n_237,Director,,Abhimanyu Jayaraman,,,
+n_238,Director,,Siddharth Devan,,,
+n_239,BankAccount,,,,,YIJK1076226838851
+n_240,IPAddress,34.181.20.140,,,,
+n_241,Merchant,,Bahl-Sharaf,0.0,train,
+n_242,Director,,Dhriti Sanghvi,,,
+n_243,Director,,Omisha Mann,,,
+n_244,BankAccount,,,,,DMAK2975161369681
+n_245,Merchant,,Mukherjee-Nori,0.0,train,
+n_246,Director,,Gauri Ganguly,,,
+n_247,Director,,Yashvi Comar,,,
+n_248,BankAccount,,,,,QQGY5523124329212
+n_249,IPAddress,201.249.249.208,,,,
+n_250,Merchant,,Sen-Naidu,0.0,train,
+n_251,Director,,Matthew Sarraf,,,
+n_252,BankAccount,,,,,CPOU4490581477005
+n_253,IPAddress,172.157.37.36,,,,
+n_254,Merchant,,"Chana, Tripathi and Rajagopalan",0.0,train,
+n_255,Director,,Benjamin Sengupta,,,
+n_256,BankAccount,,,,,ZSUG5978207151820
+n_257,Merchant,,Sarma Group,0.0,train,
+n_258,Director,,Januja Pradhan,,,
+n_259,BankAccount,,,,,JMNY5905151864492
+n_260,IPAddress,41.13.41.158,,,,
+n_261,Merchant,,Mukherjee-Ramanathan,0.0,train,
+n_262,Director,,Frado Mukherjee,,,
+n_263,Director,,Falguni Datta,,,
+n_264,BankAccount,,,,,VWXV8168505423573
+n_265,Merchant,,Devan and Sons,0.0,train,
+n_266,Director,,Chakrika Chaudhuri,,,
+n_267,BankAccount,,,,,QYRX8059296222927
+n_268,IPAddress,87.80.174.122,,,,
+n_269,Merchant,,"Khanna, Sawhney and Mane",0.0,train,
+n_270,BankAccount,,,,,YXZO3834735977468
+n_271,Merchant,,"Sahota, Edwin and Iyengar",0.0,train,
+n_272,Director,,Zashil Ben,,,
+n_273,BankAccount,,,,,UPLR1814124782613
+n_274,IPAddress,165.151.230.132,,,,
+n_275,Merchant,,Sachdeva Inc,0.0,train,
+n_276,Director,,Yadavi Prakash,,,
+n_277,BankAccount,,,,,HMCL3051522047277
+n_278,IPAddress,133.18.8.253,,,,
+n_279,Merchant,,Kunda and Sons,0.0,train,
+n_280,Director,,Pallavi Choudhry,,,
+n_281,Director,,Wazir Mitra,,,
+n_282,BankAccount,,,,,DBHN9711798089324
+n_283,IPAddress,27.74.68.220,,,,
+n_284,Merchant,,Saha and Sons,0.0,train,
+n_285,Director,,Jalsa Bir,,,
+n_286,BankAccount,,,,,QRQZ8806706540515
+n_287,IPAddress,113.168.155.113,,,,
+n_288,Merchant,,"Natarajan, Deol and Basu",0.0,train,
+n_289,Director,,Hamsini Gill,,,
+n_290,Director,,Varenya Gopal,,,
+n_291,BankAccount,,,,,ZECW7043030548687
+n_292,IPAddress,121.135.97.60,,,,
+n_293,Merchant,,Parikh-Batta,0.0,train,
+n_294,Director,,Anjali Dash,,,
+n_295,Director,,Rajeshri Ratta,,,
+n_296,BankAccount,,,,,XOMK2775841616928
+n_297,Merchant,,Nagi-Chauhan,0.0,train,
+n_298,Director,,Falak Merchant,,,
+n_299,BankAccount,,,,,JOTW6275705964016
+n_300,IPAddress,42.61.56.243,,,,
+n_301,Merchant,,Dhar PLC,0.0,train,
+n_302,Director,,Bakhshi Date,,,
+n_303,Director,,Warinder Peri,,,
+n_304,BankAccount,,,,,LMSB9275571928565
+n_305,Merchant,,"Mallick, Krish and Comar",0.0,train,
+n_306,Director,,Quincy Tata,,,
+n_307,BankAccount,,,,,QMRD4473947312172
+n_308,Merchant,,"Saxena, Chahal and Nagarajan",0.0,train,
+n_309,BankAccount,,,,,VLWC8844225831323
+n_310,Merchant,,Bal-Patel,0.0,train,
+n_311,Director,,Unni Dayal,,,
+n_312,BankAccount,,,,,TCCJ6786691251778
+n_313,IPAddress,43.165.72.181,,,,
+n_314,Merchant,,Sant PLC,0.0,train,
+n_315,Director,,Jeet Vasa,,,
+n_316,BankAccount,,,,,EJFF5358414384249
+n_317,IPAddress,10.178.187.142,,,,
+n_318,Merchant,,"Dube, Garg and Nazareth",0.0,train,
+n_319,BankAccount,,,,,SBAC0943969078447
+n_320,IPAddress,118.127.90.224,,,,
+n_321,Merchant,,Setty-Bora,0.0,train,
+n_322,Director,,Nakul Sarraf,,,
+n_323,Director,,Veda Shetty,,,
+n_324,BankAccount,,,,,GKTE5556258815371
+n_325,IPAddress,121.251.188.229,,,,
+n_326,Merchant,,Chatterjee Inc,0.0,train,
+n_327,Director,,Leena Sahota,,,
+n_328,Director,,Nathaniel Narang,,,
+n_329,BankAccount,,,,,SXKG2787747016873
+n_330,IPAddress,100.45.43.170,,,,
+n_331,Merchant,,Bedi LLC,0.0,train,
+n_332,Director,,Upma Mangal,,,
+n_333,Director,,Hritik Sankar,,,
+n_334,BankAccount,,,,,EIXL6506098358416
+n_335,IPAddress,12.121.188.99,,,,
+n_336,Merchant,,"Dani, Dave and Chatterjee",0.0,train,
+n_337,Director,,Kashvi Nori,,,
+n_338,BankAccount,,,,,RLYE3986800025787
+n_339,Merchant,,Varma and Sons,0.0,train,
+n_340,Director,,Eiravati Gaba,,,
+n_341,BankAccount,,,,,MTXJ9588879470551
+n_342,Merchant,,Morar-Bala,0.0,train,
+n_343,Director,,Alka Kari,,,
+n_344,BankAccount,,,,,XBSP2896230913075
+n_345,IPAddress,58.109.240.62,,,,
+n_346,Merchant,,"Jani, Roy and Thaker",0.0,train,
+n_347,Director,,David Devi,,,
+n_348,BankAccount,,,,,QGRK7865278585497
+n_349,IPAddress,97.248.223.6,,,,
+n_350,Merchant,,Misra-Kar,0.0,train,
+n_351,Director,,Bhavya Johal,,,
+n_352,Director,,Edhitha Srinivasan,,,
+n_353,BankAccount,,,,,LRZX4419866524041
+n_354,IPAddress,60.79.227.227,,,,
+n_355,Merchant,,"Kunda, Srinivas and Kala",0.0,train,
+n_356,Director,,Anika Magar,,,
+n_357,BankAccount,,,,,EDTX9330833016571
+n_358,IPAddress,136.204.66.138,,,,
+n_359,Merchant,,Dugar Group,0.0,train,
+n_360,Director,,Vansha Iyengar,,,
+n_361,BankAccount,,,,,YJKJ0193802620672
+n_362,IPAddress,206.80.212.15,,,,
+n_363,Merchant,,Andra LLC,0.0,train,
+n_364,Director,,Gautami Mane,,,
+n_365,BankAccount,,,,,OURQ7287431527420
+n_366,IPAddress,185.112.214.180,,,,
+n_367,Merchant,,"Hans, Gill and Ravi",0.0,train,
+n_368,Director,,Yutika Narang,,,
+n_369,BankAccount,,,,,CMVD2275304637454
+n_370,IPAddress,128.187.92.243,,,,
+n_371,Merchant,,Parsa-Keer,0.0,train,
+n_372,Director,,Jagat Shroff,,,
+n_373,Director,,Nathaniel Ravi,,,
+n_374,BankAccount,,,,,VQWY4145933272795
+n_375,IPAddress,62.34.12.22,,,,
+n_376,Merchant,,"Kamdar, Kota and Bumb",0.0,train,
+n_377,Director,,Janaki Brahmbhatt,,,
+n_378,Director,,David Tiwari,,,
+n_379,BankAccount,,,,,GSRE2587139718707
+n_380,IPAddress,90.150.80.243,,,,
+n_381,Merchant,,Bhardwaj-Shere,0.0,train,
+n_382,Director,,Anthony Randhawa,,,
+n_383,BankAccount,,,,,IAXG9106518017046
+n_384,Merchant,,Deshmukh Ltd,0.0,train,
+n_385,Director,,Kavya Raja,,,
+n_386,BankAccount,,,,,OMMC8251286823004
+n_387,Merchant,,Samra-Wali,0.0,train,
+n_388,Director,,Victor Kota,,,
+n_389,Director,,Hiral Dubey,,,
+n_390,BankAccount,,,,,IGXY1069033119079
+n_391,Merchant,,"Bava, Konda and Basu",0.0,train,
+n_392,Director,,Reva Kaur,,,
+n_393,Director,,Daksh Dey,,,
+n_394,BankAccount,,,,,QJHX9599534283644
+n_395,IPAddress,75.53.97.214,,,,
+n_396,Merchant,,"Sane, Tandon and Batta",0.0,train,
+n_397,Director,,Lakshmi Vohra,,,
+n_398,BankAccount,,,,,KWNN2462873342708
+n_399,IPAddress,58.168.16.155,,,,
+n_400,Merchant,,"Wagle, Desai and Rama",0.0,train,
+n_401,Director,,Aadhya Jani,,,
+n_402,BankAccount,,,,,KUCO5183046990139
+n_403,IPAddress,182.241.204.162,,,,
+n_404,Merchant,,Joshi-Natarajan,0.0,train,
+n_405,BankAccount,,,,,JAGG1739363854678
+n_406,IPAddress,147.189.48.211,,,,
+n_407,Merchant,,Parsa-Varghese,0.0,train,
+n_408,Director,,Unnati Chaudhari,,,
+n_409,BankAccount,,,,,ZXPY5355609320489
+n_410,IPAddress,154.185.153.96,,,,
+n_411,Merchant,,Dua-Hayre,0.0,train,
+n_412,Director,,Victor Raghavan,,,
+n_413,BankAccount,,,,,SHPR5477725228728
+n_414,IPAddress,196.60.36.65,,,,
+n_415,Merchant,,"Bandi, Borde and Bava",0.0,train,
+n_416,Director,,Nitara Devan,,,
+n_417,Director,,Ekansh Dora,,,
+n_418,BankAccount,,,,,AGQO5099770088600
+n_419,IPAddress,12.101.86.139,,,,
+n_420,Merchant,,"Mangat, Badal and Thakkar",0.0,train,
+n_421,Director,,Praneel Chhabra,,,
+n_422,BankAccount,,,,,DQEH3984546156793
+n_423,IPAddress,196.231.71.31,,,,
+n_424,Merchant,,Buch-Balay,0.0,train,
+n_425,Director,,Nidra Raghavan,,,
+n_426,BankAccount,,,,,MRPB0217659180339
+n_427,IPAddress,17.125.111.134,,,,
+n_428,Merchant,,Mand PLC,0.0,train,
+n_429,BankAccount,,,,,SVBF5039261429396
+n_430,IPAddress,149.59.15.204,,,,
+n_431,Merchant,,Dey-Brar,0.0,train,
+n_432,Director,,Chatresh Chaudhari,,,
+n_433,BankAccount,,,,,NHCK9996504773586
+n_434,IPAddress,28.41.142.67,,,,
+n_435,Merchant,,Merchant and Sons,0.0,train,
+n_436,Director,,Fitan Loyal,,,
+n_437,BankAccount,,,,,EMWZ2655110475412
+n_438,IPAddress,91.149.43.27,,,,
+n_439,Merchant,,Vala-Reddy,0.0,train,
+n_440,BankAccount,,,,,DACL8199560466183
+n_441,IPAddress,138.218.114.87,,,,
+n_442,Merchant,,"Rai, Gara and Dewan",0.0,train,
+n_443,Director,,Charvi Loyal,,,
+n_444,Director,,Madhav Bhatnagar,,,
+n_445,BankAccount,,,,,FNIN4715437993712
+n_446,IPAddress,57.83.4.118,,,,
+n_447,Merchant,,Rai-Narayan,0.0,train,
+n_448,Director,,Gaurika Sani,,,
+n_449,BankAccount,,,,,UTEJ5937526547935
+n_450,IPAddress,57.37.217.100,,,,
+n_451,Merchant,,Comar-Iyengar,0.0,train,
+n_452,Director,,Avi Shenoy,,,
+n_453,Director,,Raksha Manne,,,
+n_454,BankAccount,,,,,WCZZ6724342661797
+n_455,IPAddress,154.197.112.70,,,,
+n_456,Merchant,,"Bansal, Parsa and Yadav",0.0,train,
+n_457,Director,,Ikbal Kothari,,,
+n_458,Director,,Ojas Basu,,,
+n_459,BankAccount,,,,,SUVU6561014388899
+n_460,IPAddress,117.252.100.205,,,,
+n_461,Merchant,,Sheth-Tella,0.0,train,
+n_462,Director,,Hemani Bakshi,,,
+n_463,Director,,Henry Merchant,,,
+n_464,BankAccount,,,,,NCDX2545738757177
+n_465,IPAddress,51.55.134.218,,,,
+n_466,Merchant,,Contractor Inc,0.0,train,
+n_467,Director,,Ikbal Gala,,,
+n_468,Director,,Zaitra Ghosh,,,
+n_469,BankAccount,,,,,RFKR6736226609379
+n_470,Merchant,,Ramachandran-Agrawal,0.0,train,
+n_471,BankAccount,,,,,WGGI1918255371478
+n_472,IPAddress,195.64.237.1,,,,
+n_473,Merchant,,"Rama, Ramanathan and Comar",0.0,train,
+n_474,Director,,Indira Shankar,,,
+n_475,Director,,Chameli Chad,,,
+n_476,BankAccount,,,,,VEKD3412528669296
+n_477,IPAddress,63.37.154.213,,,,
+n_478,Merchant,,"Yogi, Ghose and Ganesan",0.0,train,
+n_479,Director,,Bhavya Dey,,,
+n_480,BankAccount,,,,,FKOT0507236887676
+n_481,IPAddress,156.104.17.39,,,,
+n_482,Merchant,,Ganesh-Butala,0.0,train,
+n_483,Director,,Thomas Master,,,
+n_484,Director,,Anvi Kar,,,
+n_485,BankAccount,,,,,RJFY7978819148580
+n_486,Merchant,,"Sastry, Kamdar and Sandal",0.0,train,
+n_487,BankAccount,,,,,DXUY3407451713395
+n_488,IPAddress,221.179.139.106,,,,
+n_489,Merchant,,Dewan and Sons,0.0,train,
+n_490,Director,,Daniel Panchal,,,
+n_491,BankAccount,,,,,RITR2544948126042
+n_492,IPAddress,136.126.1.203,,,,
+n_493,Merchant,,Dhingra Ltd,0.0,train,
+n_494,BankAccount,,,,,KHYV6729466711684
+n_495,IPAddress,151.158.220.178,,,,
+n_496,Merchant,,Sura-Narang,0.0,train,
+n_497,Director,,Girik Shanker,,,
+n_498,BankAccount,,,,,UVWL1863637454589
+n_499,IPAddress,95.15.198.183,,,,
+n_500,Merchant,,Bava-Batra,0.0,train,
+n_501,Director,,Tripti Babu,,,
+n_502,Director,,Nakul Sastry,,,
+n_503,BankAccount,,,,,OANG2424154152064
+n_504,IPAddress,183.126.27.56,,,,
+n_505,Merchant,,Chand-Chandran,0.0,train,
+n_506,Director,,Tanay Sood,,,
+n_507,Director,,Kevin Kara,,,
+n_508,BankAccount,,,,,QVOA0516271361115
+n_509,IPAddress,51.38.255.215,,,,
+n_510,Merchant,,Raja and Sons,0.0,train,
+n_511,Director,,Ekapad Wali,,,
+n_512,Director,,Nitesh Sarraf,,,
+n_513,BankAccount,,,,,LXGU2697311219656
+n_514,IPAddress,40.242.250.80,,,,
+n_515,Merchant,,Malhotra Ltd,0.0,train,
+n_516,Director,,Yuvraj Mane,,,
+n_517,Director,,Charvi Jha,,,
+n_518,BankAccount,,,,,QTQG6403761379180
+n_519,IPAddress,197.68.17.104,,,,
+n_520,Merchant,,Ram PLC,0.0,train,
+n_521,Director,,Jasmit Gera,,,
+n_522,Director,,Elijah Badal,,,
+n_523,BankAccount,,,,,SCAI3006848666188
+n_524,IPAddress,145.194.8.14,,,,
+n_525,Merchant,,Mukherjee Inc,0.0,train,
+n_526,Director,,Nachiket Yadav,,,
+n_527,Director,,Mahika Bhatti,,,
+n_528,BankAccount,,,,,JWNX3031617990421
+n_529,IPAddress,72.200.19.253,,,,
+n_530,Merchant,,"Apte, Gade and Taneja",0.0,train,
+n_531,Director,,Zansi Lad,,,
+n_532,BankAccount,,,,,FLEX4105648149177
+n_533,IPAddress,8.227.20.30,,,,
+n_534,Merchant,,Ganesan-Pillai,0.0,train,
+n_535,Director,,Aadhya Chauhan,,,
+n_536,BankAccount,,,,,SVXD3800030756220
+n_537,IPAddress,7.90.222.75,,,,
+n_538,Merchant,,Nagy and Sons,0.0,train,
+n_539,Director,,Ekaja Madan,,,
+n_540,Director,,Kashish Dar,,,
+n_541,BankAccount,,,,,QVBF3806174451870
+n_542,Merchant,,Iyer-Manne,0.0,train,
+n_543,Director,,Xavier Shetty,,,
+n_544,BankAccount,,,,,LSPY3832060385050
+n_545,IPAddress,188.10.113.131,,,,
+n_546,Merchant,,"Mohanty, Chawla and Jha",0.0,train,
+n_547,Director,,Oni Swamy,,,
+n_548,BankAccount,,,,,BEWI1038657191826
+n_549,IPAddress,67.252.113.71,,,,
+n_550,Merchant,,De-Khalsa,0.0,train,
+n_551,Director,,Advika Murty,,,
+n_552,BankAccount,,,,,ZMWX5574313291212
+n_553,IPAddress,26.12.143.139,,,,
+n_554,Merchant,,Dara-Wason,0.0,train,
+n_555,Director,,Sarthak Seth,,,
+n_556,BankAccount,,,,,JOID1249035213568
+n_557,IPAddress,83.32.52.206,,,,
+n_558,Merchant,,Ghosh-Balasubramanian,0.0,train,
+n_559,Director,,Sneha Krish,,,
+n_560,Director,,Turvi Chaudry,,,
+n_561,BankAccount,,,,,ZZED0032365199410
+n_562,IPAddress,198.178.159.196,,,,
+n_563,Merchant,,"Sawhney, Dave and Chanda",0.0,train,
+n_564,Director,,Jason Basak,,,
+n_565,BankAccount,,,,,OBFS6670662532447
+n_566,IPAddress,209.27.217.36,,,,
+n_567,Merchant,,"Korpal, Merchant and Tara",0.0,train,
+n_568,Director,,Varenya Bhat,,,
+n_569,BankAccount,,,,,CIME6383806578759
+n_570,IPAddress,14.54.207.73,,,,
+n_571,Merchant,,Gole-Bal,0.0,train,
+n_572,Director,,Theodore Balan,,,
+n_573,Director,,Dalbir Sodhi,,,
+n_574,BankAccount,,,,,QLYS3213348039652
+n_575,Merchant,,Khalsa PLC,0.0,train,
+n_576,Director,,Jagrati Bala,,,
+n_577,BankAccount,,,,,WWLS9293784270103
+n_578,IPAddress,129.70.128.14,,,,
+n_579,Merchant,,"Sridhar, Acharya and Narula",0.0,train,
+n_580,Director,,Kalpit Oak,,,
+n_581,Director,,Ekiya Bhargava,,,
+n_582,BankAccount,,,,,AESW2185156915452
+n_583,IPAddress,193.223.173.54,,,,
+n_584,Merchant,,"Sur, Nadig and Ghosh",0.0,train,
+n_585,Director,,Udant Gill,,,
+n_586,Director,,Damyanti Menon,,,
+n_587,BankAccount,,,,,EFXA9690295939172
+n_588,IPAddress,36.250.200.178,,,,
+n_589,Merchant,,Palan LLC,0.0,train,
+n_590,Director,,Gaurang Nayak,,,
+n_591,BankAccount,,,,,OAIG3154100676267
+n_592,IPAddress,219.61.73.38,,,,
+n_593,Merchant,,"Prashad, Chaudhuri and Srinivas",0.0,train,
+n_594,Director,,Nicholas Seth,,,
+n_595,Director,,Bahadurjit Menon,,,
+n_596,BankAccount,,,,,AKID1526218159970
+n_597,IPAddress,21.71.168.49,,,,
+n_598,Merchant,,"Saraf, Dugar and Bera",0.0,train,
+n_599,Director,,Garima Jha,,,
+n_600,Director,,Nimrat Zachariah,,,
+n_601,BankAccount,,,,,IVJJ3106987205061
+n_602,IPAddress,62.189.179.80,,,,
+n_603,Merchant,,Chatterjee Inc,0.0,train,
+n_604,Director,,Onkar Manne,,,
+n_605,BankAccount,,,,,CPDJ6774186256527
+n_606,IPAddress,92.36.181.0,,,,
+n_607,Merchant,,Lall-Kara,0.0,train,
+n_608,BankAccount,,,,,ISBE1158693806868
+n_609,IPAddress,158.99.133.215,,,,
+n_610,Merchant,,"Keer, Soni and Mistry",0.0,train,
+n_611,Director,,Megha Banerjee,,,
+n_612,BankAccount,,,,,QSQZ9921722332061
+n_613,Merchant,,"Saran, Jaggi and Divan",0.0,train,
+n_614,Director,,Ekaja Bhavsar,,,
+n_615,BankAccount,,,,,CMRM8548709986162
+n_616,IPAddress,105.154.111.128,,,,
+n_617,Merchant,,Chaudhuri LLC,0.0,train,
+n_618,BankAccount,,,,,RLNI6799702462996
+n_619,IPAddress,85.55.50.233,,,,
+n_620,Merchant,,"Khanna, Bawa and Soman",0.0,train,
+n_621,Director,,Kashish Bahri,,,
+n_622,BankAccount,,,,,KZJJ4713247546913
+n_623,IPAddress,29.7.138.33,,,,
+n_624,Merchant,,"Sundaram, Varty and Prakash",0.0,train,
+n_625,Director,,Yutika Dutt,,,
+n_626,BankAccount,,,,,CJWQ6289023303070
+n_627,IPAddress,214.95.27.117,,,,
+n_628,Merchant,,Pillay-Shetty,0.0,train,
+n_629,Director,,Jatin Balasubramanian,,,
+n_630,Director,,Kashish Suresh,,,
+n_631,BankAccount,,,,,TOFP9855241406029
+n_632,IPAddress,182.219.178.165,,,,
+n_633,Merchant,,Kar Ltd,0.0,train,
+n_634,Director,,Amruta Rout,,,
+n_635,Director,,Aditya Som,,,
+n_636,BankAccount,,,,,EUFT0349446657437
+n_637,IPAddress,57.106.242.127,,,,
+n_638,Merchant,,"Chaudry, Amble and Vaidya",0.0,train,
+n_639,Director,,Barkha Misra,,,
+n_640,Director,,Vasatika Bhatt,,,
+n_641,BankAccount,,,,,KIUK4443283096520
+n_642,IPAddress,146.235.47.183,,,,
+n_643,Merchant,,Sahota-Ravel,0.0,train,
+n_644,Director,,Balendra Gupta,,,
+n_645,BankAccount,,,,,KXWH8758428241724
+n_646,IPAddress,181.219.178.40,,,,
+n_647,Merchant,,"Nayak, Chakraborty and Kapadia",0.0,train,
+n_648,Director,,Udant Mohanty,,,
+n_649,Director,,Garima Prabhu,,,
+n_650,BankAccount,,,,,ISJO1709991738168
+n_651,Merchant,,Sachdev-Bhagat,0.0,train,
+n_652,Director,,Laksh Iyer,,,
+n_653,Director,,Nimrat Shankar,,,
+n_654,BankAccount,,,,,EKWF1752500743292
+n_655,IPAddress,18.209.60.23,,,,
+n_656,Merchant,,Saraf Ltd,0.0,train,
+n_657,Director,,Netra Sanghvi,,,
+n_658,BankAccount,,,,,PMAB8350583003354
+n_659,IPAddress,88.140.23.73,,,,
+n_660,Merchant,,"Mohan, Ganesh and Bhattacharyya",0.0,train,
+n_661,Director,,Chanchal Mannan,,,
+n_662,Director,,Zinal Viswanathan,,,
+n_663,BankAccount,,,,,KNVE5753260332309
+n_664,IPAddress,9.248.120.179,,,,
+n_665,Merchant,,Barad-Prashad,0.0,train,
+n_666,Director,,Chanakya Bava,,,
+n_667,BankAccount,,,,,VDUA0167618472304
+n_668,IPAddress,38.118.116.45,,,,
+n_669,Merchant,,"Venkatesh, Madan and Devan",0.0,train,
+n_670,Director,,Henry Vaidya,,,
+n_671,Director,,Barkha Comar,,,
+n_672,BankAccount,,,,,ZDPG9348356420873
+n_673,Merchant,,"Srivastava, Narayanan and Keer",0.0,train,
+n_674,Director,,Agastya Chakraborty,,,
+n_675,BankAccount,,,,,DSVP2181143744701
+n_676,IPAddress,160.161.144.147,,,,
+n_677,Merchant,,Parsa-Munshi,0.0,train,
+n_678,Director,,Jack Chandran,,,
+n_679,Director,,Aditya Devi,,,
+n_680,BankAccount,,,,,VUFK5794155216674
+n_681,IPAddress,175.211.114.30,,,,
+n_682,Merchant,,Ganesan-Chowdhury,0.0,train,
+n_683,Director,,Daniel Dutta,,,
+n_684,Director,,Omaja Subramanian,,,
+n_685,BankAccount,,,,,ZSVO2965902771670
+n_686,IPAddress,84.28.121.124,,,,
+n_687,Merchant,,Vohra Ltd,0.0,train,
+n_688,BankAccount,,,,,SXSH5889163756289
+n_689,IPAddress,74.11.25.28,,,,
+n_690,Merchant,,"Singh, Tandon and Gandhi",0.0,train,
+n_691,BankAccount,,,,,CYPK3540838663177
+n_692,IPAddress,167.43.105.108,,,,
+n_693,Merchant,,Tara Group,0.0,train,
+n_694,BankAccount,,,,,KDPX0166088019948
+n_695,IPAddress,3.211.40.43,,,,
+n_696,Merchant,,Patla-Bhagat,0.0,train,
+n_697,Director,,Suhani Narula,,,
+n_698,BankAccount,,,,,RYTT7571130554885
+n_699,IPAddress,130.238.7.78,,,,
+n_700,Merchant,,Tailor and Sons,0.0,train,
+n_701,Director,,Hredhaan Kumar,,,
+n_702,BankAccount,,,,,TGGD6373516091779
+n_703,Merchant,,"Desai, Tara and Agrawal",0.0,train,
+n_704,Director,,Rachita Subramanian,,,
+n_705,BankAccount,,,,,QYFW9221699586693
+n_706,IPAddress,125.95.22.96,,,,
+n_707,Merchant,,Sethi-Deol,0.0,train,
+n_708,Director,,Nitara Vala,,,
+n_709,Director,,Dipta Kalla,,,
+n_710,BankAccount,,,,,GGTW4522885158799
+n_711,Merchant,,"Sahni, Walla and Mangal",0.0,train,
+n_712,Director,,Agastya Virk,,,
+n_713,BankAccount,,,,,DAME0034244204380
+n_714,IPAddress,60.247.78.241,,,,
+n_715,Merchant,,Kapur Ltd,0.0,train,
+n_716,Director,,Wazir Vaidya,,,
+n_717,Director,,Champak Raj,,,
+n_718,BankAccount,,,,,MNZV5800439735989
+n_719,Merchant,,Hari LLC,0.0,train,
+n_720,Director,,Peter Borde,,,
+n_721,Director,,Oscar Varkey,,,
+n_722,BankAccount,,,,,DMBN4842294057202
+n_723,IPAddress,204.104.38.229,,,,
+n_724,Merchant,,"Mitra, Swaminathan and Parmar",0.0,train,
+n_725,Director,,Eesha Vora,,,
+n_726,BankAccount,,,,,HFQC8268861533555
+n_727,IPAddress,62.100.15.101,,,,
+n_728,Merchant,,"Andra, Contractor and Pal",0.0,train,
+n_729,Director,,Wridesh Kohli,,,
+n_730,BankAccount,,,,,BVKM1648408588770
+n_731,Merchant,,Hans-Nagi,0.0,train,
+n_732,Director,,Gopal Ganesh,,,
+n_733,BankAccount,,,,,YRRA1336138612075
+n_734,IPAddress,68.176.24.131,,,,
+n_735,Merchant,,Gokhale LLC,0.0,train,
+n_736,Director,,Vedant Kuruvilla,,,
+n_737,BankAccount,,,,,NMOU6650618091901
+n_738,IPAddress,38.202.236.187,,,,
+n_739,Merchant,,Mitra-Chadha,0.0,train,
+n_740,Director,,Raksha Raj,,,
+n_741,Director,,Azaan Som,,,
+n_742,BankAccount,,,,,FRHE6842450882100
+n_743,Merchant,,"Ramesh, Yogi and Chada",0.0,train,
+n_744,BankAccount,,,,,JGXX5368222394312
+n_745,IPAddress,131.123.25.19,,,,
+n_746,Merchant,,"Shenoy, Bora and Mannan",0.0,train,
+n_747,Director,,Zashil Chaudhari,,,
+n_748,Director,,Vidhi Narayanan,,,
+n_749,BankAccount,,,,,LEVU3149135775949
+n_750,IPAddress,109.212.247.16,,,,
+n_751,Merchant,,Sangha-Ganguly,0.0,train,
+n_752,Director,,Dhriti Koshy,,,
+n_753,BankAccount,,,,,ZHWX6452577754781
+n_754,IPAddress,105.79.195.165,,,,
+n_755,Merchant,,Dey-Yohannan,0.0,train,
+n_756,Director,,Adya Bose,,,
+n_757,Director,,Anirudh Tripathi,,,
+n_758,BankAccount,,,,,UASS6930848872563
+n_759,IPAddress,217.79.221.120,,,,
+n_760,Merchant,,Shetty PLC,0.0,train,
+n_761,Director,,Mekhala Patla,,,
+n_762,Director,,William Gandhi,,,
+n_763,BankAccount,,,,,YQEO2299275037314
+n_764,IPAddress,34.189.95.152,,,,
+n_765,Merchant,,"Jhaveri, Vasa and Patel",0.0,train,
+n_766,Director,,Upasna Sha,,,
+n_767,Director,,Balveer Naik,,,
+n_768,BankAccount,,,,,DWQU4498926659184
+n_769,IPAddress,46.67.251.61,,,,
+n_770,Merchant,,"Ravi, Pandit and Pai",0.0,train,
+n_771,Director,,Vasatika Ahuja,,,
+n_772,BankAccount,,,,,QEOF3184322259136
+n_773,IPAddress,161.208.60.61,,,,
+n_774,Merchant,,Srinivas-Srinivas,0.0,train,
+n_775,Director,,Neel Roy,,,
+n_776,Director,,Yagnesh Bassi,,,
+n_777,BankAccount,,,,,ESSF2809202428699
+n_778,IPAddress,146.36.30.219,,,,
+n_779,Merchant,,Kalita Group,0.0,train,
+n_780,Director,,Vasatika Garde,,,
+n_781,Director,,Nirja Dhar,,,
+n_782,BankAccount,,,,,ZSYF9842579913662
+n_783,Merchant,,Babu and Sons,0.0,train,
+n_784,Director,,Mason Char,,,
+n_785,BankAccount,,,,,FPTT0881172980686
+n_786,IPAddress,34.199.177.94,,,,
+n_787,Merchant,,"Wagle, Sanghvi and Karnik",0.0,train,
+n_788,Director,,Lakshmi Palla,,,
+n_789,Director,,Pavani Desai,,,
+n_790,BankAccount,,,,,IPYH1498643009818
+n_791,IPAddress,77.37.148.117,,,,
+n_792,Merchant,,"Mutti, Rege and Pathak",0.0,train,
+n_793,Director,,Mohammed Sandhu,,,
+n_794,Director,,Advika Wason,,,
+n_795,BankAccount,,,,,NSLT4636887258874
+n_796,IPAddress,197.96.158.240,,,,
+n_797,Merchant,,"Rao, Devi and Dani",0.0,train,
+n_798,Director,,Sanya Edwin,,,
+n_799,BankAccount,,,,,DGQM5890260127961
+n_800,Merchant,,Lall and Sons,0.0,train,
+n_801,Director,,Fariq Barad,,,
+n_802,BankAccount,,,,,XMMT8490277038430
+n_803,IPAddress,163.180.236.159,,,,
+n_804,Merchant,,"Gara, Banik and Parsa",0.0,train,
+n_805,Director,,Aadi Dugar,,,
+n_806,Director,,Anya Ratta,,,
+n_807,BankAccount,,,,,LVMM9380118489554
+n_808,IPAddress,115.28.198.115,,,,
+n_809,Merchant,,Raval-Agrawal,0.0,train,
+n_810,BankAccount,,,,,IFNQ1818451848947
+n_811,IPAddress,195.239.60.172,,,,
+n_812,Merchant,,Nori Group,0.0,train,
+n_813,Director,,Ayaan Subramaniam,,,
+n_814,Director,,Aarna Bir,,,
+n_815,BankAccount,,,,,MUZH3565880434165
+n_816,IPAddress,75.108.79.122,,,,
+n_817,Merchant,,Murthy-Pandya,0.0,train,
+n_818,Director,,Amruta Goswami,,,
+n_819,Director,,Wishi Iyengar,,,
+n_820,BankAccount,,,,,HXHI3333952111790
+n_821,IPAddress,177.90.56.49,,,,
+n_822,Merchant,,Prabhu-Murty,0.0,train,
+n_823,Director,,Anvi Swaminathan,,,
+n_824,Director,,Yasti Mammen,,,
+n_825,BankAccount,,,,,MHYS2086780856271
+n_826,IPAddress,157.113.203.237,,,,
+n_827,Merchant,,Anand-Arora,0.0,train,
+n_828,Director,,Ladli Chaudhuri,,,
+n_829,Director,,Janaki Lad,,,
+n_830,BankAccount,,,,,FRIH4795527636556
+n_831,IPAddress,126.92.26.112,,,,
+n_832,Merchant,,"Deep, Karnik and Chaudhry",0.0,train,
+n_833,Director,,Warinder Sankaran,,,
+n_834,BankAccount,,,,,MGEZ2702672885744
+n_835,IPAddress,2.48.218.181,,,,
+n_836,Merchant,,Chaudhary-Gade,0.0,train,
+n_837,Director,,Tanveer Kumar,,,
+n_838,BankAccount,,,,,PUDO5455884506159
+n_839,Merchant,,Yohannan and Sons,0.0,train,
+n_840,Director,,Isha Nair,,,
+n_841,Director,,Sanya Brar,,,
+n_842,BankAccount,,,,,MTJO2256996112535
+n_843,IPAddress,50.165.149.30,,,,
+n_844,Merchant,,"Loke, Rana and Madan",0.0,train,
+n_845,Director,,Janani Verma,,,
+n_846,Director,,Odika Ganesh,,,
+n_847,BankAccount,,,,,FAEX3413261117800
+n_848,IPAddress,178.169.254.111,,,,
+n_849,Merchant,,Lala PLC,0.0,train,
+n_850,Director,,Frado Ramakrishnan,,,
+n_851,BankAccount,,,,,JHHX4722820055778
+n_852,IPAddress,207.143.10.220,,,,
+n_853,Merchant,,Zacharia and Sons,0.0,train,
+n_854,Director,,Radhika Viswanathan,,,
+n_855,BankAccount,,,,,UURJ5783174564240
+n_856,IPAddress,72.185.37.138,,,,
+n_857,Merchant,,Mangat-Singh,0.0,train,
+n_858,Director,,Vyanjana Sood,,,
+n_859,BankAccount,,,,,JAYN4930853686632
+n_860,IPAddress,188.120.156.237,,,,
+n_861,Merchant,,Kannan-Lall,0.0,train,
+n_862,Director,,Pahal Khatri,,,
+n_863,BankAccount,,,,,QYZT4484631224179
+n_864,IPAddress,31.190.110.111,,,,
+n_865,Merchant,,Nagi Inc,0.0,train,
+n_866,Director,,Chandran Warrior,,,
+n_867,Director,,Quincy Chaudry,,,
+n_868,BankAccount,,,,,JIEW7031207356475
+n_869,IPAddress,17.3.253.144,,,,
+n_870,Merchant,,Buch-Dhingra,0.0,train,
+n_871,Director,,Amaira Ramanathan,,,
+n_872,BankAccount,,,,,CRPF3460136730371
+n_873,IPAddress,11.85.204.169,,,,
+n_874,Merchant,,Ramachandran-Muni,0.0,train,
+n_875,Director,,Nathan Basak,,,
+n_876,BankAccount,,,,,XRQD4743503136502
+n_877,IPAddress,161.234.21.176,,,,
+n_878,Merchant,,Kibe-Andra,0.0,train,
+n_879,Director,,Vaishnavi Dubey,,,
+n_880,BankAccount,,,,,LYCH2719500528127
+n_881,IPAddress,117.142.157.10,,,,
+n_882,Merchant,,Hans-Bail,0.0,train,
+n_883,Director,,Ishita Desai,,,
+n_884,BankAccount,,,,,IBPW7848739285574
+n_885,Merchant,,"Dyal, Biswas and Wali",0.0,train,
+n_886,Director,,Shivani Merchant,,,
+n_887,BankAccount,,,,,IRLO0862095935186
+n_888,IPAddress,99.250.251.13,,,,
+n_889,Merchant,,"Dube, Mandal and Naidu",0.0,train,
+n_890,Director,,Ekanta Choudhry,,,
+n_891,Director,,Ekalinga Bassi,,,
+n_892,BankAccount,,,,,EFBG1731096789940
+n_893,IPAddress,36.137.50.244,,,,
+n_894,Merchant,,Joshi Ltd,0.0,train,
+n_895,Director,,Fariq Sidhu,,,
+n_896,BankAccount,,,,,ZUBL8650948014138
+n_897,IPAddress,78.200.255.187,,,,
+n_898,Merchant,,"Rajan, Gupta and Hans",0.0,train,
+n_899,Director,,Praneel Sagar,,,
+n_900,Director,,Ishita Shanker,,,
+n_901,BankAccount,,,,,WVND2286852897558
+n_902,IPAddress,199.166.57.16,,,,
+n_903,Merchant,,Sachar-Sani,0.0,train,
+n_904,Director,,Wridesh Kala,,,
+n_905,Director,,Aachal Parsa,,,
+n_906,BankAccount,,,,,OOMA0490824043350
+n_907,IPAddress,184.212.164.12,,,,
+n_908,Merchant,,"Vaidya, Dubey and Chandra",0.0,train,
+n_909,Director,,Triveni Parekh,,,
+n_910,BankAccount,,,,,EEIL9334419693157
+n_911,IPAddress,105.134.156.117,,,,
+n_912,Merchant,,"Mital, Barad and Raj",0.0,train,
+n_913,Director,,Daksh Natt,,,
+n_914,BankAccount,,,,,LNND3906048058925
+n_915,IPAddress,11.136.98.159,,,,
+n_916,Merchant,,Bedi Ltd,0.0,train,
+n_917,BankAccount,,,,,XMOY9981364622517
+n_918,Merchant,,"Bawa, Rastogi and Lala",0.0,train,
+n_919,Director,,Mohini Thaker,,,
+n_920,Director,,Kalpit Deshmukh,,,
+n_921,BankAccount,,,,,PRGP6938983314659
+n_922,IPAddress,90.120.32.220,,,,
+n_923,Merchant,,Pau-Pall,0.0,train,
+n_924,Director,,Ekani Padmanabhan,,,
+n_925,Director,,Dalaja Gara,,,
+n_926,BankAccount,,,,,LTZO9270335211039
+n_927,Merchant,,Mani Inc,0.0,train,
+n_928,Director,,Indrajit Mody,,,
+n_929,Director,,Urishilla Bajaj,,,
+n_930,BankAccount,,,,,KGXR3388487920698
+n_931,Merchant,,Kumer and Sons,0.0,train,
+n_932,Director,,Bhanumati Iyer,,,
+n_933,BankAccount,,,,,ZWTI0701645104636
+n_934,IPAddress,9.151.250.15,,,,
+n_935,Merchant,,Sundaram-Wali,0.0,train,
+n_936,Director,,Quincy Issac,,,
+n_937,BankAccount,,,,,QORW0038457620555
+n_938,IPAddress,143.29.250.146,,,,
+n_939,Merchant,,"Majumdar, Bhatia and Kurian",0.0,train,
+n_940,Director,,Ayushman Mammen,,,
+n_941,BankAccount,,,,,HEKM2168936392649
+n_942,Merchant,,Sen-Deep,0.0,train,
+n_943,Director,,Lakshit Jain,,,
+n_944,Director,,Dayamai Viswanathan,,,
+n_945,BankAccount,,,,,ENYE9251881252056
+n_946,IPAddress,203.205.168.56,,,,
+n_947,Merchant,,Mahal-Doshi,0.0,train,
+n_948,Director,,Hredhaan Deep,,,
+n_949,Director,,Atharv Loke,,,
+n_950,BankAccount,,,,,TSTH9330517289752
+n_951,IPAddress,169.125.207.96,,,,
+n_952,Merchant,,Devan-Gade,0.0,train,
+n_953,Director,,Upkaar Bali,,,
+n_954,Director,,Alexander Madan,,,
+n_955,BankAccount,,,,,NHXV3312797573660
+n_956,IPAddress,152.88.12.230,,,,
+n_957,Merchant,,"Munshi, Ramesh and Yadav",0.0,train,
+n_958,Director,,Ikbal Seth,,,
+n_959,Director,,Brijesh Korpal,,,
+n_960,BankAccount,,,,,QRMX0868034764472
+n_961,IPAddress,35.125.177.73,,,,
+n_962,Merchant,,"Varughese, Dhar and Sheth",0.0,train,
+n_963,Director,,Gautam Tella,,,
+n_964,BankAccount,,,,,DFYS8266570279371
+n_965,Merchant,,Naik-Gade,0.0,train,
+n_966,Director,,Gavin Comar,,,
+n_967,BankAccount,,,,,WOUL1868926860259
+n_968,IPAddress,212.205.136.255,,,,
+n_969,Merchant,,Dhillon and Sons,0.0,train,
+n_970,Director,,Oni Morar,,,
+n_971,Director,,Sanaya Mani,,,
+n_972,BankAccount,,,,,UFDE3094077780973
+n_973,IPAddress,119.156.132.44,,,,
+n_974,Merchant,,Rout-Sathe,0.0,train,
+n_975,Director,,Abeer Konda,,,
+n_976,BankAccount,,,,,RITU8302205020994
+n_977,IPAddress,37.156.235.190,,,,
+n_978,Merchant,,Chopra Group,0.0,train,
+n_979,Director,,Neel Mane,,,
+n_980,Director,,Tamanna Parsa,,,
+n_981,BankAccount,,,,,BCYJ5561681472145
+n_982,Merchant,,"Sachdev, Vohra and Kadakia",0.0,train,
+n_983,Director,,Dalbir Chopra,,,
+n_984,Director,,Veda Mani,,,
+n_985,BankAccount,,,,,NTKI8995299787729
+n_986,IPAddress,116.165.214.206,,,,
+n_987,Merchant,,Agarwal Inc,0.0,train,
+n_988,Director,,Udyati Dalal,,,
+n_989,Director,,Oeshi Sachdev,,,
+n_990,BankAccount,,,,,BKLR3034414488501
+n_991,IPAddress,149.216.222.64,,,,
+n_992,Merchant,,Balakrishnan-Gill,0.0,train,
+n_993,Director,,Ganga Nigam,,,
+n_994,BankAccount,,,,,VPPZ0272785760849
+n_995,IPAddress,186.24.153.105,,,,
+n_996,Merchant,,"Wason, Bahl and Joshi",0.0,train,
+n_997,Director,,Irya Bhatti,,,
+n_998,Director,,Avni Balasubramanian,,,
+n_999,BankAccount,,,,,KMUR2996291450461
+n_1000,IPAddress,23.154.195.235,,,,
+n_1001,Merchant,,Seth-Mittal,0.0,train,
+n_1002,Director,,Chasmum Gill,,,
+n_1003,BankAccount,,,,,DLZB3178078235784
+n_1004,IPAddress,180.149.223.125,,,,
+n_1005,Merchant,,Varty Ltd,0.0,train,
+n_1006,Director,,Samesh Bansal,,,
+n_1007,Director,,Lila Vig,,,
+n_1008,BankAccount,,,,,DAJB9157018409435
+n_1009,Merchant,,Hans LLC,0.0,train,
+n_1010,Director,,Eiravati Sastry,,,
+n_1011,BankAccount,,,,,VDIE2410988138585
+n_1012,IPAddress,125.34.16.237,,,,
+n_1013,Merchant,,"Konda, Garg and Bobal",0.0,train,
+n_1014,Director,,Hamsini Zachariah,,,
+n_1015,Director,,Chandresh De,,,
+n_1016,BankAccount,,,,,APVB1601662997954
+n_1017,Merchant,,Hora-Walla,0.0,train,
+n_1018,Director,,Udyati Deep,,,
+n_1019,Director,,Upadhriti Chatterjee,,,
+n_1020,BankAccount,,,,,OJVU7733294562557
+n_1021,IPAddress,18.23.120.193,,,,
+n_1022,Merchant,,Chowdhury-Panchal,0.0,train,
+n_1023,Director,,Triya Garde,,,
+n_1024,BankAccount,,,,,JYLT9281615814876
+n_1025,IPAddress,143.68.209.73,,,,
+n_1026,Merchant,,"Kohli, Dutt and Subramaniam",0.0,train,
+n_1027,Director,,Dominic Oak,,,
+n_1028,Director,,Raagini Saran,,,
+n_1029,BankAccount,,,,,SZKR3219719975817
+n_1030,IPAddress,110.126.33.137,,,,
+n_1031,Merchant,,Chopra Ltd,0.0,train,
+n_1032,Director,,Falak Talwar,,,
+n_1033,BankAccount,,,,,UVBC3290227846997
+n_1034,Merchant,,Jha Ltd,0.0,train,
+n_1035,Director,,Chandani Modi,,,
+n_1036,BankAccount,,,,,NWLC9098624058008
+n_1037,IPAddress,174.223.187.166,,,,
+n_1038,Merchant,,Manda Inc,0.0,train,
+n_1039,BankAccount,,,,,HNWS6566668327238
+n_1040,Merchant,,Parsa-Sahni,0.0,train,
+n_1041,Director,,Bhavya Dass,,,
+n_1042,BankAccount,,,,,EACU0276212679692
+n_1043,IPAddress,29.146.109.237,,,,
+n_1044,Merchant,,"Sengupta, Rajagopalan and Pant",0.0,train,
+n_1045,Director,,Quincy Samra,,,
+n_1046,Director,,Wishi Khalsa,,,
+n_1047,BankAccount,,,,,WQIN8950097519712
+n_1048,IPAddress,184.241.2.253,,,,
+n_1049,Merchant,,Varughese-Brar,0.0,train,
+n_1050,Director,,Yatan Sodhi,,,
+n_1051,Director,,Devika Bera,,,
+n_1052,BankAccount,,,,,KRYA7787956544209
+n_1053,IPAddress,184.85.140.219,,,,
+n_1054,Merchant,,Solanki PLC,0.0,train,
+n_1055,Director,,Charan Manne,,,
+n_1056,BankAccount,,,,,ZXTA4712814429444
+n_1057,IPAddress,71.35.160.26,,,,
+n_1058,Merchant,,"Ghosh, Dora and Sekhon",0.0,train,
+n_1059,Director,,Parth Lal,,,
+n_1060,BankAccount,,,,,ZWHP2805129276637
+n_1061,IPAddress,181.90.98.109,,,,
+n_1062,Merchant,,Pai Inc,0.0,train,
+n_1063,Director,,Jack Ben,,,
+n_1064,Director,,Ucchal Rastogi,,,
+n_1065,BankAccount,,,,,PJPX8366742860476
+n_1066,IPAddress,130.160.8.89,,,,
+n_1067,Merchant,,Wali Ltd,0.0,train,
+n_1068,Director,,Rachana Mahajan,,,
+n_1069,Director,,Anamika Loke,,,
+n_1070,BankAccount,,,,,ZDIU9673938525800
+n_1071,IPAddress,172.24.127.57,,,,
+n_1072,Merchant,,Chaudhari-Vohra,0.0,train,
+n_1073,Director,,Sanaya Panchal,,,
+n_1074,Director,,Bhanumati Krishnamurthy,,,
+n_1075,BankAccount,,,,,GBAT1093911192692
+n_1076,IPAddress,213.229.123.130,,,,
+n_1077,Merchant,,Menon-Sibal,0.0,train,
+n_1078,Director,,Sudiksha Malhotra,,,
+n_1079,Director,,Ekiya Kurian,,,
+n_1080,BankAccount,,,,,FYCI0665044271739
+n_1081,IPAddress,63.125.221.228,,,,
+n_1082,Merchant,,Dhawan PLC,0.0,train,
+n_1083,Director,,Tejas Cherian,,,
+n_1084,Director,,Aashi Chauhan,,,
+n_1085,BankAccount,,,,,BCCS4707200642569
+n_1086,IPAddress,95.103.74.206,,,,
+n_1087,Merchant,,Sarin-Raval,0.0,train,
+n_1088,Director,,Upkaar Aggarwal,,,
+n_1089,Director,,Vasatika Dara,,,
+n_1090,BankAccount,,,,,SRLK4601585174328
+n_1091,IPAddress,88.150.35.58,,,,
+n_1092,Merchant,,"Halder, Mistry and Ramakrishnan",0.0,train,
+n_1093,Director,,Jagrati Sur,,,
+n_1094,BankAccount,,,,,CUOX3203093761847
+n_1095,IPAddress,15.48.92.210,,,,
+n_1096,Merchant,,Bansal LLC,0.0,train,
+n_1097,Director,,Geetika Basak,,,
+n_1098,Director,,Jagat Kakar,,,
+n_1099,BankAccount,,,,,ZUVQ7829310270790
+n_1100,IPAddress,114.22.174.188,,,,
+n_1101,Merchant,,Gera Ltd,0.0,train,
+n_1102,Director,,Damyanti Chatterjee,,,
+n_1103,BankAccount,,,,,OTFS1117993136565
+n_1104,IPAddress,72.202.1.71,,,,
+n_1105,Merchant,,Kala-Bath,0.0,train,
+n_1106,Director,,Gautami Bhatnagar,,,
+n_1107,Director,,Anusha Dhaliwal,,,
+n_1108,BankAccount,,,,,YNFW5827390219620
+n_1109,IPAddress,210.149.71.148,,,,
+n_1110,Merchant,,Amble and Sons,0.0,train,
+n_1111,Director,,Bhanumati Saha,,,
+n_1112,BankAccount,,,,,WZZY7232487632909
+n_1113,IPAddress,111.255.138.44,,,,
+n_1114,Merchant,,"Chakrabarti, Mitra and Pall",0.0,train,
+n_1115,BankAccount,,,,,NARH3181958837340
+n_1116,IPAddress,97.49.152.230,,,,
+n_1117,Merchant,,"Som, Tank and Goda",0.0,train,
+n_1118,Director,,Caleb Bhagat,,,
+n_1119,BankAccount,,,,,ULJG6459701082207
+n_1120,IPAddress,9.34.61.144,,,,
+n_1121,Merchant,,Saxena PLC,0.0,train,
+n_1122,Director,,Oni Issac,,,
+n_1123,Director,,Victor Choudhary,,,
+n_1124,BankAccount,,,,,KHDH6363179706239
+n_1125,Merchant,,Gokhale-Ram,0.0,train,
+n_1126,Director,,Laban Shankar,,,
+n_1127,BankAccount,,,,,XGUL4352090421776
+n_1128,Merchant,,Oza and Sons,0.0,train,
+n_1129,Director,,Naksh Garde,,,
+n_1130,Director,,Gabriel Sabharwal,,,
+n_1131,BankAccount,,,,,QPGS7740633569392
+n_1132,IPAddress,208.41.152.116,,,,
+n_1133,Merchant,,Basu-Baria,0.0,train,
+n_1134,Director,,Yamini Bandi,,,
+n_1135,Director,,Meera Srinivas,,,
+n_1136,BankAccount,,,,,ZZWD7731806325431
+n_1137,IPAddress,83.130.113.101,,,,
+n_1138,Merchant,,Sharaf PLC,0.0,train,
+n_1139,Director,,Suhani Sheth,,,
+n_1140,Director,,Nidra Goyal,,,
+n_1141,BankAccount,,,,,ZLUO0165804649893
+n_1142,IPAddress,161.75.155.180,,,,
+n_1143,Merchant,,"Nayak, Bhakta and Varma",0.0,train,
+n_1144,BankAccount,,,,,VLBD6579055281832
+n_1145,IPAddress,192.59.209.112,,,,
+n_1146,Merchant,,"Comar, Sridhar and Kadakia",0.0,train,
+n_1147,Director,,Ekani Pandit,,,
+n_1148,Director,,Yahvi Sampath,,,
+n_1149,BankAccount,,,,,IBCL5778817884795
+n_1150,IPAddress,161.12.207.133,,,,
+n_1151,Merchant,,Shankar Inc,0.0,train,
+n_1152,Director,,Mahika Gola,,,
+n_1153,Director,,Faraj Chopra,,,
+n_1154,BankAccount,,,,,FIDW2723804682756
+n_1155,IPAddress,16.175.251.164,,,,
+n_1156,Merchant,,Gulati-Bhatnagar,0.0,train,
+n_1157,Director,,Vincent Venkatesh,,,
+n_1158,BankAccount,,,,,UKNS5579887749242
+n_1159,IPAddress,163.160.230.24,,,,
+n_1160,Merchant,,Prabhu-Mani,0.0,train,
+n_1161,Director,,Manbir Pandit,,,
+n_1162,BankAccount,,,,,JOFT2842222310592
+n_1163,Merchant,,Lad-Pingle,0.0,train,
+n_1164,Director,,Samesh Banerjee,,,
+n_1165,Director,,Hemangini Divan,,,
+n_1166,BankAccount,,,,,LORF8410672752088
+n_1167,IPAddress,50.234.103.94,,,,
+n_1168,Merchant,,Mann-Din,0.0,train,
+n_1169,Director,,Hamsini Chowdhury,,,
+n_1170,Director,,Banjeet Dewan,,,
+n_1171,BankAccount,,,,,VRDJ0693751509398
+n_1172,IPAddress,116.114.99.194,,,,
+n_1173,Merchant,,Bajaj Inc,0.0,train,
+n_1174,Director,,Gagan Vala,,,
+n_1175,BankAccount,,,,,MGPK9980562656504
+n_1176,Merchant,,Panchal-Morar,0.0,train,
+n_1177,Director,,Gagan Kale,,,
+n_1178,BankAccount,,,,,XOXN7426629912347
+n_1179,IPAddress,197.87.119.124,,,,
+n_1180,Merchant,,Prashad Inc,0.0,train,
+n_1181,Director,,Nimrat Mahajan,,,
+n_1182,BankAccount,,,,,NFRO9232648704947
+n_1183,IPAddress,3.218.147.30,,,,
+n_1184,Merchant,,Bala Inc,0.0,train,
+n_1185,Director,,Adweta Mital,,,
+n_1186,Director,,Jeet Mani,,,
+n_1187,BankAccount,,,,,NFPW3014719597964
+n_1188,IPAddress,158.119.115.117,,,,
+n_1189,Merchant,,"Dar, Prakash and Vala",0.0,train,
+n_1190,Director,,Aashi Gaba,,,
+n_1191,Director,,Madhav Nagarajan,,,
+n_1192,BankAccount,,,,,OWEL2045650448183
+n_1193,IPAddress,181.221.41.219,,,,
+n_1194,Merchant,,Ganesh PLC,0.0,train,
+n_1195,Director,,Diya Mitra,,,
+n_1196,BankAccount,,,,,IVWW5189520284576
+n_1197,Merchant,,Gaba-Chaudry,0.0,train,
+n_1198,Director,,Mohammed Thakur,,,
+n_1199,Director,,Raghav Vora,,,
+n_1200,BankAccount,,,,,RWRW1671120754527
+n_1201,IPAddress,218.242.8.162,,,,
+n_1202,Merchant,,Modi Inc,0.0,train,
+n_1203,Director,,Tristan Dave,,,
+n_1204,Director,,Utkarsh Mohanty,,,
+n_1205,BankAccount,,,,,EGEC6110760310890
+n_1206,IPAddress,24.24.173.158,,,,
+n_1207,Merchant,,Bhatti LLC,0.0,train,
+n_1208,Director,,Gopal Dasgupta,,,
+n_1209,Director,,Ryan Goyal,,,
+n_1210,BankAccount,,,,,VLAC2495528938911
+n_1211,IPAddress,160.57.71.156,,,,
+n_1212,Merchant,,"Kalla, Handa and Manda",0.0,train,
+n_1213,Director,,Aayush Chaudhary,,,
+n_1214,Director,,Yamini Soman,,,
+n_1215,BankAccount,,,,,LWSF7125663836151
+n_1216,IPAddress,20.89.100.228,,,,
+n_1217,Merchant,,Patel-Mani,0.0,train,
+n_1218,Director,,Fitan Narang,,,
+n_1219,Director,,Jack Rajan,,,
+n_1220,BankAccount,,,,,JOTX4738646317520
+n_1221,Merchant,,"Swamy, Cheema and Randhawa",0.0,train,
+n_1222,Director,,Frederick Dar,,,
+n_1223,BankAccount,,,,,EMMW9121535396136
+n_1224,IPAddress,184.233.159.69,,,,
+n_1225,Merchant,,"Mahajan, Ratta and Parekh",0.0,train,
+n_1226,Director,,Nidhi Sundaram,,,
+n_1227,Director,,Manan Sha,,,
+n_1228,BankAccount,,,,,DDIP7320101702695
+n_1229,IPAddress,105.138.149.33,,,,
+n_1230,Merchant,,Venkatesh Group,0.0,train,
+n_1231,Director,,Saksham Memon,,,
+n_1232,Director,,Vritti Thaman,,,
+n_1233,BankAccount,,,,,IRKZ8800616756770
+n_1234,IPAddress,83.101.21.13,,,,
+n_1235,Merchant,,"Gala, Swamy and Sankar",0.0,train,
+n_1236,Director,,Devika Ramachandran,,,
+n_1237,Director,,Imaran Swaminathan,,,
+n_1238,BankAccount,,,,,VRVR9778280647969
+n_1239,IPAddress,146.52.57.128,,,,
+n_1240,Merchant,,Bhat-Bala,0.0,train,
+n_1241,Director,,Kabir Peri,,,
+n_1242,BankAccount,,,,,LZXS0561655650333
+n_1243,IPAddress,133.111.175.116,,,,
+n_1244,Merchant,,"Bhatti, Mody and Contractor",0.0,train,
+n_1245,Director,,Omkaar Bahri,,,
+n_1246,BankAccount,,,,,RKBO6986407905696
+n_1247,IPAddress,38.65.35.41,,,,
+n_1248,Merchant,,Chaudhry-Jha,0.0,train,
+n_1249,Director,,Watika Thakkar,,,
+n_1250,Director,,Ojas Mistry,,,
+n_1251,BankAccount,,,,,LNGP1834404963919
+n_1252,IPAddress,85.142.193.62,,,,
+n_1253,Merchant,,Bhavsar-Wali,0.0,train,
+n_1254,BankAccount,,,,,PNGL1484685366498
+n_1255,IPAddress,21.199.123.109,,,,
+n_1256,Merchant,,Varty and Sons,0.0,train,
+n_1257,Director,,Tanay Sibal,,,
+n_1258,BankAccount,,,,,IURZ9690835723246
+n_1259,Merchant,,Nagar-Bhatt,0.0,train,
+n_1260,Director,,Nitara Loke,,,
+n_1261,Director,,Naveen Kunda,,,
+n_1262,BankAccount,,,,,VTHM3123034778660
+n_1263,IPAddress,103.23.65.206,,,,
+n_1264,Merchant,,Balakrishnan LLC,0.0,train,
+n_1265,Director,,Patrick Basak,,,
+n_1266,BankAccount,,,,,XPZA0159416516231
+n_1267,IPAddress,135.184.155.206,,,,
+n_1268,Merchant,,"Vohra, Krishnamurthy and Taneja",0.0,train,
+n_1269,Director,,Wazir Das,,,
+n_1270,Director,,Forum Ramakrishnan,,,
+n_1271,BankAccount,,,,,ZXXH6321234764907
+n_1272,IPAddress,9.206.176.143,,,,
+n_1273,Merchant,,Sampath-Soman,0.0,train,
+n_1274,Director,,Arunima Dhillon,,,
+n_1275,Director,,Vaishnavi Pillai,,,
+n_1276,BankAccount,,,,,JAUT0034864518376
+n_1277,IPAddress,89.38.130.254,,,,
+n_1278,Merchant,,Mitra-Chana,0.0,train,
+n_1279,Director,,Chameli Kade,,,
+n_1280,BankAccount,,,,,FOUK6041776561248
+n_1281,Merchant,,Pandey Group,0.0,train,
+n_1282,Director,,Sudiksha Bala,,,
+n_1283,Director,,Qarin Sawhney,,,
+n_1284,BankAccount,,,,,ZUEA6345911238296
+n_1285,IPAddress,165.28.66.67,,,,
+n_1286,Merchant,,Sridhar-Deol,0.0,train,
+n_1287,Director,,Oscar Narang,,,
+n_1288,Director,,Rushil Chad,,,
+n_1289,BankAccount,,,,,NLFM6930089317342
+n_1290,Merchant,,Rattan PLC,0.0,train,
+n_1291,BankAccount,,,,,NTIE1529108677133
+n_1292,Merchant,,Lata LLC,0.0,train,
+n_1293,Director,,Lavanya De,,,
+n_1294,Director,,Samuel Kale,,,
+n_1295,BankAccount,,,,,JXVG6262044397359
+n_1296,IPAddress,157.82.143.146,,,,
+n_1297,Merchant,,Anne Group,0.0,train,
+n_1298,Director,,Ekiya Rao,,,
+n_1299,Director,,Leela Sampath,,,
+n_1300,BankAccount,,,,,XTIC1800537599004
+n_1301,Merchant,,"Raj, Mittal and Rana",0.0,train,
+n_1302,Director,,Kevin Barman,,,
+n_1303,Director,,Abha Gara,,,
+n_1304,BankAccount,,,,,QPKO2158624150274
+n_1305,IPAddress,189.195.67.195,,,,
+n_1306,Merchant,,Lall-Lalla,0.0,train,
+n_1307,Director,,Rajata Gala,,,
+n_1308,BankAccount,,,,,KXPY2870320320742
+n_1309,IPAddress,155.238.119.141,,,,
+n_1310,Merchant,,Talwar Inc,0.0,train,
+n_1311,Director,,Ishanvi Sundaram,,,
+n_1312,Director,,Waida Chowdhury,,,
+n_1313,BankAccount,,,,,XEDL1342284993908
+n_1314,IPAddress,181.199.56.83,,,,
+n_1315,Merchant,,Bose-Koshy,0.0,train,
+n_1316,Director,,Girindra Narasimhan,,,
+n_1317,BankAccount,,,,,AJVV1659152017774
+n_1318,IPAddress,128.95.29.113,,,,
+n_1319,Merchant,,Bassi-Sethi,0.0,train,
+n_1320,Director,,Kai Kakar,,,
+n_1321,Director,,Barkha Naidu,,,
+n_1322,BankAccount,,,,,ZBXC8961642361032
+n_1323,Merchant,,Rau-Mane,0.0,train,
+n_1324,Director,,Jai Misra,,,
+n_1325,BankAccount,,,,,PZNX4925158377674
+n_1326,IPAddress,1.216.156.181,,,,
+n_1327,Merchant,,Sami LLC,0.0,train,
+n_1328,Director,,Radha Sandhu,,,
+n_1329,Director,,Banjeet Varghese,,,
+n_1330,BankAccount,,,,,KOVH2788147617422
+n_1331,IPAddress,147.57.229.53,,,,
+n_1332,Merchant,,Virk Group,0.0,train,
+n_1333,Director,,Champak Bose,,,
+n_1334,Director,,Yochana Chokshi,,,
+n_1335,BankAccount,,,,,QNND7945491801722
+n_1336,IPAddress,170.46.88.77,,,,
+n_1337,Merchant,,Saha Ltd,0.0,train,
+n_1338,Director,,Dipta Sha,,,
+n_1339,Director,,Alka Om,,,
+n_1340,BankAccount,,,,,ZFGF1941680061027
+n_1341,IPAddress,28.246.130.164,,,,
+n_1342,Merchant,,"Sur, Mitter and Patel",0.0,train,
+n_1343,Director,,Chasmum Chahal,,,
+n_1344,Director,,Krishna Atwal,,,
+n_1345,BankAccount,,,,,GDAW3037236831472
+n_1346,IPAddress,16.178.185.52,,,,
+n_1347,Merchant,,Ganesan and Sons,0.0,train,
+n_1348,Director,,Vedhika Sinha,,,
+n_1349,BankAccount,,,,,AOSH3496050166799
+n_1350,IPAddress,185.78.6.102,,,,
+n_1351,Merchant,,Sura Group,0.0,train,
+n_1352,BankAccount,,,,,PQSX9730806958146
+n_1353,IPAddress,211.189.250.128,,,,
+n_1354,Merchant,,Palan-Sen,0.0,train,
+n_1355,Director,,Ansh Edwin,,,
+n_1356,Director,,Rehaan Singh,,,
+n_1357,BankAccount,,,,,LOHQ3959724665729
+n_1358,Merchant,,Mandal Ltd,0.0,train,
+n_1359,Director,,Vasudha Dayal,,,
+n_1360,BankAccount,,,,,FGFT7167433800545
+n_1361,IPAddress,139.46.134.241,,,,
+n_1362,Merchant,,"Balay, Bhatt and Nazareth",0.0,train,
+n_1363,Director,,Ishaan Karan,,,
+n_1364,BankAccount,,,,,DRHP4550842891077
+n_1365,IPAddress,203.78.50.251,,,,
+n_1366,Merchant,,Chaudry PLC,0.0,train,
+n_1367,Director,,Yashica Cheema,,,
+n_1368,BankAccount,,,,,FUDG5247871255213
+n_1369,Merchant,,Sagar-Ahuja,0.0,train,
+n_1370,Director,,Urvi Om,,,
+n_1371,BankAccount,,,,,JQFC4565328632666
+n_1372,IPAddress,219.147.167.213,,,,
+n_1373,Merchant,,Savant and Sons,0.0,train,
+n_1374,Director,,Zansi Boase,,,
+n_1375,BankAccount,,,,,CKKM2606029084668
+n_1376,IPAddress,218.9.202.149,,,,
+n_1377,Merchant,,Anand-Mammen,0.0,train,
+n_1378,Director,,Netra Sehgal,,,
+n_1379,BankAccount,,,,,UGRT9756341085628
+n_1380,IPAddress,199.145.94.254,,,,
+n_1381,Merchant,,Chander PLC,0.0,train,
+n_1382,Director,,Harini Dutta,,,
+n_1383,BankAccount,,,,,AAZR9434681054851
+n_1384,IPAddress,71.251.230.157,,,,
+n_1385,Merchant,,Misra-Ahluwalia,0.0,train,
+n_1386,Director,,Harinakshi Keer,,,
+n_1387,BankAccount,,,,,ZXSS8935449268315
+n_1388,IPAddress,11.20.180.211,,,,
+n_1389,Merchant,,Sha-Chaudhari,0.0,train,
+n_1390,Director,,Pavani Sabharwal,,,
+n_1391,BankAccount,,,,,CCBN2737158698864
+n_1392,IPAddress,155.25.89.103,,,,
+n_1393,Merchant,,Suri-Saha,0.0,train,
+n_1394,BankAccount,,,,,FEQE7728813770285
+n_1395,IPAddress,211.204.238.122,,,,
+n_1396,Merchant,,"Rege, Choudhary and Dara",0.0,train,
+n_1397,Director,,Bimala Baria,,,
+n_1398,Director,,Jacob Prabhu,,,
+n_1399,BankAccount,,,,,JLJJ7022960443270
+n_1400,Merchant,,Palla Inc,0.0,train,
+n_1401,BankAccount,,,,,BNPS4975679228777
+n_1402,IPAddress,109.52.21.254,,,,
+n_1403,Merchant,,Rout Group,0.0,train,
+n_1404,Director,,Megha Nori,,,
+n_1405,Director,,Saanvi Mall,,,
+n_1406,BankAccount,,,,,UCFW0948181398909
+n_1407,IPAddress,15.157.5.226,,,,
+n_1408,Merchant,,"Bahl, Dara and Wali",0.0,train,
+n_1409,Director,,Anirudh Maharaj,,,
+n_1410,BankAccount,,,,,ZGHW9718956907056
+n_1411,IPAddress,96.49.68.195,,,,
+n_1412,Merchant,,"Nadig, Raja and Kurian",0.0,train,
+n_1413,Director,,Ishwar Chaudhary,,,
+n_1414,BankAccount,,,,,RFJE2412462095200
+n_1415,IPAddress,38.81.211.70,,,,
+n_1416,Merchant,,Dhar-Sachar,0.0,train,
+n_1417,Director,,Aarna Prashad,,,
+n_1418,Director,,Charles Jain,,,
+n_1419,BankAccount,,,,,HYTS3788614057861
+n_1420,IPAddress,29.10.48.104,,,,
+n_1421,Merchant,,"Kaur, Bahl and Luthra",0.0,train,
+n_1422,Director,,Yatin Dass,,,
+n_1423,BankAccount,,,,,JSNO1832582386870
+n_1424,IPAddress,93.188.219.241,,,,
+n_1425,Merchant,,"Mann, Ganesh and Acharya",0.0,train,
+n_1426,Director,,Vasatika Mahajan,,,
+n_1427,Director,,Lajita Panchal,,,
+n_1428,BankAccount,,,,,UGSQ4028914161284
+n_1429,IPAddress,214.191.72.223,,,,
+n_1430,Merchant,,"Thaman, Nadkarni and Oommen",0.0,train,
+n_1431,Director,,Sneha Mahajan,,,
+n_1432,Director,,Ekanta Om,,,
+n_1433,BankAccount,,,,,GOTK0209700268768
+n_1434,Merchant,,Brahmbhatt PLC,0.0,train,
+n_1435,Director,,Sai Dasgupta,,,
+n_1436,BankAccount,,,,,LMTL6201753703045
+n_1437,Merchant,,Chana PLC,0.0,train,
+n_1438,Director,,Timothy Kaur,,,
+n_1439,Director,,Janani Bansal,,,
+n_1440,BankAccount,,,,,IPWW9303614987283
+n_1441,IPAddress,139.59.221.85,,,,
+n_1442,Merchant,,Dave Ltd,0.0,train,
+n_1443,Director,,Joshua Lad,,,
+n_1444,Director,,Anusha Handa,,,
+n_1445,BankAccount,,,,,VAWV8948706056641
+n_1446,IPAddress,157.220.142.150,,,,
+n_1447,Merchant,,Pathak-Varughese,0.0,train,
+n_1448,Director,,Udarsh Batta,,,
+n_1449,BankAccount,,,,,INRO5063519036133
+n_1450,IPAddress,108.249.15.145,,,,
+n_1451,Merchant,,Chatterjee Inc,0.0,train,
+n_1452,Director,,Rachana Bajwa,,,
+n_1453,BankAccount,,,,,SZUK4317350583199
+n_1454,IPAddress,19.15.188.24,,,,
+n_1455,Merchant,,"Sekhon, Dash and Chada",0.0,train,
+n_1456,Director,,Bahadurjit Purohit,,,
+n_1457,Director,,Dhruv Datta,,,
+n_1458,BankAccount,,,,,BZOB4961108046619
+n_1459,IPAddress,183.117.167.65,,,,
+n_1460,Merchant,,"Anne, Setty and Rajagopalan",0.0,train,
+n_1461,Director,,Priya Chaudhuri,,,
+n_1462,Director,,Atharv Setty,,,
+n_1463,BankAccount,,,,,QKSG1109193928456
+n_1464,IPAddress,30.58.92.199,,,,
+n_1465,Merchant,,Kibe and Sons,0.0,train,
+n_1466,Director,,Darpan Datta,,,
+n_1467,Director,,Rajata Varghese,,,
+n_1468,BankAccount,,,,,UYLJ9822749545089
+n_1469,IPAddress,137.65.33.249,,,,
+n_1470,Merchant,,Khanna PLC,0.0,train,
+n_1471,Director,,Pahal Padmanabhan,,,
+n_1472,BankAccount,,,,,GGUG1537795995946
+n_1473,IPAddress,38.181.211.245,,,,
+n_1474,Merchant,,Basak-Tandon,0.0,train,
+n_1475,Director,,Aarush Kapoor,,,
+n_1476,BankAccount,,,,,WHOT3375636205015
+n_1477,IPAddress,71.95.66.236,,,,
+n_1478,Merchant,,Mannan Group,0.0,train,
+n_1479,BankAccount,,,,,GUSY5003342342583
+n_1480,IPAddress,104.88.8.6,,,,
+n_1481,Merchant,,Lala Inc,0.0,train,
+n_1482,Director,,Laksh Raghavan,,,
+n_1483,BankAccount,,,,,UZDK3473552896112
+n_1484,IPAddress,212.47.120.83,,,,
+n_1485,Merchant,,Handa PLC,0.0,train,
+n_1486,Director,,Kavya Nadkarni,,,
+n_1487,Director,,Yash Batra,,,
+n_1488,BankAccount,,,,,YTSG8425304289731
+n_1489,IPAddress,161.9.184.81,,,,
+n_1490,Merchant,,Trivedi Group,0.0,train,
+n_1491,Director,,Wishi Venkataraman,,,
+n_1492,Director,,Praneel Nagy,,,
+n_1493,BankAccount,,,,,WLQW7774969033373
+n_1494,IPAddress,51.149.124.255,,,,
+n_1495,Merchant,,Purohit-Dugar,0.0,train,
+n_1496,Director,,Aachal Chad,,,
+n_1497,Director,,Frado Merchant,,,
+n_1498,BankAccount,,,,,OQLH9078956776657
+n_1499,IPAddress,56.120.195.237,,,,
+n_1500,Merchant,,Gola Group,0.0,train,
+n_1501,Director,,Alka Borra,,,
+n_1502,BankAccount,,,,,LCJQ8814311150835
+n_1503,Merchant,,Narayan LLC,0.0,train,
+n_1504,Director,,Anvi Halder,,,
+n_1505,BankAccount,,,,,WTEY8404456690782
+n_1506,IPAddress,215.72.82.177,,,,
+n_1507,Merchant,,Kadakia Group,0.0,train,
+n_1508,Director,,Zaitra Sidhu,,,
+n_1509,BankAccount,,,,,XOKZ1536637780529
+n_1510,IPAddress,217.199.62.203,,,,
+n_1511,Merchant,,"Andra, Tata and Pant",0.0,train,
+n_1512,Director,,Umang Saini,,,
+n_1513,Director,,Netra Yogi,,,
+n_1514,BankAccount,,,,,JKSA9022599996636
+n_1515,IPAddress,88.187.85.0,,,,
+n_1516,Merchant,,Soman Inc,0.0,train,
+n_1517,Director,,Siya Modi,,,
+n_1518,BankAccount,,,,,CFDV8209702316433
+n_1519,IPAddress,36.122.139.0,,,,
+n_1520,Merchant,,Bhandari-Pillay,0.0,train,
+n_1521,Director,,Onveer Narain,,,
+n_1522,Director,,Mahika Dugar,,,
+n_1523,BankAccount,,,,,DERN7163234672994
+n_1524,Merchant,,"Jain, Thakkar and Shanker",0.0,train,
+n_1525,Director,,Saksham Amble,,,
+n_1526,Director,,Sanaya Bhatt,,,
+n_1527,BankAccount,,,,,MTZH8597779014754
+n_1528,IPAddress,43.53.68.228,,,,
+n_1529,Merchant,,Krish-Gola,0.0,train,
+n_1530,Director,,Tanvi Rajagopalan,,,
+n_1531,BankAccount,,,,,VFWS1603248413768
+n_1532,IPAddress,87.153.78.100,,,,
+n_1533,Merchant,,Cheema PLC,0.0,train,
+n_1534,Director,,Nimrat Seshadri,,,
+n_1535,Director,,Zayyan Johal,,,
+n_1536,BankAccount,,,,,QBOA1765636004125
+n_1537,Merchant,,"Shetty, Sundaram and Shenoy",0.0,train,
+n_1538,BankAccount,,,,,CCRV3727422091241
+n_1539,IPAddress,14.64.235.104,,,,
+n_1540,Merchant,,Brahmbhatt Ltd,0.0,train,
+n_1541,Director,,Anjali Dube,,,
+n_1542,Director,,Ishita Gokhale,,,
+n_1543,BankAccount,,,,,GWBV8370816470900
+n_1544,Merchant,,Jaggi-Krish,0.0,train,
+n_1545,Director,,William Iyengar,,,
+n_1546,BankAccount,,,,,CANA0531312206815
+n_1547,IPAddress,44.33.139.248,,,,
+n_1548,Merchant,,"Johal, Rana and Sangha",0.0,train,
+n_1549,Director,,Vincent Kala,,,
+n_1550,BankAccount,,,,,DLKF0650637314950
+n_1551,IPAddress,77.252.230.171,,,,
+n_1552,Merchant,,Mitra-Tata,0.0,train,
+n_1553,Director,,Onveer Krishnamurthy,,,
+n_1554,Director,,Ekta Rama,,,
+n_1555,BankAccount,,,,,VYWE5257150997683
+n_1556,IPAddress,8.54.113.86,,,,
+n_1557,Merchant,,Bail PLC,0.0,train,
+n_1558,Director,,Dayamai Khalsa,,,
+n_1559,Director,,Yagnesh Buch,,,
+n_1560,BankAccount,,,,,BELP4326303975245
+n_1561,IPAddress,130.136.237.200,,,,
+n_1562,Merchant,,"Sachdeva, Mani and Bajwa",0.0,train,
+n_1563,Director,,Garima Oommen,,,
+n_1564,Director,,Samesh Zacharia,,,
+n_1565,BankAccount,,,,,BVHZ3968527017130
+n_1566,IPAddress,137.14.220.64,,,,
+n_1567,Merchant,,Dass Inc,0.0,train,
+n_1568,Director,,Samarth Keer,,,
+n_1569,Director,,Pooja Sibal,,,
+n_1570,BankAccount,,,,,JFXG3629344973471
+n_1571,IPAddress,201.112.54.63,,,,
+n_1572,Merchant,,Purohit-Ganesh,0.0,train,
+n_1573,Director,,Ridhi Sami,,,
+n_1574,BankAccount,,,,,QTXN2706614982824
+n_1575,IPAddress,51.147.0.125,,,,
+n_1576,Merchant,,Mander-Prashad,0.0,train,
+n_1577,Director,,Ekbal Nath,,,
+n_1578,BankAccount,,,,,EWPG2300857666567
+n_1579,IPAddress,36.143.26.138,,,,
+n_1580,Merchant,,Barad-Dash,0.0,train,
+n_1581,Director,,Nicholas Hari,,,
+n_1582,BankAccount,,,,,YNIY5875066337050
+n_1583,IPAddress,137.118.239.163,,,,
+n_1584,Merchant,,Shah-Din,0.0,train,
+n_1585,Director,,Yug Edwin,,,
+n_1586,BankAccount,,,,,ADYC6691836264488
+n_1587,Merchant,,"Raja, Morar and Sabharwal",0.0,train,
+n_1588,Director,,Ikbal Padmanabhan,,,
+n_1589,Director,,Amruta Kadakia,,,
+n_1590,BankAccount,,,,,XMWJ0270116864622
+n_1591,IPAddress,40.152.229.130,,,,
+n_1592,Merchant,,Sur and Sons,0.0,train,
+n_1593,Director,,Shravya Kala,,,
+n_1594,Director,,Sai Bhargava,,,
+n_1595,BankAccount,,,,,XFZY3467912141614
+n_1596,Merchant,,Oommen Inc,0.0,train,
+n_1597,Director,,Vanya Sundaram,,,
+n_1598,Director,,Aditya Bhat,,,
+n_1599,BankAccount,,,,,IYAV9013806984775
+n_1600,IPAddress,149.138.9.218,,,,
+n_1601,Merchant,,Oza-Murty,0.0,train,
+n_1602,Director,,Jalsa Rastogi,,,
+n_1603,Director,,Dakshesh Parekh,,,
+n_1604,BankAccount,,,,,KZDA7620918435797
+n_1605,IPAddress,11.1.200.16,,,,
+n_1606,Merchant,,Nagy Inc,0.0,train,
+n_1607,Director,,Chakradev Nanda,,,
+n_1608,Director,,Vivaan Sundaram,,,
+n_1609,BankAccount,,,,,MXTZ1567164932898
+n_1610,IPAddress,95.222.1.10,,,,
+n_1611,Merchant,,Mitra Ltd,0.0,train,
+n_1612,Director,,Om Sehgal,,,
+n_1613,Director,,Vasatika Zachariah,,,
+n_1614,BankAccount,,,,,HHGF1160256434712
+n_1615,Merchant,,"Swamy, Chana and Natarajan",0.0,train,
+n_1616,Director,,Dhruv Oza,,,
+n_1617,Director,,Lakshmi Sarkar,,,
+n_1618,BankAccount,,,,,ZHHI1411159319525
+n_1619,Merchant,,Agarwal-Mukhopadhyay,0.0,train,
+n_1620,Director,,Ranveer Rama,,,
+n_1621,Director,,Ekaja Patla,,,
+n_1622,BankAccount,,,,,ZVZE8993160875243
+n_1623,IPAddress,15.74.228.185,,,,
+n_1624,Merchant,,Mander and Sons,0.0,train,
+n_1625,Director,,Ekaja More,,,
+n_1626,Director,,Anusha Sridhar,,,
+n_1627,BankAccount,,,,,UGPJ6052330276420
+n_1628,IPAddress,6.179.4.23,,,,
+n_1629,Merchant,,Solanki-Pall,0.0,train,
+n_1630,Director,,Mahika Bora,,,
+n_1631,BankAccount,,,,,QXJJ3861259047292
+n_1632,Merchant,,Subramanian-Manne,0.0,train,
+n_1633,Director,,Shaurya Kamdar,,,
+n_1634,BankAccount,,,,,ZXGX0591266201572
+n_1635,IPAddress,204.240.83.138,,,,
+n_1636,Merchant,,"Nigam, Saraf and Dixit",0.0,train,
+n_1637,Director,,Yash Bandi,,,
+n_1638,BankAccount,,,,,DHMP4926176475011
+n_1639,IPAddress,95.79.90.220,,,,
+n_1640,Merchant,,"Upadhyay, Kar and Bajaj",0.0,train,
+n_1641,Director,,Anusha Chandra,,,
+n_1642,BankAccount,,,,,ZSFM7649215182606
+n_1643,Merchant,,"Yadav, Wagle and Suresh",0.0,train,
+n_1644,Director,,Zilmil Yohannan,,,
+n_1645,BankAccount,,,,,WZUD3129208751029
+n_1646,Merchant,,Edwin Inc,0.0,train,
+n_1647,Director,,Bakhshi Chad,,,
+n_1648,Director,,Yashawini Misra,,,
+n_1649,BankAccount,,,,,LRFN0340848729758
+n_1650,IPAddress,219.68.139.35,,,,
+n_1651,Merchant,,"Yohannan, Uppal and Kadakia",0.0,train,
+n_1652,Director,,Chaitanya Khalsa,,,
+n_1653,Director,,Raghav Dhar,,,
+n_1654,BankAccount,,,,,JGET8395429618446
+n_1655,IPAddress,138.115.211.28,,,,
+n_1656,Merchant,,Shan-Chacko,0.0,train,
+n_1657,Director,,Pavani Dhar,,,
+n_1658,BankAccount,,,,,RGCU4359892625660
+n_1659,IPAddress,194.253.112.8,,,,
+n_1660,Merchant,,Madan Inc,0.0,train,
+n_1661,Director,,Niharika Bhatti,,,
+n_1662,Director,,Gaurav Patil,,,
+n_1663,BankAccount,,,,,KYIE3401636112849
+n_1664,IPAddress,175.234.189.40,,,,
+n_1665,Merchant,,Wadhwa LLC,0.0,train,
+n_1666,Director,,Anika Chaudhary,,,
+n_1667,Director,,Onkar Nadkarni,,,
+n_1668,BankAccount,,,,,YMFL8896792408222
+n_1669,IPAddress,49.28.150.173,,,,
+n_1670,Merchant,,Prabhakar Ltd,0.0,train,
+n_1671,Director,,Omya Shankar,,,
+n_1672,Director,,Reva Pandya,,,
+n_1673,BankAccount,,,,,ZOQJ4683414651113
+n_1674,Merchant,,Gandhi PLC,0.0,train,
+n_1675,Director,,Frado Mangal,,,
+n_1676,BankAccount,,,,,RPZA6827788160930
+n_1677,IPAddress,187.10.188.148,,,,
+n_1678,Merchant,,Wable Ltd,0.0,train,
+n_1679,Director,,Saumya Ganguly,,,
+n_1680,BankAccount,,,,,VYQH2152850676251
+n_1681,IPAddress,47.252.39.68,,,,
+n_1682,Merchant,,"Dalal, Mannan and Mistry",0.0,train,
+n_1683,Director,,Chaaya Lanka,,,
+n_1684,Director,,Aarnav Ramesh,,,
+n_1685,BankAccount,,,,,GJUQ0797050975451
+n_1686,IPAddress,75.234.2.2,,,,
+n_1687,Merchant,,Pant-Andra,0.0,train,
+n_1688,Director,,Raagini Swamy,,,
+n_1689,BankAccount,,,,,GCQQ2617024376545
+n_1690,IPAddress,21.212.111.111,,,,
+n_1691,Merchant,,"Luthra, Chopra and Sarna",0.0,train,
+n_1692,Director,,Neel Dey,,,
+n_1693,BankAccount,,,,,LXNA5313402665023
+n_1694,IPAddress,201.16.45.198,,,,
+n_1695,Merchant,,Sama Group,0.0,train,
+n_1696,Director,,Joshua Nair,,,
+n_1697,BankAccount,,,,,YYYM8621102258030
+n_1698,IPAddress,149.229.163.89,,,,
+n_1699,Merchant,,Anand-Saraf,0.0,train,
+n_1700,Director,,Bimala Manda,,,
+n_1701,Director,,Fitan Sanghvi,,,
+n_1702,BankAccount,,,,,HTEX8234143637189
+n_1703,IPAddress,97.48.151.79,,,,
+n_1704,Merchant,,Dara and Sons,0.0,train,
+n_1705,BankAccount,,,,,MBIG2609310668433
+n_1706,Merchant,,Sandhu-Srinivas,0.0,train,
+n_1707,Director,,Yashvi Sane,,,
+n_1708,BankAccount,,,,,UBJD4545635020005
+n_1709,IPAddress,100.248.216.205,,,,
+n_1710,Merchant,,Chaudhuri-Sankar,0.0,train,
+n_1711,Director,,Zayyan Swamy,,,
+n_1712,Director,,Gaurika Modi,,,
+n_1713,BankAccount,,,,,DDVA8255598953439
+n_1714,IPAddress,38.206.177.83,,,,
+n_1715,Merchant,,Dara Inc,0.0,train,
+n_1716,Director,,Reyansh Sehgal,,,
+n_1717,BankAccount,,,,,DCRT5473820236848
+n_1718,IPAddress,193.187.101.237,,,,
+n_1719,Merchant,,Dalal-Sarin,0.0,train,
+n_1720,Director,,Vasudha Saini,,,
+n_1721,BankAccount,,,,,QQZA2942409036788
+n_1722,IPAddress,194.169.125.155,,,,
+n_1723,Merchant,,Upadhyay-Rajagopalan,0.0,train,
+n_1724,Director,,Nandini Magar,,,
+n_1725,Director,,Qarin Aggarwal,,,
+n_1726,BankAccount,,,,,FSGS0878844344812
+n_1727,IPAddress,115.207.188.100,,,,
+n_1728,Merchant,,Baral-Divan,0.0,train,
+n_1729,Director,,Kiaan Madan,,,
+n_1730,BankAccount,,,,,ZBUH3810595518426
+n_1731,IPAddress,217.111.200.91,,,,
+n_1732,Merchant,,Bhandari-Anne,0.0,train,
+n_1733,Director,,Theodore Mammen,,,
+n_1734,BankAccount,,,,,FIAR9164983735439
+n_1735,IPAddress,153.79.69.199,,,,
+n_1736,Merchant,,Sehgal and Sons,0.0,train,
+n_1737,Director,,Jyoti Divan,,,
+n_1738,Director,,Girik Tandon,,,
+n_1739,BankAccount,,,,,FOFF3972404226931
+n_1740,Merchant,,Bora Group,0.0,train,
+n_1741,Director,,Suhani Rau,,,
+n_1742,Director,,Laksh Arora,,,
+n_1743,BankAccount,,,,,TDMM0100231429001
+n_1744,IPAddress,6.181.5.197,,,,
+n_1745,Merchant,,"Chada, Jain and Dewan",0.0,train,
+n_1746,Director,,Sachi Gade,,,
+n_1747,BankAccount,,,,,JKPE3084810018418
+n_1748,IPAddress,221.74.3.22,,,,
+n_1749,Merchant,,Agarwal and Sons,0.0,train,
+n_1750,Director,,Utkarsh Sane,,,
+n_1751,BankAccount,,,,,MELU4361721314519
+n_1752,IPAddress,55.18.83.88,,,,
+n_1753,Merchant,,Bassi PLC,0.0,train,
+n_1754,Director,,Pranav Sangha,,,
+n_1755,Director,,Pratyush Sandal,,,
+n_1756,BankAccount,,,,,EVVJ9451475410225
+n_1757,Merchant,,Ramakrishnan Group,0.0,train,
+n_1758,Director,,Ekalinga Chowdhury,,,
+n_1759,BankAccount,,,,,SNXI2152265576769
+n_1760,IPAddress,165.85.223.140,,,,
+n_1761,Merchant,,Korpal Group,0.0,train,
+n_1762,Director,,Widisha Yohannan,,,
+n_1763,BankAccount,,,,,RPRR3619689313503
+n_1764,IPAddress,199.8.200.126,,,,
+n_1765,Merchant,,Som-Deol,0.0,train,
+n_1766,Director,,Darpan Palla,,,
+n_1767,BankAccount,,,,,LYEJ7286333021260
+n_1768,IPAddress,155.46.109.149,,,,
+n_1769,Merchant,,Bhagat-Cherian,0.0,train,
+n_1770,Director,,Vansha Dugar,,,
+n_1771,BankAccount,,,,,AELE1310962272847
+n_1772,IPAddress,53.150.237.225,,,,
+n_1773,Merchant,,Arya-Mangat,0.0,train,
+n_1774,Director,,Nachiket Bhasin,,,
+n_1775,BankAccount,,,,,UBTY2820667849843
+n_1776,IPAddress,42.9.5.139,,,,
+n_1777,Merchant,,Chanda-Vig,0.0,train,
+n_1778,Director,,Jeremiah Kakar,,,
+n_1779,BankAccount,,,,,MTBH6289177566205
+n_1780,IPAddress,140.118.119.76,,,,
+n_1781,Merchant,,Chopra-Chawla,0.0,train,
+n_1782,Director,,Janani Nayak,,,
+n_1783,BankAccount,,,,,AHJF8113904383034
+n_1784,IPAddress,66.223.57.113,,,,
+n_1785,Merchant,,"Sule, Bath and Bava",0.0,train,
+n_1786,BankAccount,,,,,KCJA5468356521568
+n_1787,IPAddress,73.156.168.131,,,,
+n_1788,Merchant,,Raja Group,0.0,train,
+n_1789,Director,,Bina Edwin,,,
+n_1790,Director,,Ubika Brar,,,
+n_1791,BankAccount,,,,,UCWH3228898572545
+n_1792,IPAddress,155.147.227.168,,,,
+n_1793,Merchant,,Ram and Sons,0.0,train,
+n_1794,Director,,Falan Dua,,,
+n_1795,Director,,Gunbir Aurora,,,
+n_1796,BankAccount,,,,,EYJR1717524214955
+n_1797,IPAddress,75.119.201.157,,,,
+n_1798,Merchant,,"Sharma, Kuruvilla and Solanki",0.0,train,
+n_1799,Director,,Riya Dey,,,
+n_1800,Director,,Vinaya Baral,,,
+n_1801,BankAccount,,,,,LJMN9275895516874
+n_1802,IPAddress,209.93.153.41,,,,
+n_1803,Merchant,,"Bhandari, Konda and Anand",0.0,train,
+n_1804,Director,,Henry Mannan,,,
+n_1805,Director,,Nathan Rastogi,,,
+n_1806,BankAccount,,,,,CHMO1577871121663
+n_1807,IPAddress,36.32.77.55,,,,
+n_1808,Merchant,,Oommen-Sunder,0.0,train,
+n_1809,Director,,Vamakshi Contractor,,,
+n_1810,Director,,Suhani Barad,,,
+n_1811,BankAccount,,,,,REPE3590960567303
+n_1812,IPAddress,221.136.144.67,,,,
+n_1813,Merchant,,Krishnan-Goda,0.0,train,
+n_1814,Director,,Lucky Biswas,,,
+n_1815,BankAccount,,,,,IMCJ7683420165423
+n_1816,IPAddress,58.210.141.80,,,,
+n_1817,Merchant,,Soman-Wason,0.0,train,
+n_1818,Director,,Rajeshri Pant,,,
+n_1819,BankAccount,,,,,WSMA8931992550272
+n_1820,IPAddress,26.32.3.87,,,,
+n_1821,Merchant,,Ray LLC,0.0,train,
+n_1822,BankAccount,,,,,QXAO2791033682963
+n_1823,IPAddress,44.59.242.244,,,,
+n_1824,Merchant,,"Atwal, Prabhakar and Patla",0.0,train,
+n_1825,Director,,Chasmum Mohanty,,,
+n_1826,BankAccount,,,,,QDWP7665586851276
+n_1827,IPAddress,42.104.249.125,,,,
+n_1828,Merchant,,"Sarin, Raj and Mane",0.0,train,
+n_1829,Director,,Bhanumati Chaudhary,,,
+n_1830,BankAccount,,,,,CZDC0961798178904
+n_1831,IPAddress,169.54.61.47,,,,
+n_1832,Merchant,,Sha PLC,0.0,train,
+n_1833,Director,,Ishwar Hayre,,,
+n_1834,Director,,Jeet Panchal,,,
+n_1835,BankAccount,,,,,ZONU6053844446306
+n_1836,IPAddress,65.174.7.34,,,,
+n_1837,Merchant,,Prasad PLC,0.0,train,
+n_1838,Director,,Gautami Garde,,,
+n_1839,Director,,Wyatt Raman,,,
+n_1840,BankAccount,,,,,GTUM0962626582631
+n_1841,Merchant,,"Date, Thaman and Dani",0.0,train,
+n_1842,Director,,Abha Dutt,,,
+n_1843,Director,,Samar Chander,,,
+n_1844,BankAccount,,,,,CANA9209819602752
+n_1845,IPAddress,115.140.79.52,,,,
+n_1846,Merchant,,Hari-Wason,0.0,train,
+n_1847,Director,,Kritika Lad,,,
+n_1848,Director,,Anvi Butala,,,
+n_1849,BankAccount,,,,,EUAU9117911244211
+n_1850,IPAddress,27.144.145.27,,,,
+n_1851,Merchant,,Raman Inc,0.0,train,
+n_1852,Director,,Anthony Sachdev,,,
+n_1853,BankAccount,,,,,CPUC3665722402990
+n_1854,IPAddress,85.240.155.63,,,,
+n_1855,Merchant,,Sule-Ahluwalia,0.0,train,
+n_1856,BankAccount,,,,,FQXI1390808823513
+n_1857,IPAddress,72.222.63.209,,,,
+n_1858,Merchant,,Chacko Ltd,0.0,train,
+n_1859,Director,,Amrita Mahal,,,
+n_1860,BankAccount,,,,,PGCL8477686342346
+n_1861,Merchant,,Muni and Sons,0.0,train,
+n_1862,Director,,Vinaya Sant,,,
+n_1863,Director,,Pallavi Magar,,,
+n_1864,BankAccount,,,,,KTDT6639551720849
+n_1865,IPAddress,54.139.81.150,,,,
+n_1866,Merchant,,Balan-Contractor,0.0,train,
+n_1867,Director,,Ekantika Sanghvi,,,
+n_1868,Director,,Ishita Korpal,,,
+n_1869,BankAccount,,,,,CGVL5251050537953
+n_1870,IPAddress,3.138.216.86,,,,
+n_1871,Merchant,,Kala-Vyas,0.0,train,
+n_1872,BankAccount,,,,,GDRI9196655330770
+n_1873,Merchant,,Sama-Dar,0.0,train,
+n_1874,Director,,Sneha Garg,,,
+n_1875,Director,,Leela Khalsa,,,
+n_1876,BankAccount,,,,,SAJA9074260880501
+n_1877,Merchant,,Chandran-Sagar,0.0,train,
+n_1878,Director,,Anvi Nadig,,,
+n_1879,BankAccount,,,,,YLMC8579064771591
+n_1880,Merchant,,Kapur Inc,0.0,train,
+n_1881,Director,,Liam Cheema,,,
+n_1882,Director,,Rajata Kara,,,
+n_1883,BankAccount,,,,,FCGX5800401041459
+n_1884,Merchant,,Madan-Garde,0.0,train,
+n_1885,Director,,Triveni Dar,,,
+n_1886,BankAccount,,,,,EKEY9671883977457
+n_1887,IPAddress,116.56.146.246,,,,
+n_1888,Merchant,,Butala-Pandit,0.0,train,
+n_1889,Director,,Samesh Brahmbhatt,,,
+n_1890,BankAccount,,,,,CPBG0376371539885
+n_1891,IPAddress,185.250.121.81,,,,
+n_1892,Merchant,,"Setty, Dube and Thaman",0.0,train,
+n_1893,BankAccount,,,,,DEHL6798363146249
+n_1894,IPAddress,137.109.49.234,,,,
+n_1895,Merchant,,Chhabra-Choudhary,0.0,train,
+n_1896,Director,,Amol Sharma,,,
+n_1897,BankAccount,,,,,FIAP8754181563268
+n_1898,IPAddress,26.173.254.120,,,,
+n_1899,Merchant,,Sastry LLC,0.0,train,
+n_1900,Director,,Guneet Bawa,,,
+n_1901,BankAccount,,,,,UMXN3436294897861
+n_1902,IPAddress,143.238.179.215,,,,
+n_1903,Merchant,,Kanda Inc,0.0,train,
+n_1904,Director,,Balendra Lata,,,
+n_1905,Director,,Dominic Wali,,,
+n_1906,BankAccount,,,,,DIHT6661347323549
+n_1907,IPAddress,32.50.231.42,,,,
+n_1908,Merchant,,Goyal PLC,0.0,train,
+n_1909,Director,,Dalaja Khare,,,
+n_1910,BankAccount,,,,,FKVC2257207650241
+n_1911,IPAddress,104.39.222.180,,,,
+n_1912,Merchant,,"Pandey, Som and Agarwal",0.0,train,
+n_1913,BankAccount,,,,,PHPD0094388221145
+n_1914,IPAddress,27.57.153.41,,,,
+n_1915,Merchant,,"Kurian, Sur and Kulkarni",0.0,train,
+n_1916,Director,,Tara Arya,,,
+n_1917,Director,,Charvi Nath,,,
+n_1918,BankAccount,,,,,QYVT7148026325703
+n_1919,Merchant,,"Sankar, Parsa and Jhaveri",0.0,train,
+n_1920,Director,,Rishi Purohit,,,
+n_1921,BankAccount,,,,,UDIU8782455696443
+n_1922,IPAddress,85.248.53.94,,,,
+n_1923,Merchant,,"Das, Sant and Sha",0.0,train,
+n_1924,Director,,Bhavya Choudhary,,,
+n_1925,Director,,Wishi Din,,,
+n_1926,BankAccount,,,,,OVEQ4982474140703
+n_1927,IPAddress,39.230.95.32,,,,
+n_1928,Merchant,,Suresh LLC,0.0,train,
+n_1929,Director,,Qushi Pandey,,,
+n_1930,BankAccount,,,,,VABI2548821423691
+n_1931,IPAddress,34.14.135.9,,,,
+n_1932,Merchant,,Pant-Kothari,0.0,train,
+n_1933,Director,,Pahal Rastogi,,,
+n_1934,BankAccount,,,,,DIJT4296592342683
+n_1935,IPAddress,37.122.111.185,,,,
+n_1936,Merchant,,Shenoy-Goswami,0.0,train,
+n_1937,BankAccount,,,,,MZND2875857567667
+n_1938,IPAddress,65.176.230.99,,,,
+n_1939,Merchant,,Chakrabarti-Dey,0.0,train,
+n_1940,Director,,Xavier Vala,,,
+n_1941,Director,,Joshua Memon,,,
+n_1942,BankAccount,,,,,BYME6078701041591
+n_1943,IPAddress,175.218.11.215,,,,
+n_1944,Merchant,,"Narula, Bhat and Dara",0.0,train,
+n_1945,Director,,Samarth Varty,,,
+n_1946,Director,,Warhi Deshpande,,,
+n_1947,BankAccount,,,,,HVUE4407931102918
+n_1948,IPAddress,77.19.37.179,,,,
+n_1949,Merchant,,Som Inc,0.0,train,
+n_1950,Director,,Mahika Bhakta,,,
+n_1951,BankAccount,,,,,DJMP2384979162022
+n_1952,IPAddress,163.217.213.66,,,,
+n_1953,Merchant,,Vaidya Ltd,0.0,train,
+n_1954,Director,,Vamakshi Srinivasan,,,
+n_1955,BankAccount,,,,,JJVD9754661766204
+n_1956,IPAddress,28.118.52.165,,,,
+n_1957,Merchant,,Mitter Inc,0.0,train,
+n_1958,Director,,Brijesh Pant,,,
+n_1959,BankAccount,,,,,EOXO4025883586812
+n_1960,IPAddress,150.132.253.46,,,,
+n_1961,Merchant,,"Nori, Sharaf and Dey",0.0,train,
+n_1962,Director,,Chavvi Ramesh,,,
+n_1963,Director,,Veda Puri,,,
+n_1964,BankAccount,,,,,PTVF9884259959961
+n_1965,IPAddress,74.47.255.247,,,,
+n_1966,Merchant,,Char Ltd,0.0,train,
+n_1967,Director,,Xalak Soni,,,
+n_1968,Director,,Vincent Khalsa,,,
+n_1969,BankAccount,,,,,DFXM6109410175902
+n_1970,IPAddress,60.196.196.14,,,,
+n_1971,Merchant,,Deol-Iyengar,0.0,train,
+n_1972,Director,,Zayyan Swaminathan,,,
+n_1973,Director,,Bhavika Kar,,,
+n_1974,BankAccount,,,,,GXFN8319013020569
+n_1975,IPAddress,4.147.98.114,,,,
+n_1976,Merchant,,Goyal-Wable,0.0,train,
+n_1977,Director,,Ranveer Johal,,,
+n_1978,Director,,Xiti Pandey,,,
+n_1979,BankAccount,,,,,LTRE1766191284117
+n_1980,IPAddress,117.75.114.143,,,,
+n_1981,Merchant,,Kapur LLC,0.0,train,
+n_1982,Director,,Madhavi Parmar,,,
+n_1983,BankAccount,,,,,CFJC8938984690819
+n_1984,IPAddress,24.106.238.68,,,,
+n_1985,Merchant,,"Balan, Bali and Nigam",0.0,train,
+n_1986,Director,,Advika Iyer,,,
+n_1987,BankAccount,,,,,KYBE3850371990516
+n_1988,IPAddress,133.40.113.146,,,,
+n_1989,Merchant,,"Srinivas, Dayal and Madan",0.0,train,
+n_1990,Director,,Hemang Banik,,,
+n_1991,BankAccount,,,,,PQHU5674300038960
+n_1992,IPAddress,4.106.200.152,,,,
+n_1993,Merchant,,Purohit-Dass,0.0,train,
+n_1994,Director,,Prisha Devi,,,
+n_1995,Director,,Raksha Dalal,,,
+n_1996,BankAccount,,,,,TLLG5603319036890
+n_1997,IPAddress,196.15.65.145,,,,
+n_1998,Merchant,,"Krish, Bhandari and Bose",0.0,train,
+n_1999,Director,,Jonathan Sarna,,,
+n_2000,Director,,Barkha Bassi,,,
+n_2001,BankAccount,,,,,KLTU3429671114837
+n_2002,IPAddress,150.216.103.175,,,,
+n_2003,Merchant,,Sawhney Ltd,0.0,train,
+n_2004,BankAccount,,,,,JLYR4384588105697
+n_2005,IPAddress,126.104.56.90,,,,
+n_2006,Merchant,,Verma and Sons,0.0,train,
+n_2007,Director,,Shivansh Das,,,
+n_2008,BankAccount,,,,,LXZE0377107044964
+n_2009,Merchant,,Bhasin LLC,0.0,train,
+n_2010,Director,,Warhi Bahl,,,
+n_2011,BankAccount,,,,,MMOB3362680408509
+n_2012,IPAddress,186.194.76.223,,,,
+n_2013,Merchant,,Kalita-Bala,0.0,train,
+n_2014,Director,,Radha Sane,,,
+n_2015,Director,,Ikbal Rama,,,
+n_2016,BankAccount,,,,,XVJR7699842673204
+n_2017,Merchant,,"Mahal, Chada and Krish",0.0,train,
+n_2018,Director,,Geetika Rana,,,
+n_2019,Director,,Anusha Pathak,,,
+n_2020,BankAccount,,,,,IVIZ9014954277070
+n_2021,IPAddress,27.122.170.6,,,,
+n_2022,Merchant,,Kamdar-Rege,0.0,train,
+n_2023,Director,,Fariq Malhotra,,,
+n_2024,BankAccount,,,,,TRKC7244472322903
+n_2025,IPAddress,66.118.208.42,,,,
+n_2026,Merchant,,Toor Group,0.0,train,
+n_2027,Director,,Benjamin Kari,,,
+n_2028,Director,,Aashi Kurian,,,
+n_2029,BankAccount,,,,,AVLR0935118718133
+n_2030,IPAddress,55.196.90.14,,,,
+n_2031,Merchant,,"Sagar, Bora and Sandhu",0.0,train,
+n_2032,Director,,Luke Bakshi,,,
+n_2033,BankAccount,,,,,KTZL5657490250429
+n_2034,IPAddress,77.136.225.237,,,,
+n_2035,Merchant,,Vaidya-Trivedi,0.0,train,
+n_2036,Director,,Tanveer Radhakrishnan,,,
+n_2037,Director,,Mason Raj,,,
+n_2038,BankAccount,,,,,YUCC3989868180978
+n_2039,IPAddress,13.18.47.0,,,,
+n_2040,Merchant,,Hayer-Memon,0.0,train,
+n_2041,Director,,Falguni Kibe,,,
+n_2042,BankAccount,,,,,ZYLH7513765158815
+n_2043,IPAddress,142.190.13.60,,,,
+n_2044,Merchant,,Sahota-Karpe,0.0,train,
+n_2045,Director,,Yash Reddy,,,
+n_2046,BankAccount,,,,,VSVE9445511668297
+n_2047,IPAddress,140.173.189.76,,,,
+n_2048,Merchant,,Setty Inc,0.0,train,
+n_2049,Director,,Jai Sahota,,,
+n_2050,Director,,Upma Chaudhuri,,,
+n_2051,BankAccount,,,,,EBNA2128866526834
+n_2052,IPAddress,85.139.132.135,,,,
+n_2053,Merchant,,"Chokshi, Bath and Borah",0.0,train,
+n_2054,Director,,Saumya Rege,,,
+n_2055,Director,,Rajata Mann,,,
+n_2056,BankAccount,,,,,YPWE2981209957657
+n_2057,IPAddress,108.120.2.214,,,,
+n_2058,Merchant,,Kata LLC,0.0,train,
+n_2059,Director,,Harita Bava,,,
+n_2060,BankAccount,,,,,SQQS8645652203684
+n_2061,IPAddress,148.30.152.106,,,,
+n_2062,Merchant,,Palan LLC,0.0,train,
+n_2063,Director,,Jagat Mani,,,
+n_2064,Director,,Vidhi Sarna,,,
+n_2065,BankAccount,,,,,HFJI9134213882090
+n_2066,IPAddress,203.177.244.54,,,,
+n_2067,Merchant,,Suresh Inc,0.0,train,
+n_2068,Director,,Samar Manda,,,
+n_2069,Director,,Sai Verma,,,
+n_2070,BankAccount,,,,,EOJD1767412415131
+n_2071,IPAddress,53.118.42.6,,,,
+n_2072,Merchant,,Setty-Varghese,0.0,train,
+n_2073,Director,,Divya Barad,,,
+n_2074,Director,,Harish Verma,,,
+n_2075,BankAccount,,,,,KGRV0032963347272
+n_2076,IPAddress,185.11.14.120,,,,
+n_2077,Merchant,,Issac Ltd,0.0,train,
+n_2078,Director,,Zaitra Kala,,,
+n_2079,BankAccount,,,,,ANCP8932064969357
+n_2080,IPAddress,10.225.139.34,,,,
+n_2081,Merchant,,Kata-Master,0.0,train,
+n_2082,Director,,Vrishti Ramanathan,,,
+n_2083,BankAccount,,,,,TLRP4131467536127
+n_2084,IPAddress,202.58.33.109,,,,
+n_2085,Merchant,,Rao-Dave,0.0,train,
+n_2086,Director,,Vrinda Sabharwal,,,
+n_2087,BankAccount,,,,,VHAJ4836085456676
+n_2088,IPAddress,35.127.28.240,,,,
+n_2089,Merchant,,Sunder-Kanda,0.0,train,
+n_2090,BankAccount,,,,,KUBJ7639283199529
+n_2091,IPAddress,4.43.63.192,,,,
+n_2092,Merchant,,Chana-Nath,0.0,train,
+n_2093,Director,,Dev Bawa,,,
+n_2094,BankAccount,,,,,QGLR3286342556383
+n_2095,IPAddress,204.73.225.172,,,,
+n_2096,Merchant,,Vyas Inc,0.0,train,
+n_2097,BankAccount,,,,,QMZP0244033041662
+n_2098,IPAddress,164.81.234.29,,,,
+n_2099,Merchant,,Bose Inc,0.0,train,
+n_2100,Director,,Anmol Aurora,,,
+n_2101,Director,,Girish Raman,,,
+n_2102,BankAccount,,,,,GTJZ5680447314976
+n_2103,IPAddress,37.244.187.249,,,,
+n_2104,Merchant,,Ray PLC,0.0,train,
+n_2105,Director,,Vasudha Mane,,,
+n_2106,BankAccount,,,,,WRQH6076581739063
+n_2107,Merchant,,Pingle-Sood,0.0,train,
+n_2108,Director,,Deepa Natarajan,,,
+n_2109,Director,,Fiyaz Chandran,,,
+n_2110,BankAccount,,,,,RFGP9312697893074
+n_2111,IPAddress,53.159.163.29,,,,
+n_2112,Merchant,,Bansal LLC,0.0,train,
+n_2113,Director,,Abdul Loyal,,,
+n_2114,BankAccount,,,,,WGYR7875357788116
+n_2115,IPAddress,152.11.61.129,,,,
+n_2116,Merchant,,Arya and Sons,0.0,train,
+n_2117,Director,,Ojas Hora,,,
+n_2118,BankAccount,,,,,ODBN7287286604164
+n_2119,IPAddress,184.172.233.232,,,,
+n_2120,Merchant,,"Naidu, Prabhu and Gandhi",0.0,train,
+n_2121,Director,,Bina Virk,,,
+n_2122,BankAccount,,,,,VGZT5894773522870
+n_2123,IPAddress,43.120.111.105,,,,
+n_2124,Merchant,,Singhal Inc,0.0,train,
+n_2125,Director,,Devika Guha,,,
+n_2126,Director,,Girindra Yogi,,,
+n_2127,BankAccount,,,,,OKDB9792158350344
+n_2128,Merchant,,Mohan-Pillai,0.0,train,
+n_2129,Director,,Aachal Jain,,,
+n_2130,BankAccount,,,,,CSED3424912896599
+n_2131,IPAddress,158.76.76.51,,,,
+n_2132,Merchant,,Ganguly Inc,0.0,train,
+n_2133,Director,,Tarak Chand,,,
+n_2134,Director,,Luke Gala,,,
+n_2135,BankAccount,,,,,PAKC0287675481386
+n_2136,IPAddress,56.172.133.107,,,,
+n_2137,Merchant,,"Som, Pant and Muni",0.0,train,
+n_2138,Director,,Farhan Kala,,,
+n_2139,Director,,Arunima Dhar,,,
+n_2140,BankAccount,,,,,NROP4186520575639
+n_2141,Merchant,,"Halder, Raja and Prasad",0.0,train,
+n_2142,Director,,Advaith Hayre,,,
+n_2143,BankAccount,,,,,OLQG0945154809404
+n_2144,IPAddress,153.125.166.37,,,,
+n_2145,Merchant,,Kulkarni LLC,0.0,train,
+n_2146,Director,,Azaan Sinha,,,
+n_2147,BankAccount,,,,,TUOP2781050922216
+n_2148,Merchant,,Bhalla Group,0.0,train,
+n_2149,Director,,Dipta Chatterjee,,,
+n_2150,Director,,Rishi Badal,,,
+n_2151,BankAccount,,,,,KVKW2958066013824
+n_2152,IPAddress,92.96.165.171,,,,
+n_2153,Merchant,,Majumdar PLC,0.0,train,
+n_2154,Director,,Yashasvi Rout,,,
+n_2155,BankAccount,,,,,FUXA4485157919711
+n_2156,Merchant,,Gopal Ltd,0.0,train,
+n_2157,Director,,Quincy Nadkarni,,,
+n_2158,BankAccount,,,,,SUAY2035713432406
+n_2159,IPAddress,139.100.107.8,,,,
+n_2160,Merchant,,Dey-Mutti,0.0,train,
+n_2161,Director,,Upkaar Guha,,,
+n_2162,BankAccount,,,,,IGFJ4741759558720
+n_2163,IPAddress,201.138.239.225,,,,
+n_2164,Merchant,,Yogi PLC,0.0,train,
+n_2165,Director,,Radha Palan,,,
+n_2166,Director,,Sarthak Oommen,,,
+n_2167,BankAccount,,,,,WQRX4183437401827
+n_2168,IPAddress,84.171.226.70,,,,
+n_2169,Merchant,,Purohit-Bandi,0.0,train,
+n_2170,Director,,Henry Parmer,,,
+n_2171,BankAccount,,,,,AFNP5512542782079
+n_2172,IPAddress,29.235.67.3,,,,
+n_2173,Merchant,,"Rastogi, Solanki and Kohli",0.0,train,
+n_2174,Director,,Kashvi Nazareth,,,
+n_2175,Director,,Nandini Mital,,,
+n_2176,BankAccount,,,,,BHYQ1664969028249
+n_2177,IPAddress,194.203.57.168,,,,
+n_2178,Merchant,,"Dewan, De and Nath",0.0,train,
+n_2179,Director,,Gautam More,,,
+n_2180,BankAccount,,,,,ZYEZ5762702324412
+n_2181,IPAddress,115.64.206.140,,,,
+n_2182,Merchant,,Chana-Konda,0.0,train,
+n_2183,Director,,Kavya Ahluwalia,,,
+n_2184,BankAccount,,,,,PFLD7863767316252
+n_2185,IPAddress,52.239.102.126,,,,
+n_2186,Merchant,,Samra-Ramesh,0.0,train,
+n_2187,Director,,Idika Suresh,,,
+n_2188,Director,,Tristan Gokhale,,,
+n_2189,BankAccount,,,,,YHLL5809961327303
+n_2190,IPAddress,37.241.66.159,,,,
+n_2191,Merchant,,Rajagopalan-Gole,0.0,train,
+n_2192,Director,,Matthew Mane,,,
+n_2193,Director,,Lila Srivastava,,,
+n_2194,BankAccount,,,,,BINF2681715160252
+n_2195,Merchant,,"Tripathi, Rajagopalan and Sha",0.0,train,
+n_2196,Director,,Vedika Ratti,,,
+n_2197,BankAccount,,,,,NYBJ6419785758512
+n_2198,IPAddress,192.95.17.89,,,,
+n_2199,Merchant,,"Buch, Doctor and Amble",0.0,train,
+n_2200,Director,,Aarna Hora,,,
+n_2201,Director,,Radhika Bava,,,
+n_2202,BankAccount,,,,,OJBD7750954654084
+n_2203,IPAddress,109.181.205.108,,,,
+n_2204,Merchant,,Badal-Sekhon,0.0,train,
+n_2205,Director,,Chameli Banik,,,
+n_2206,BankAccount,,,,,TDLX0863218122764
+n_2207,IPAddress,61.80.96.186,,,,
+n_2208,Merchant,,"Kohli, Viswanathan and Shanker",0.0,train,
+n_2209,Director,,Faraj Narain,,,
+n_2210,Director,,Balvan Din,,,
+n_2211,BankAccount,,,,,TXUZ1681546602416
+n_2212,IPAddress,194.196.62.58,,,,
+n_2213,Merchant,,"Lal, Mitter and Varkey",0.0,train,
+n_2214,Director,,Chandran Prasad,,,
+n_2215,BankAccount,,,,,SPGY6424809624406
+n_2216,IPAddress,103.168.68.197,,,,
+n_2217,Merchant,,"Dayal, Maharaj and Loke",0.0,train,
+n_2218,Director,,Eesha Chatterjee,,,
+n_2219,Director,,Umang Badami,,,
+n_2220,BankAccount,,,,,WKHC9497969586780
+n_2221,Merchant,,Oak-Nagarajan,0.0,train,
+n_2222,Director,,Sai Doshi,,,
+n_2223,Director,,Wishi Kade,,,
+n_2224,BankAccount,,,,,RWFV6460917851385
+n_2225,IPAddress,52.46.127.204,,,,
+n_2226,Merchant,,Sibal-Balan,0.0,train,
+n_2227,Director,,Ojas Pandey,,,
+n_2228,BankAccount,,,,,SNNY0487368269116
+n_2229,Merchant,,Kakar Inc,0.0,train,
+n_2230,Director,,Pranav Dutt,,,
+n_2231,BankAccount,,,,,YYXM8653694551588
+n_2232,IPAddress,11.154.1.160,,,,
+n_2233,Merchant,,Talwar-Shetty,0.0,train,
+n_2234,Director,,Shivani Dugar,,,
+n_2235,BankAccount,,,,,FMJA8572169666309
+n_2236,IPAddress,113.73.192.118,,,,
+n_2237,Merchant,,"Rege, Bajaj and Nair",0.0,train,
+n_2238,Director,,Ojas Sodhi,,,
+n_2239,Director,,Kamala Bajaj,,,
+n_2240,BankAccount,,,,,XTZU6883275327352
+n_2241,IPAddress,33.250.25.10,,,,
+n_2242,Merchant,,Shenoy Group,0.0,train,
+n_2243,BankAccount,,,,,HVTO3278195237100
+n_2244,IPAddress,154.1.149.158,,,,
+n_2245,Merchant,,"Singhal, Rajan and Bobal",0.0,train,
+n_2246,Director,,Abha Yogi,,,
+n_2247,Director,,Arjun Sarna,,,
+n_2248,BankAccount,,,,,PXBJ6056876112491
+n_2249,IPAddress,187.186.19.198,,,,
+n_2250,Merchant,,Nori-Dhar,0.0,train,
+n_2251,Director,,Vasudha Kade,,,
+n_2252,Director,,Gunbir Narayan,,,
+n_2253,BankAccount,,,,,UWCO7345475749490
+n_2254,Merchant,,Divan PLC,0.0,train,
+n_2255,Director,,Atharv Kant,,,
+n_2256,Director,,Janani Manne,,,
+n_2257,BankAccount,,,,,JWFS4774222946430
+n_2258,Merchant,,Mitter and Sons,0.0,train,
+n_2259,Director,,Aashi Patla,,,
+n_2260,Director,,Vansha Garde,,,
+n_2261,BankAccount,,,,,LUES8585672872760
+n_2262,IPAddress,132.36.232.22,,,,
+n_2263,Merchant,,Kar-More,0.0,train,
+n_2264,Director,,Udarsh Doctor,,,
+n_2265,BankAccount,,,,,ITYX1357790833506
+n_2266,Merchant,,"Chaudhary, Narayan and Tripathi",0.0,train,
+n_2267,Director,,Anika Warrior,,,
+n_2268,Director,,Daksh Sekhon,,,
+n_2269,BankAccount,,,,,SQHH4233720948413
+n_2270,IPAddress,178.9.147.109,,,,
+n_2271,Merchant,,Virk LLC,0.0,train,
+n_2272,Director,,Sarthak Kari,,,
+n_2273,BankAccount,,,,,HSYS7718051371717
+n_2274,Merchant,,Chaudhry PLC,0.0,train,
+n_2275,Director,,Vidhi Mital,,,
+n_2276,BankAccount,,,,,SASN1739970469472
+n_2277,Merchant,,Tripathi-Subramanian,0.0,train,
+n_2278,Director,,Chandani Lalla,,,
+n_2279,Director,,Harita Maharaj,,,
+n_2280,BankAccount,,,,,VRQJ7127058772216
+n_2281,IPAddress,134.13.102.210,,,,
+n_2282,Merchant,,Oommen-Yohannan,0.0,train,
+n_2283,Director,,Rishi Chopra,,,
+n_2284,BankAccount,,,,,YHGJ8458714939252
+n_2285,IPAddress,99.43.127.222,,,,
+n_2286,Merchant,,Dugar PLC,0.0,train,
+n_2287,Director,,Eshana Varty,,,
+n_2288,BankAccount,,,,,PUTZ6434745245557
+n_2289,IPAddress,57.47.203.163,,,,
+n_2290,Merchant,,Ahluwalia-Raval,0.0,train,
+n_2291,Director,,Nilima Pandya,,,
+n_2292,Director,,Tanmayi Mahal,,,
+n_2293,BankAccount,,,,,AWGG4450566588339
+n_2294,IPAddress,12.98.39.12,,,,
+n_2295,Merchant,,Borde and Sons,0.0,train,
+n_2296,Director,,Eshana Srinivasan,,,
+n_2297,Director,,Chakradhar Ramakrishnan,,,
+n_2298,BankAccount,,,,,WWPH4996010548574
+n_2299,IPAddress,72.152.30.250,,,,
+n_2300,Merchant,,"Borah, Nair and Sachdev",0.0,train,
+n_2301,Director,,Matthew Mistry,,,
+n_2302,BankAccount,,,,,SGRC7359848840215
+n_2303,IPAddress,202.184.243.22,,,,
+n_2304,Merchant,,Kala-Gour,0.0,train,
+n_2305,Director,,Upadhriti Kari,,,
+n_2306,Director,,Janaki Nath,,,
+n_2307,BankAccount,,,,,GVWI4902166670808
+n_2308,IPAddress,59.251.50.176,,,,
+n_2309,Merchant,,Thaman LLC,0.0,train,
+n_2310,Director,,Barkha Nath,,,
+n_2311,BankAccount,,,,,UCXC9181828197931
+n_2312,IPAddress,189.202.80.202,,,,
+n_2313,Merchant,,Shroff-Seth,0.0,train,
+n_2314,Director,,Ganga Bora,,,
+n_2315,BankAccount,,,,,FUSK7860694096003
+n_2316,IPAddress,41.161.181.113,,,,
+n_2317,Merchant,,Kapoor-Narain,0.0,train,
+n_2318,Director,,Sai Pant,,,
+n_2319,BankAccount,,,,,WSEG2342108902851
+n_2320,IPAddress,52.46.120.18,,,,
+n_2321,Merchant,,Joshi and Sons,0.0,train,
+n_2322,Director,,Nihal Samra,,,
+n_2323,Director,,Viraj Kalla,,,
+n_2324,BankAccount,,,,,YLAE7160736077633
+n_2325,Merchant,,Dash-Chander,0.0,train,
+n_2326,BankAccount,,,,,FQSX8123179556331
+n_2327,Merchant,,"Parsa, Sridhar and Kumer",0.0,train,
+n_2328,Director,,Tanmayi Babu,,,
+n_2329,BankAccount,,,,,AMZN6155416431670
+n_2330,IPAddress,201.25.79.47,,,,
+n_2331,Merchant,,"Naik, Bath and Dhaliwal",0.0,train,
+n_2332,Director,,Peter Andra,,,
+n_2333,Director,,Zilmil Dugal,,,
+n_2334,BankAccount,,,,,EWPY0093459626228
+n_2335,IPAddress,194.185.249.51,,,,
+n_2336,Merchant,,Choudhary-Gaba,0.0,train,
+n_2337,Director,,Widisha Jani,,,
+n_2338,BankAccount,,,,,JMUL4950050702608
+n_2339,IPAddress,42.221.6.38,,,,
+n_2340,Merchant,,Chaudhry Inc,0.0,train,
+n_2341,Director,,Udant Chanda,,,
+n_2342,Director,,Dominic Chowdhury,,,
+n_2343,BankAccount,,,,,PONR7290477425859
+n_2344,IPAddress,134.43.99.186,,,,
+n_2345,Merchant,,Tailor-Hayre,0.0,train,
+n_2346,Director,,Theodore Varma,,,
+n_2347,Director,,Luke Kar,,,
+n_2348,BankAccount,,,,,VCXD6491334245798
+n_2349,IPAddress,12.68.130.89,,,,
+n_2350,Merchant,,Narang Group,0.0,train,
+n_2351,Director,,Maanav Banerjee,,,
+n_2352,Director,,Chanakya Hora,,,
+n_2353,BankAccount,,,,,FAEU0326509775396
+n_2354,IPAddress,22.223.240.37,,,,
+n_2355,Merchant,,Lall-Sarraf,0.0,train,
+n_2356,Director,,Ati Varkey,,,
+n_2357,Director,,Geetika Grewal,,,
+n_2358,BankAccount,,,,,IKZP8715841560821
+n_2359,IPAddress,119.81.165.185,,,,
+n_2360,Merchant,,Dara PLC,0.0,train,
+n_2361,Director,,Jonathan Palan,,,
+n_2362,BankAccount,,,,,JONR1826832303589
+n_2363,IPAddress,177.128.252.28,,,,
+n_2364,Merchant,,"Patil, Zacharia and Karpe",0.0,train,
+n_2365,Director,,Kavya Dutt,,,
+n_2366,Director,,Noah Kara,,,
+n_2367,BankAccount,,,,,YWER9634064686775
+n_2368,IPAddress,83.51.22.191,,,,
+n_2369,Merchant,,Borde LLC,0.0,train,
+n_2370,Director,,Sathvik Bhavsar,,,
+n_2371,Director,,Nirja Dey,,,
+n_2372,BankAccount,,,,,EPFY3626693351342
+n_2373,IPAddress,211.243.122.86,,,,
+n_2374,Merchant,,"Doshi, Jha and Sawhney",0.0,train,
+n_2375,Director,,Anya Narang,,,
+n_2376,Director,,Jacob Verma,,,
+n_2377,BankAccount,,,,,JQDY9737418972154
+n_2378,IPAddress,200.41.244.119,,,,
+n_2379,Merchant,,Kumer-Chowdhury,0.0,train,
+n_2380,Director,,Pooja Ganguly,,,
+n_2381,Director,,Bishakha Kar,,,
+n_2382,BankAccount,,,,,QDCX9953766014448
+n_2383,IPAddress,48.20.118.246,,,,
+n_2384,Merchant,,Chacko-Arya,0.0,train,
+n_2385,Director,,Vedika Kibe,,,
+n_2386,Director,,Timothy Saraf,,,
+n_2387,BankAccount,,,,,VIDY7899698609191
+n_2388,IPAddress,135.132.174.251,,,,
+n_2389,Merchant,,Patel PLC,0.0,train,
+n_2390,Director,,Meera Baral,,,
+n_2391,Director,,Ria Sharma,,,
+n_2392,BankAccount,,,,,SQBM6039205146074
+n_2393,Merchant,,Padmanabhan-Pandey,0.0,train,
+n_2394,Director,,Aradhana Sehgal,,,
+n_2395,Director,,Ekta Shanker,,,
+n_2396,BankAccount,,,,,WUIY2388565271559
+n_2397,IPAddress,5.210.16.180,,,,
+n_2398,Merchant,,Mohan-Chaudhuri,0.0,train,
+n_2399,Director,,Nidra Munshi,,,
+n_2400,BankAccount,,,,,TPUF6347557522501
+n_2401,IPAddress,98.123.245.226,,,,
+n_2402,Merchant,,"Minhas, Yohannan and Gokhale",0.0,train,
+n_2403,Director,,Faqid Issac,,,
+n_2404,Director,,Gautam Ravel,,,
+n_2405,BankAccount,,,,,IEWK8562614991537
+n_2406,Merchant,,Korpal PLC,0.0,train,
+n_2407,Director,,Anusha Bal,,,
+n_2408,BankAccount,,,,,PHWH3373204309776
+n_2409,IPAddress,2.196.218.84,,,,
+n_2410,Merchant,,Grewal-Venkataraman,0.0,train,
+n_2411,Director,,Lila Lal,,,
+n_2412,BankAccount,,,,,WZLZ4655358512538
+n_2413,IPAddress,134.47.11.142,,,,
+n_2414,Merchant,,"Soni, Wason and Murthy",0.0,train,
+n_2415,BankAccount,,,,,DZTH5837490797796
+n_2416,IPAddress,74.247.65.6,,,,
+n_2417,Merchant,,Sen PLC,0.0,train,
+n_2418,Director,,Idika Sood,,,
+n_2419,BankAccount,,,,,WECV5149409762637
+n_2420,Merchant,,Yohannan-Modi,0.0,train,
+n_2421,Director,,Viraj Trivedi,,,
+n_2422,BankAccount,,,,,NEYR9509059119186
+n_2423,IPAddress,182.58.81.141,,,,
+n_2424,Merchant,,Gola and Sons,0.0,train,
+n_2425,Director,,Warda Dar,,,
+n_2426,Director,,Gaurav Chandra,,,
+n_2427,BankAccount,,,,,MSWV6667252145264
+n_2428,IPAddress,10.243.251.225,,,,
+n_2429,Merchant,,Ratti-Iyer,0.0,train,
+n_2430,Director,,Indali Bumb,,,
+n_2431,Director,,Siya Chandra,,,
+n_2432,BankAccount,,,,,QIAT0805120800564
+n_2433,IPAddress,87.253.80.50,,,,
+n_2434,Merchant,,Gera and Sons,0.0,train,
+n_2435,Director,,Qabil Wason,,,
+n_2436,BankAccount,,,,,GLDV2959272827090
+n_2437,IPAddress,204.246.86.249,,,,
+n_2438,Merchant,,Manne-Chokshi,0.0,train,
+n_2439,Director,,Pranit Vasa,,,
+n_2440,BankAccount,,,,,FDPG9295786718153
+n_2441,IPAddress,47.83.43.192,,,,
+n_2442,Merchant,,Guha-Raval,0.0,train,
+n_2443,Director,,Ishita Bhargava,,,
+n_2444,BankAccount,,,,,PZVW9181589988683
+n_2445,IPAddress,126.69.93.17,,,,
+n_2446,Merchant,,Hora-Master,0.0,train,
+n_2447,BankAccount,,,,,UNMN6170715879647
+n_2448,IPAddress,199.147.11.21,,,,
+n_2449,Merchant,,"Bhakta, Wable and Barman",0.0,train,
+n_2450,Director,,Gaurav Mohanty,,,
+n_2451,Director,,Dipta Bava,,,
+n_2452,BankAccount,,,,,RABJ6358068828503
+n_2453,IPAddress,75.226.152.223,,,,
+n_2454,Merchant,,Nagarajan Inc,0.0,train,
+n_2455,BankAccount,,,,,WGPG9900631403526
+n_2456,IPAddress,174.249.105.197,,,,
+n_2457,Merchant,,Basu-Dugal,0.0,train,
+n_2458,Director,,Yatin Kuruvilla,,,
+n_2459,Director,,Dayita Jayaraman,,,
+n_2460,BankAccount,,,,,UXIN0666437490607
+n_2461,IPAddress,78.69.55.56,,,,
+n_2462,Merchant,,Contractor Inc,0.0,train,
+n_2463,Director,,Vrinda Bhavsar,,,
+n_2464,Director,,Falak Ganesh,,,
+n_2465,BankAccount,,,,,XIVW6484494116318
+n_2466,IPAddress,170.205.155.106,,,,
+n_2467,Merchant,,Vasa Inc,0.0,train,
+n_2468,Director,,Varenya Chopra,,,
+n_2469,Director,,Veer Barad,,,
+n_2470,BankAccount,,,,,MFCY1369572790833
+n_2471,IPAddress,177.102.118.244,,,,
+n_2472,Merchant,,"Atwal, Dua and Om",0.0,train,
+n_2473,Director,,Parth Palla,,,
+n_2474,Director,,Sai Bhalla,,,
+n_2475,BankAccount,,,,,MMEJ8132357071398
+n_2476,Merchant,,Dyal-Dhar,0.0,train,
+n_2477,Director,,Dakshesh Choudhury,,,
+n_2478,BankAccount,,,,,VCNQ8092550213060
+n_2479,Merchant,,"Bhardwaj, Ram and Dar",0.0,train,
+n_2480,Director,,Balendra Borah,,,
+n_2481,BankAccount,,,,,AUPS6496737945772
+n_2482,Merchant,,Yadav-Parsa,0.0,train,
+n_2483,Director,,Maanas Mangat,,,
+n_2484,Director,,Lipika Kurian,,,
+n_2485,BankAccount,,,,,FLXA6420768362536
+n_2486,Merchant,,Sahni-Sharma,0.0,train,
+n_2487,Director,,Sachi Rama,,,
+n_2488,BankAccount,,,,,OLKK6283333939578
+n_2489,IPAddress,221.16.10.105,,,,
+n_2490,Merchant,,Mohanty-Kala,0.0,train,
+n_2491,Director,,Lohit Singhal,,,
+n_2492,BankAccount,,,,,DRUO4960335826862
+n_2493,IPAddress,204.48.208.156,,,,
+n_2494,Merchant,,"Jhaveri, Raju and Gera",0.0,train,
+n_2495,Director,,Nachiket Ratti,,,
+n_2496,Director,,Matthew Sabharwal,,,
+n_2497,BankAccount,,,,,KOHX2759980111000
+n_2498,IPAddress,37.193.176.243,,,,
+n_2499,Merchant,,Parikh-Jain,0.0,train,
+n_2500,Director,,Tanay Mohanty,,,
+n_2501,BankAccount,,,,,CLTK9775244182226
+n_2502,IPAddress,90.56.50.0,,,,
+n_2503,Merchant,,Singh Ltd,0.0,train,
+n_2504,Director,,Zaid Comar,,,
+n_2505,BankAccount,,,,,VEOD0267672095799
+n_2506,Merchant,,Sem Inc,0.0,train,
+n_2507,Director,,Hemangini Nori,,,
+n_2508,BankAccount,,,,,CLCF2946213541597
+n_2509,IPAddress,90.188.58.239,,,,
+n_2510,Merchant,,Patla LLC,0.0,train,
+n_2511,Director,,Yochana Mammen,,,
+n_2512,Director,,Vrishti Nagar,,,
+n_2513,BankAccount,,,,,FBUH4476504715802
+n_2514,IPAddress,208.87.121.34,,,,
+n_2515,Merchant,,"Bahl, Mittal and Rai",0.0,train,
+n_2516,Director,,Upma Rai,,,
+n_2517,Director,,Balendra Madan,,,
+n_2518,BankAccount,,,,,WMKL8665254837441
+n_2519,IPAddress,210.182.164.162,,,,
+n_2520,Merchant,,"Nagar, Upadhyay and Comar",0.0,train,
+n_2521,Director,,Kabir Chhabra,,,
+n_2522,BankAccount,,,,,HCFL1293110059129
+n_2523,IPAddress,157.125.36.21,,,,
+n_2524,Merchant,,"Narayanan, Cherian and Dara",0.0,train,
+n_2525,Director,,Liam Iyengar,,,
+n_2526,Director,,Quincy Chand,,,
+n_2527,BankAccount,,,,,WCAN3301658373792
+n_2528,IPAddress,17.245.228.214,,,,
+n_2529,Merchant,,Goyal-Tripathi,0.0,train,
+n_2530,Director,,Fariq Goda,,,
+n_2531,Director,,Adya Dhawan,,,
+n_2532,BankAccount,,,,,RSGW1132532694968
+n_2533,IPAddress,141.247.241.92,,,,
+n_2534,Merchant,,Krishna-Pai,0.0,train,
+n_2535,Director,,Abhimanyu Krishnamurthy,,,
+n_2536,BankAccount,,,,,JYFC0175096170159
+n_2537,IPAddress,187.145.62.13,,,,
+n_2538,Merchant,,"Bhatti, Lala and Nagar",0.0,train,
+n_2539,Director,,Ishita Srinivasan,,,
+n_2540,BankAccount,,,,,LPJY7583392056775
+n_2541,IPAddress,220.231.91.25,,,,
+n_2542,Merchant,,Shetty-Sethi,0.0,train,
+n_2543,Director,,Lucky Rajan,,,
+n_2544,Director,,Aryan Dewan,,,
+n_2545,BankAccount,,,,,ZKMU2650622923106
+n_2546,Merchant,,Doctor-Madan,0.0,train,
+n_2547,Director,,Rudra Bains,,,
+n_2548,BankAccount,,,,,PMFJ8433797662705
+n_2549,IPAddress,203.145.32.193,,,,
+n_2550,Merchant,,Sood-Mann,0.0,train,
+n_2551,Director,,Wahab Venkataraman,,,
+n_2552,Director,,Tarak Saha,,,
+n_2553,BankAccount,,,,,PAJU2549691928455
+n_2554,IPAddress,162.12.213.187,,,,
+n_2555,Merchant,,Solanki-Bhatnagar,0.0,train,
+n_2556,Director,,Sanya Pingle,,,
+n_2557,BankAccount,,,,,NHGK3574859532593
+n_2558,IPAddress,143.43.77.0,,,,
+n_2559,Merchant,,Suresh PLC,0.0,train,
+n_2560,Director,,Anirudh Munshi,,,
+n_2561,Director,,Leena Divan,,,
+n_2562,BankAccount,,,,,TKCQ7794176342507
+n_2563,IPAddress,112.12.129.139,,,,
+n_2564,Merchant,,Parekh-Subramanian,0.0,train,
+n_2565,Director,,Anjali Nagarajan,,,
+n_2566,Director,,Dipta Yadav,,,
+n_2567,BankAccount,,,,,GZUG9914038843660
+n_2568,IPAddress,45.18.68.198,,,,
+n_2569,Merchant,,Minhas Inc,0.0,train,
+n_2570,BankAccount,,,,,AUUY6157276829751
+n_2571,IPAddress,207.165.197.145,,,,
+n_2572,Merchant,,Hora-Setty,0.0,train,
+n_2573,Director,,Nicholas Dave,,,
+n_2574,BankAccount,,,,,KADB5875256806562
+n_2575,IPAddress,34.53.206.9,,,,
+n_2576,Merchant,,"Mandal, Naik and Baral",0.0,train,
+n_2577,Director,,Kevin Taneja,,,
+n_2578,BankAccount,,,,,CCEE1823155516517
+n_2579,IPAddress,35.250.69.224,,,,
+n_2580,Merchant,,"Saha, Randhawa and Dubey",0.0,train,
+n_2581,BankAccount,,,,,RCGO2143308003700
+n_2582,IPAddress,115.184.255.157,,,,
+n_2583,Merchant,,Devan PLC,0.0,train,
+n_2584,Director,,Ekantika Ram,,,
+n_2585,BankAccount,,,,,YUVM0847068103903
+n_2586,IPAddress,119.221.10.116,,,,
+n_2587,Merchant,,Palla Ltd,0.0,train,
+n_2588,BankAccount,,,,,CSLQ2632809448586
+n_2589,Merchant,,Jaggi PLC,0.0,train,
+n_2590,Director,,Gaurika Hayre,,,
+n_2591,BankAccount,,,,,KIMD4707986321061
+n_2592,IPAddress,182.148.35.51,,,,
+n_2593,Merchant,,Misra Ltd,0.0,train,
+n_2594,Director,,Chavvi Patel,,,
+n_2595,Director,,Chatura Karpe,,,
+n_2596,BankAccount,,,,,SIGQ0403253765769
+n_2597,IPAddress,191.187.220.111,,,,
+n_2598,Merchant,,Mangal-Kothari,0.0,train,
+n_2599,Director,,Hredhaan Acharya,,,
+n_2600,Director,,Chandresh Apte,,,
+n_2601,BankAccount,,,,,IAJO6921053365146
+n_2602,IPAddress,147.9.191.73,,,,
+n_2603,Merchant,,Dar LLC,0.0,train,
+n_2604,Director,,Adya Shan,,,
+n_2605,Director,,Jai Balasubramanian,,,
+n_2606,BankAccount,,,,,PFAD1379844097123
+n_2607,Merchant,,Rao Ltd,0.0,train,
+n_2608,Director,,Ayushman Barad,,,
+n_2609,Director,,Rachana Shroff,,,
+n_2610,BankAccount,,,,,NFAS0144734043370
+n_2611,Merchant,,"Basu, Saran and Suresh",0.0,train,
+n_2612,Director,,Champak Mangat,,,
+n_2613,BankAccount,,,,,LCTL7782558825562
+n_2614,IPAddress,151.208.166.25,,,,
+n_2615,Merchant,,Palan-Master,0.0,train,
+n_2616,Director,,Warda Reddy,,,
+n_2617,BankAccount,,,,,LNCT4255778205829
+n_2618,IPAddress,42.52.17.88,,,,
+n_2619,Merchant,,"Dewan, Jha and Randhawa",0.0,train,
+n_2620,Director,,Oni Choudhury,,,
+n_2621,Director,,Zinal Chawla,,,
+n_2622,BankAccount,,,,,SAIR2357155868639
+n_2623,IPAddress,58.28.165.128,,,,
+n_2624,Merchant,,"Cherian, Kara and Setty",0.0,train,
+n_2625,Director,,Raghav Acharya,,,
+n_2626,Director,,Warhi Dhawan,,,
+n_2627,BankAccount,,,,,CWJH6438130004132
+n_2628,IPAddress,172.146.24.176,,,,
+n_2629,Merchant,,Kulkarni Group,0.0,train,
+n_2630,Director,,Pahal Parmar,,,
+n_2631,Director,,Advaith Mital,,,
+n_2632,BankAccount,,,,,KMLG4699799070755
+n_2633,Merchant,,Kumer Ltd,0.0,train,
+n_2634,Director,,Leela Yohannan,,,
+n_2635,BankAccount,,,,,YDNW9957060717481
+n_2636,Merchant,,Korpal Ltd,0.0,train,
+n_2637,Director,,Suhani Raghavan,,,
+n_2638,BankAccount,,,,,XKHT7054873961029
+n_2639,IPAddress,208.231.78.164,,,,
+n_2640,Merchant,,"Saxena, Biswas and Thakkar",0.0,train,
+n_2641,BankAccount,,,,,FOIW9680491872742
+n_2642,Merchant,,Mannan PLC,0.0,train,
+n_2643,Director,,Pooja Choudhary,,,
+n_2644,BankAccount,,,,,VECG7730626042359
+n_2645,IPAddress,170.234.56.219,,,,
+n_2646,Merchant,,"Saxena, D’Alia and Chaudhuri",0.0,train,
+n_2647,BankAccount,,,,,FEEX9907756085816
+n_2648,IPAddress,24.236.196.83,,,,
+n_2649,Merchant,,Sami-Bhavsar,0.0,train,
+n_2650,Director,,Gagan Lall,,,
+n_2651,BankAccount,,,,,VLPM8321021923785
+n_2652,Merchant,,"Lall, Sridhar and Bhavsar",0.0,train,
+n_2653,Director,,Odika D’Alia,,,
+n_2654,Director,,Vincent Jain,,,
+n_2655,BankAccount,,,,,EJEX6050801849804
+n_2656,IPAddress,212.98.207.107,,,,
+n_2657,Merchant,,Kohli-Srinivasan,0.0,train,
+n_2658,Director,,Ranbir Soman,,,
+n_2659,Director,,Varenya Kala,,,
+n_2660,BankAccount,,,,,DFMR8122821781923
+n_2661,IPAddress,154.118.236.216,,,,
+n_2662,Merchant,,"Pathak, Kar and Lala",0.0,train,
+n_2663,Director,,Darpan Sankaran,,,
+n_2664,BankAccount,,,,,BKYM0356793279862
+n_2665,IPAddress,116.154.31.122,,,,
+n_2666,Merchant,,Borde-Sant,0.0,train,
+n_2667,Director,,Omisha Bhatti,,,
+n_2668,BankAccount,,,,,RCWY2054647548954
+n_2669,IPAddress,169.239.9.132,,,,
+n_2670,Merchant,,"Sura, Raju and Devan",0.0,train,
+n_2671,Director,,Geetika Chand,,,
+n_2672,Director,,Hema Walia,,,
+n_2673,BankAccount,,,,,QTUC4444983553935
+n_2674,Merchant,,Handa-Nayak,0.0,train,
+n_2675,Director,,Arya Lalla,,,
+n_2676,Director,,Raghav Dewan,,,
+n_2677,BankAccount,,,,,ZYWJ3588537982143
+n_2678,IPAddress,103.89.120.16,,,,
+n_2679,Merchant,,Taneja LLC,0.0,train,
+n_2680,Director,,Manya Sule,,,
+n_2681,Director,,Tripti Yogi,,,
+n_2682,BankAccount,,,,,KEIT1416860134778
+n_2683,IPAddress,145.187.222.170,,,,
+n_2684,Merchant,,"Salvi, Issac and Lata",0.0,train,
+n_2685,Director,,Prisha Suri,,,
+n_2686,BankAccount,,,,,TDPN6512215001418
+n_2687,IPAddress,10.9.235.196,,,,
+n_2688,Merchant,,Sampath and Sons,0.0,train,
+n_2689,Director,,Darpan Anne,,,
+n_2690,BankAccount,,,,,DKTX4463339994853
+n_2691,IPAddress,109.17.70.172,,,,
+n_2692,Merchant,,Garg Group,0.0,test,
+n_2693,Director,,Anay Dyal,,,
+n_2694,Director,,Anamika Sunder,,,
+n_2695,BankAccount,,,,,DDHN3379223410346
+n_2696,IPAddress,152.191.191.43,,,,
+n_2697,Merchant,,Kala-Kata,0.0,test,
+n_2698,Director,,Finn Rege,,,
+n_2699,Director,,Saanvi Doctor,,,
+n_2700,BankAccount,,,,,XMTY6084376855078
+n_2701,IPAddress,156.76.213.17,,,,
+n_2702,Merchant,,"Jha, Pradhan and Dhawan",0.0,test,
+n_2703,Director,,Krishna Ganguly,,,
+n_2704,BankAccount,,,,,ZMGG5564343697093
+n_2705,IPAddress,132.35.246.82,,,,
+n_2706,Merchant,,Bains-Ramachandran,0.0,test,
+n_2707,Director,,Jagvi Raj,,,
+n_2708,BankAccount,,,,,APNX7616453454722
+n_2709,IPAddress,115.33.163.36,,,,
+n_2710,Merchant,,Raj LLC,0.0,test,
+n_2711,Director,,Veer Chana,,,
+n_2712,BankAccount,,,,,WFCT8041847242642
+n_2713,IPAddress,116.252.78.140,,,,
+n_2714,Merchant,,Verma Inc,0.0,test,
+n_2715,Director,,George Ben,,,
+n_2716,BankAccount,,,,,SUZZ2487623039111
+n_2717,IPAddress,121.110.10.78,,,,
+n_2718,Merchant,,"Dash, Shere and Pillay",0.0,test,
+n_2719,Director,,Michael Walla,,,
+n_2720,BankAccount,,,,,FHZA5248088062207
+n_2721,IPAddress,106.29.221.39,,,,
+n_2722,Merchant,,Pillai PLC,0.0,test,
+n_2723,Director,,Turvi Korpal,,,
+n_2724,BankAccount,,,,,OFWD3290162047876
+n_2725,IPAddress,7.59.47.29,,,,
+n_2726,Merchant,,"Shukla, Venkatesh and Pandya",0.0,test,
+n_2727,Director,,Zayan Viswanathan,,,
+n_2728,Director,,Ojas Thakur,,,
+n_2729,BankAccount,,,,,PEZB3195419666450
+n_2730,IPAddress,44.183.140.37,,,,
+n_2731,Merchant,,Kale Group,0.0,test,
+n_2732,Director,,Shivani Dey,,,
+n_2733,BankAccount,,,,,UZJM3203747677537
+n_2734,IPAddress,67.73.65.204,,,,
+n_2735,Merchant,,Dhingra Ltd,0.0,test,
+n_2736,Director,,Chakrika Prasad,,,
+n_2737,BankAccount,,,,,BLOM6194588707155
+n_2738,IPAddress,97.83.219.46,,,,
+n_2739,Merchant,,Chaudhuri and Sons,0.0,test,
+n_2740,Director,,Darpan Bakshi,,,
+n_2741,BankAccount,,,,,QGUQ5076597595450
+n_2742,IPAddress,161.249.7.27,,,,
+n_2743,Merchant,,Sura-Sant,0.0,test,
+n_2744,Director,,Yashawini Bhavsar,,,
+n_2745,Director,,Krishna Narayanan,,,
+n_2746,BankAccount,,,,,VWOX4223196463004
+n_2747,IPAddress,72.130.31.64,,,,
+n_2748,Merchant,,Sahota PLC,0.0,test,
+n_2749,Director,,Omisha Doshi,,,
+n_2750,Director,,Aadhya Kade,,,
+n_2751,BankAccount,,,,,ACFB4713727117595
+n_2752,IPAddress,168.132.35.128,,,,
+n_2753,Merchant,,"Narayanan, Narain and Vyas",0.0,test,
+n_2754,Director,,Zinal Mallick,,,
+n_2755,Director,,Upkaar Bains,,,
+n_2756,BankAccount,,,,,NPIK8476094412833
+n_2757,IPAddress,215.245.169.110,,,,
+n_2758,Merchant,,Dua-Chaudhari,0.0,test,
+n_2759,Director,,Nitara Ratta,,,
+n_2760,Director,,Garima Mistry,,,
+n_2761,BankAccount,,,,,CHFT7150666267055
+n_2762,IPAddress,79.21.107.78,,,,
+n_2763,Merchant,,Swamy-Randhawa,0.0,test,
+n_2764,Director,,Nidra Sani,,,
+n_2765,Director,,Bhavini Kohli,,,
+n_2766,BankAccount,,,,,TZFK2959611110286
+n_2767,IPAddress,18.244.62.173,,,,
+n_2768,Merchant,,"Doshi, Behl and Agate",0.0,test,
+n_2769,Director,,Peter Bali,,,
+n_2770,BankAccount,,,,,EJLV5910245109109
+n_2771,IPAddress,76.77.203.40,,,,
+n_2772,Merchant,,Raman Group,0.0,test,
+n_2773,Director,,Amara Manne,,,
+n_2774,BankAccount,,,,,TQCT4217942817934
+n_2775,IPAddress,85.172.144.243,,,,
+n_2776,Merchant,,"Gaba, Solanki and Sethi",0.0,test,
+n_2777,BankAccount,,,,,LQJJ6634533722010
+n_2778,IPAddress,135.136.177.172,,,,
+n_2779,Merchant,,Chokshi Group,0.0,test,
+n_2780,Director,,Manthan Borah,,,
+n_2781,Director,,Gaurangi Nagarajan,,,
+n_2782,BankAccount,,,,,SHWP6618943705263
+n_2783,IPAddress,35.33.96.148,,,,
+n_2784,Merchant,,Krishnan Group,0.0,test,
+n_2785,Director,,Widisha Sheth,,,
+n_2786,BankAccount,,,,,VMZW5725659202461
+n_2787,IPAddress,26.180.175.90,,,,
+n_2788,Merchant,,Basak and Sons,0.0,test,
+n_2789,Director,,Yochana Tandon,,,
+n_2790,Director,,Samaksh Gole,,,
+n_2791,BankAccount,,,,,NBYA5595501783325
+n_2792,IPAddress,145.128.35.204,,,,
+n_2793,Merchant,,"Raman, Wadhwa and Hegde",0.0,test,
+n_2794,Director,,Balveer Sha,,,
+n_2795,Director,,Tanmayi Basu,,,
+n_2796,BankAccount,,,,,JKAN9176799359374
+n_2797,IPAddress,34.122.59.120,,,,
+n_2798,Merchant,,Kumar Group,0.0,test,
+n_2799,Director,,Aayush Wali,,,
+n_2800,Director,,Banjeet Kapadia,,,
+n_2801,BankAccount,,,,,OHMA6014886084907
+n_2802,IPAddress,196.218.137.88,,,,
+n_2803,Merchant,,"Mani, D’Alia and Keer",0.0,test,
+n_2804,Director,,Falguni Goel,,,
+n_2805,Director,,Akshay Sanghvi,,,
+n_2806,BankAccount,,,,,CKUH7012424462632
+n_2807,Merchant,,Chatterjee-Mani,0.0,test,
+n_2808,Director,,Ekapad Bose,,,
+n_2809,BankAccount,,,,,EDAH1421751887817
+n_2810,IPAddress,145.207.173.44,,,,
+n_2811,Merchant,,Parekh Inc,0.0,test,
+n_2812,Director,,Patrick Rama,,,
+n_2813,BankAccount,,,,,ZGRI0911225288375
+n_2814,IPAddress,88.233.239.36,,,,
+n_2815,Merchant,,Chawla-Vala,0.0,test,
+n_2816,Director,,Simon Ganesh,,,
+n_2817,BankAccount,,,,,GTUP9137876553007
+n_2818,IPAddress,98.215.231.53,,,,
+n_2819,Merchant,,Pradhan Ltd,0.0,test,
+n_2820,Director,,Ojasvi Amble,,,
+n_2821,BankAccount,,,,,KOCE1988192778851
+n_2822,Merchant,,"Bali, Nadig and Korpal",0.0,test,
+n_2823,BankAccount,,,,,JRNJ0104246245618
+n_2824,IPAddress,63.227.239.89,,,,
+n_2825,Merchant,,Mital-Ray,0.0,test,
+n_2826,BankAccount,,,,,AAJK2128991511455
+n_2827,IPAddress,213.216.3.182,,,,
+n_2828,Merchant,,"Kala, Brar and Kata",0.0,test,
+n_2829,Director,,Aradhana Mukhopadhyay,,,
+n_2830,BankAccount,,,,,YRYR1898484160461
+n_2831,Merchant,,"Nath, Luthra and Ben",0.0,test,
+n_2832,Director,,Ekapad Chandra,,,
+n_2833,BankAccount,,,,,SADP0756814298315
+n_2834,IPAddress,105.169.119.147,,,,
+n_2835,Merchant,,"Badal, Singhal and Kamdar",0.0,test,
+n_2836,Director,,Omkaar Upadhyay,,,
+n_2837,Director,,Nikita Ahluwalia,,,
+n_2838,BankAccount,,,,,VQIS3783063963845
+n_2839,Merchant,,Ravel PLC,0.0,test,
+n_2840,Director,,Bhavna Luthra,,,
+n_2841,BankAccount,,,,,HTDW6497016934292
+n_2842,Merchant,,"Dar, Kothari and Deo",0.0,test,
+n_2843,Director,,Vihaan Krish,,,
+n_2844,BankAccount,,,,,XBXC6234190310615
+n_2845,Merchant,,Sekhon and Sons,0.0,test,
+n_2846,Director,,Jatin Pillay,,,
+n_2847,Director,,Nirja Radhakrishnan,,,
+n_2848,BankAccount,,,,,VQVI7323653377460
+n_2849,IPAddress,123.119.98.134,,,,
+n_2850,Merchant,,Dutt-Bhat,0.0,test,
+n_2851,Director,,Tara Viswanathan,,,
+n_2852,Director,,Samar Sachdev,,,
+n_2853,BankAccount,,,,,DJEJ4260781975437
+n_2854,IPAddress,103.26.58.247,,,,
+n_2855,Merchant,,Ramakrishnan-Madan,0.0,test,
+n_2856,Director,,Varsha Kannan,,,
+n_2857,BankAccount,,,,,OEAY3763882145841
+n_2858,IPAddress,125.61.169.146,,,,
+n_2859,Merchant,,"Raval, Bahri and Bhatnagar",0.0,test,
+n_2860,Director,,Wyatt Mandal,,,
+n_2861,BankAccount,,,,,IZHY8998278020586
+n_2862,IPAddress,128.23.237.217,,,,
+n_2863,Merchant,,Hari-Grover,0.0,test,
+n_2864,Director,,Damini Sandal,,,
+n_2865,BankAccount,,,,,IWZI9369995167933
+n_2866,Merchant,,Bath-Nayar,0.0,test,
+n_2867,Director,,Urishilla Khosla,,,
+n_2868,Director,,Waida Kari,,,
+n_2869,BankAccount,,,,,NRAW1192360376811
+n_2870,Merchant,,"Sastry, Deshmukh and Kant",0.0,test,
+n_2871,Director,,Tejas Prabhakar,,,
+n_2872,BankAccount,,,,,DBIA9614973153911
+n_2873,IPAddress,163.219.255.4,,,,
+n_2874,Merchant,,Soni Ltd,0.0,test,
+n_2875,Director,,Oliver Ahuja,,,
+n_2876,Director,,Tarak Sabharwal,,,
+n_2877,BankAccount,,,,,KDCQ9394065578201
+n_2878,IPAddress,192.80.87.127,,,,
+n_2879,Merchant,,"Maharaj, Hans and Gera",0.0,test,
+n_2880,Director,,Vivaan Bath,,,
+n_2881,BankAccount,,,,,XFGG3247073920135
+n_2882,IPAddress,147.44.138.207,,,,
+n_2883,Merchant,,"Sankaran, Dube and Bhatnagar",0.0,test,
+n_2884,Director,,Urvi Radhakrishnan,,,
+n_2885,BankAccount,,,,,AFLB8261123126163
+n_2886,IPAddress,138.162.215.242,,,,
+n_2887,Merchant,,Venkatesh-Wali,0.0,test,
+n_2888,Director,,Sneha Dugar,,,
+n_2889,Director,,Saumya Sandal,,,
+n_2890,BankAccount,,,,,FTZO4549303646871
+n_2891,IPAddress,211.176.237.71,,,,
+n_2892,Merchant,,"Date, Bhagat and Karpe",0.0,test,
+n_2893,Director,,Varenya Rana,,,
+n_2894,Director,,Chatresh Vasa,,,
+n_2895,BankAccount,,,,,FRHZ2308981388158
+n_2896,IPAddress,6.19.199.176,,,,
+n_2897,Merchant,,Natarajan-Deshpande,0.0,test,
+n_2898,Director,,Chaitanya Sane,,,
+n_2899,BankAccount,,,,,PGEZ3182971681572
+n_2900,Merchant,,"Majumdar, Nazareth and Balan",0.0,test,
+n_2901,BankAccount,,,,,BYAY0001529113717
+n_2902,IPAddress,165.241.211.102,,,,
+n_2903,Merchant,,Bal Ltd,0.0,test,
+n_2904,Director,,Ira Munshi,,,
+n_2905,Director,,Ishwar Thaman,,,
+n_2906,BankAccount,,,,,UJYJ4218299874781
+n_2907,IPAddress,108.159.166.141,,,,
+n_2908,Merchant,,"Basak, Murthy and Raghavan",0.0,test,
+n_2909,Director,,Banjeet Tripathi,,,
+n_2910,BankAccount,,,,,NOAB9004365515848
+n_2911,IPAddress,110.11.37.91,,,,
+n_2912,Merchant,,"Das, Keer and Sachar",0.0,test,
+n_2913,Director,,Amruta Vaidya,,,
+n_2914,Director,,Ekanta Pingle,,,
+n_2915,BankAccount,,,,,VBLJ2960807063369
+n_2916,IPAddress,222.184.131.134,,,,
+n_2917,Merchant,,"Pant, Badal and Vora",0.0,test,
+n_2918,Director,,Jeremiah Bhattacharyya,,,
+n_2919,BankAccount,,,,,BIZB1648188044287
+n_2920,IPAddress,23.247.239.0,,,,
+n_2921,Merchant,,"Hari, Radhakrishnan and Guha",0.0,test,
+n_2922,Director,,Mugdha Loyal,,,
+n_2923,BankAccount,,,,,HEVC2694289464203
+n_2924,Merchant,,De-Pillay,0.0,test,
+n_2925,Director,,Tanish Chawla,,,
+n_2926,Director,,Zayan Butala,,,
+n_2927,BankAccount,,,,,OBMJ6255402635582
+n_2928,IPAddress,33.125.40.180,,,,
+n_2929,Merchant,,"Chad, Singhal and Purohit",0.0,test,
+n_2930,Director,,Nisha Mammen,,,
+n_2931,Director,,Yochana Wali,,,
+n_2932,BankAccount,,,,,QAYH1538882452790
+n_2933,IPAddress,149.193.101.156,,,,
+n_2934,Merchant,,Mann Ltd,0.0,test,
+n_2935,Director,,Bishakha Khare,,,
+n_2936,Director,,Tarak Joshi,,,
+n_2937,BankAccount,,,,,YLGQ4951632111978
+n_2938,IPAddress,19.245.254.244,,,,
+n_2939,Merchant,,"Bava, Issac and Khosla",0.0,test,
+n_2940,Director,,Rudra Tailor,,,
+n_2941,BankAccount,,,,,GEMU5306011987561
+n_2942,IPAddress,29.7.195.11,,,,
+n_2943,Merchant,,"Vohra, Anand and Anne",0.0,test,
+n_2944,Director,,Sathvik Bala,,,
+n_2945,Director,,Hredhaan Natt,,,
+n_2946,BankAccount,,,,,YNDR2980365774491
+n_2947,Merchant,,"Sagar, Aggarwal and Kala",0.0,test,
+n_2948,Director,,Jhalak Pal,,,
+n_2949,BankAccount,,,,,EBCJ9118941843368
+n_2950,IPAddress,16.216.18.203,,,,
+n_2951,Merchant,,"Dewan, Reddy and Hayer",0.0,test,
+n_2952,Director,,Nakul Kale,,,
+n_2953,BankAccount,,,,,TTQE1374556114042
+n_2954,IPAddress,14.132.22.103,,,,
+n_2955,Merchant,,"Basak, Peri and Bail",0.0,test,
+n_2956,BankAccount,,,,,YZKH7666081126003
+n_2957,IPAddress,209.197.187.234,,,,
+n_2958,Merchant,,"Jani, Patel and Ramakrishnan",0.0,test,
+n_2959,Director,,Gaurang Bala,,,
+n_2960,BankAccount,,,,,MEVO1531234550688
+n_2961,IPAddress,96.222.196.188,,,,
+n_2962,Merchant,,Sundaram-Samra,0.0,test,
+n_2963,Director,,Shivansh Vohra,,,
+n_2964,BankAccount,,,,,IJXB1348087354378
+n_2965,Merchant,,"Wadhwa, Deshpande and Reddy",0.0,test,
+n_2966,Director,,Simon Kaur,,,
+n_2967,Director,,Jeet Bera,,,
+n_2968,BankAccount,,,,,DVLO0908599144920
+n_2969,Merchant,,"Sethi, Kumer and Gandhi",0.0,test,
+n_2970,Director,,Osha Prashad,,,
+n_2971,Director,,Tanmayi Chakraborty,,,
+n_2972,BankAccount,,,,,QJER5969325914084
+n_2973,IPAddress,140.113.226.140,,,,
+n_2974,Merchant,,Gupta Inc,0.0,test,
+n_2975,Director,,Udant Menon,,,
+n_2976,BankAccount,,,,,YEYN6980690872617
+n_2977,Merchant,,Balasubramanian-Sathe,0.0,test,
+n_2978,Director,,Tarak More,,,
+n_2979,Director,,Zinal Kannan,,,
+n_2980,BankAccount,,,,,KVVT5382804056129
+n_2981,IPAddress,149.216.130.155,,,,
+n_2982,Merchant,,Din Group,0.0,test,
+n_2983,BankAccount,,,,,SYLR2641869656130
+n_2984,IPAddress,3.180.45.60,,,,
+n_2985,Merchant,,Dhingra and Sons,0.0,test,
+n_2986,BankAccount,,,,,ZQKS5143468239484
+n_2987,IPAddress,130.152.145.174,,,,
+n_2988,Merchant,,Gala Group,0.0,test,
+n_2989,Director,,Aarav Ahuja,,,
+n_2990,BankAccount,,,,,VQNT6610168311395
+n_2991,IPAddress,172.52.49.167,,,,
+n_2992,Merchant,,Bhatti Group,0.0,test,
+n_2993,Director,,Arya Buch,,,
+n_2994,Director,,Elijah Nagy,,,
+n_2995,BankAccount,,,,,BONY2839762053440
+n_2996,IPAddress,222.25.205.21,,,,
+n_2997,Merchant,,Manda-Raman,0.0,test,
+n_2998,Director,,Dalbir Sen,,,
+n_2999,BankAccount,,,,,EXMY6292508177602
+n_3000,Merchant,,"Bhavsar, Lall and Bajaj",0.0,test,
+n_3001,Director,,Adya Bhavsar,,,
+n_3002,Director,,Rushil Jain,,,
+n_3003,BankAccount,,,,,OHCE5523561781703
+n_3004,IPAddress,168.84.27.146,,,,
+n_3005,Merchant,,"Chaudry, Brar and Gade",0.0,test,
+n_3006,Director,,Ladli Chowdhury,,,
+n_3007,BankAccount,,,,,HYNH8527789561337
+n_3008,IPAddress,82.253.152.24,,,,
+n_3009,Merchant,,Lalla-Bawa,0.0,test,
+n_3010,Director,,Ekantika Batta,,,
+n_3011,BankAccount,,,,,EMJQ0164403734167
+n_3012,IPAddress,10.68.180.5,,,,
+n_3013,Merchant,,Tata-Varghese,0.0,test,
+n_3014,Director,,Rachit Borde,,,
+n_3015,BankAccount,,,,,AFUC7982134862985
+n_3016,IPAddress,191.184.199.10,,,,
+n_3017,Merchant,,"Sarma, Kaur and Sandhu",0.0,test,
+n_3018,Director,,Xavier Contractor,,,
+n_3019,Director,,Eiravati Rege,,,
+n_3020,BankAccount,,,,,AKHS7079866177067
+n_3021,IPAddress,118.123.58.21,,,,
+n_3022,Merchant,,"Din, Aurora and Patla",0.0,test,
+n_3023,Director,,Krisha Zachariah,,,
+n_3024,Director,,Frado Garg,,,
+n_3025,BankAccount,,,,,FHUL5216505871469
+n_3026,IPAddress,105.42.113.134,,,,
+n_3027,Merchant,,"Ghosh, Bora and Dewan",0.0,test,
+n_3028,Director,,Mitali Shan,,,
+n_3029,BankAccount,,,,,YTBR9843699848022
+n_3030,IPAddress,209.53.143.116,,,,
+n_3031,Merchant,,Bandi-Karpe,0.0,test,
+n_3032,Director,,Zashil Tripathi,,,
+n_3033,BankAccount,,,,,JUEJ9598811457887
+n_3034,IPAddress,203.68.149.19,,,,
+n_3035,Merchant,,"Sastry, Chand and Parikh",0.0,test,
+n_3036,Director,,Wahab Ratti,,,
+n_3037,Director,,Madhavi Sridhar,,,
+n_3038,BankAccount,,,,,GRYV2097461917798
+n_3039,IPAddress,20.204.30.231,,,,
+n_3040,Merchant,,"Sarin, Tiwari and Tank",0.0,test,
+n_3041,Director,,Kai Nagarajan,,,
+n_3042,Director,,Wakeeta Barad,,,
+n_3043,BankAccount,,,,,ZURK8062350405669
+n_3044,IPAddress,61.57.131.224,,,,
+n_3045,Merchant,,"Barad, Balasubramanian and Dash",0.0,test,
+n_3046,Director,,Ati Goda,,,
+n_3047,Director,,Kavya Loyal,,,
+n_3048,BankAccount,,,,,IFQM7963259423289
+n_3049,IPAddress,168.200.99.169,,,,
+n_3050,Merchant,,Hayer PLC,0.0,test,
+n_3051,Director,,Harini Ravel,,,
+n_3052,Director,,Abha Buch,,,
+n_3053,BankAccount,,,,,VVKF8572562926933
+n_3054,IPAddress,55.174.238.30,,,,
+n_3055,Merchant,,Kapoor PLC,0.0,test,
+n_3056,Director,,Mahika Pingle,,,
+n_3057,BankAccount,,,,,LAUP8468509574430
+n_3058,IPAddress,96.245.182.232,,,,
+n_3059,Merchant,,"Vala, Borde and Chowdhury",0.0,test,
+n_3060,Director,,Veda Gala,,,
+n_3061,BankAccount,,,,,BGQW5934015364154
+n_3062,IPAddress,26.116.225.207,,,,
+n_3063,Merchant,,Jain-Chhabra,0.0,test,
+n_3064,Director,,Oscar Pau,,,
+n_3065,BankAccount,,,,,TGNP8136750094214
+n_3066,IPAddress,200.89.58.115,,,,
+n_3067,Merchant,,Pandya and Sons,0.0,test,
+n_3068,Director,,Leela Wadhwa,,,
+n_3069,BankAccount,,,,,DWSQ7809270452388
+n_3070,IPAddress,3.100.173.4,,,,
+n_3071,Merchant,,Gaba-Devan,0.0,test,
+n_3072,Director,,Priya Saha,,,
+n_3073,Director,,Ekta Toor,,,
+n_3074,BankAccount,,,,,NZYO8744227585485
+n_3075,IPAddress,189.128.187.242,,,,
+n_3076,Merchant,,Nadig-Mani,0.0,test,
+n_3077,Director,,Yadavi Dave,,,
+n_3078,Director,,Jagat Butala,,,
+n_3079,BankAccount,,,,,ZWNK0200024539313
+n_3080,IPAddress,71.104.45.171,,,,
+n_3081,Merchant,,Nadig-Biswas,0.0,test,
+n_3082,Director,,Abdul Naik,,,
+n_3083,Director,,Vasana Bandi,,,
+n_3084,BankAccount,,,,,QGUU6821444889669
+n_3085,IPAddress,159.102.120.225,,,,
+n_3086,Merchant,,Tata Ltd,0.0,test,
+n_3087,BankAccount,,,,,HNOU7462025825431
+n_3088,IPAddress,10.196.23.111,,,,
+n_3089,Merchant,,"Cherian, Deol and Gupta",0.0,test,
+n_3090,Director,,Jonathan Iyengar,,,
+n_3091,Director,,Abhimanyu Mody,,,
+n_3092,BankAccount,,,,,TCBM0183647238750
+n_3093,IPAddress,15.139.236.34,,,,
+n_3094,Merchant,,Venkataraman-Chahal,0.0,test,
+n_3095,Director,,Peter Golla,,,
+n_3096,Director,,Varsha Shetty,,,
+n_3097,BankAccount,,,,,KIXL8472629052918
+n_3098,IPAddress,167.65.214.15,,,,
+n_3099,Merchant,,Khosla-Chaudry,0.0,test,
+n_3100,Director,,Chatresh Gopal,,,
+n_3101,BankAccount,,,,,WODU7217337399205
+n_3102,Merchant,,Gera and Sons,0.0,test,
+n_3103,Director,,Nisha Garg,,,
+n_3104,Director,,Prisha Narain,,,
+n_3105,BankAccount,,,,,VSCU4388232553983
+n_3106,Merchant,,Morar-Loke,0.0,test,
+n_3107,BankAccount,,,,,NDPX7732643095449
+n_3108,IPAddress,167.248.73.238,,,,
+n_3109,Merchant,,"Dada, Gole and Sekhon",0.0,test,
+n_3110,Director,,Aarnav Grover,,,
+n_3111,Director,,Ria Boase,,,
+n_3112,BankAccount,,,,,FBKH9787137529883
+n_3113,Merchant,,Dixit Inc,0.0,test,
+n_3114,Director,,Krish Patla,,,
+n_3115,BankAccount,,,,,MXZX0832004879788
+n_3116,IPAddress,15.3.144.53,,,,
+n_3117,Merchant,,Kade-Pradhan,0.0,test,
+n_3118,Director,,Qasim Khalsa,,,
+n_3119,BankAccount,,,,,URMB0304436199517
+n_3120,IPAddress,74.110.171.115,,,,
+n_3121,Merchant,,Chander Inc,0.0,test,
+n_3122,BankAccount,,,,,YEUS2950143748309
+n_3123,IPAddress,172.10.15.141,,,,
+n_3124,Merchant,,"Sagar, Singhal and Butala",0.0,test,
+n_3125,Director,,Xalak Chander,,,
+n_3126,BankAccount,,,,,TDEM0221321767201
+n_3127,Merchant,,"Chakraborty, D’Alia and Chowdhury",0.0,test,
+n_3128,Director,,Neha Cheema,,,
+n_3129,Director,,Pratyush Barman,,,
+n_3130,BankAccount,,,,,DTXB7258733930493
+n_3131,IPAddress,26.203.69.4,,,,
+n_3132,Merchant,,Yadav Inc,0.0,test,
+n_3133,Director,,Tamanna Mitra,,,
+n_3134,Director,,Mason Manda,,,
+n_3135,BankAccount,,,,,FDCJ0868250952294
+n_3136,IPAddress,33.24.105.19,,,,
+n_3137,Merchant,,"Hari, Peri and Palla",0.0,test,
+n_3138,BankAccount,,,,,XMZC0399529701371
+n_3139,IPAddress,76.53.90.123,,,,
+n_3140,Merchant,,Parmer-Narain,0.0,test,
+n_3141,Director,,Lila Mohanty,,,
+n_3142,BankAccount,,,,,YEGA4120270615927
+n_3143,Merchant,,Talwar LLC,0.0,test,
+n_3144,Director,,Ojas Bhat,,,
+n_3145,BankAccount,,,,,OXXC6690632248155
+n_3146,IPAddress,121.68.207.66,,,,
+n_3147,Merchant,,"Amble, Kapadia and Mangal",0.0,test,
+n_3148,Director,,Zaid Bhargava,,,
+n_3149,BankAccount,,,,,DATL6797564915795
+n_3150,IPAddress,59.53.252.168,,,,
+n_3151,Merchant,,Koshy LLC,0.0,test,
+n_3152,Director,,Hitesh Devan,,,
+n_3153,Director,,Triya Saraf,,,
+n_3154,BankAccount,,,,,ADBR0181030683176
+n_3155,IPAddress,124.92.35.229,,,,
+n_3156,Merchant,,Edwin-Sampath,0.0,test,
+n_3157,Director,,Agastya Varughese,,,
+n_3158,Director,,Jeevika Sem,,,
+n_3159,BankAccount,,,,,DESA1507138067130
+n_3160,IPAddress,23.85.132.47,,,,
+n_3161,Merchant,,Buch-Batta,0.0,test,
+n_3162,Director,,Jalsa Wali,,,
+n_3163,Director,,Vyanjana Mital,,,
+n_3164,BankAccount,,,,,GZMF1300962588576
+n_3165,IPAddress,144.61.157.82,,,,
+n_3166,Merchant,,Balan-Jayaraman,0.0,test,
+n_3167,Director,,Abdul Nath,,,
+n_3168,BankAccount,,,,,GVZY3962746662159
+n_3169,IPAddress,79.101.34.191,,,,
+n_3170,Merchant,,Soman Inc,0.0,test,
+n_3171,Director,,Dakshesh Lata,,,
+n_3172,BankAccount,,,,,MNND4590110797714
+n_3173,IPAddress,80.207.251.76,,,,
+n_3174,Merchant,,"Keer, Bir and Madan",0.0,test,
+n_3175,Director,,Divya Krish,,,
+n_3176,BankAccount,,,,,VWCK2049980949769
+n_3177,IPAddress,15.226.155.221,,,,
+n_3178,Merchant,,"Kapur, Bhattacharyya and Issac",0.0,test,
+n_3179,Director,,Reva Dara,,,
+n_3180,BankAccount,,,,,NMTR4166123740779
+n_3181,IPAddress,121.221.203.205,,,,
+n_3182,Merchant,,Naidu Group,0.0,test,
+n_3183,Director,,Shivansh Varma,,,
+n_3184,BankAccount,,,,,VSTJ9919701426203
+n_3185,IPAddress,30.190.101.145,,,,
+n_3186,Merchant,,"Garg, Cherian and Chakraborty",0.0,test,
+n_3187,Director,,Christopher Dutt,,,
+n_3188,Director,,Aashi Chandran,,,
+n_3189,BankAccount,,,,,RZCH5998989721170
+n_3190,IPAddress,185.69.196.180,,,,
+n_3191,Merchant,,"Trivedi, Balasubramanian and Bobal",0.0,test,
+n_3192,Director,,Abha Modi,,,
+n_3193,BankAccount,,,,,REFY1758839785708
+n_3194,IPAddress,104.105.61.1,,,,
+n_3195,Merchant,,Zachariah-Batra,0.0,test,
+n_3196,Director,,Urvi Nagarajan,,,
+n_3197,BankAccount,,,,,PVCF3691496112879
+n_3198,IPAddress,124.169.81.92,,,,
+n_3199,Merchant,,"Sampath, Thaman and Dora",0.0,test,
+n_3200,Director,,Manya Sood,,,
+n_3201,Director,,Amara Bassi,,,
+n_3202,BankAccount,,,,,SLHW1419615607832
+n_3203,IPAddress,23.44.20.33,,,,
+n_3204,Merchant,,Purohit-Pandya,0.0,test,
+n_3205,Director,,Triveni Rao,,,
+n_3206,BankAccount,,,,,FJUB9649668349604
+n_3207,IPAddress,25.255.33.6,,,,
+n_3208,Merchant,,Bhattacharyya Group,0.0,test,
+n_3209,Director,,Michael Nigam,,,
+n_3210,BankAccount,,,,,DMEF5936488208934
+n_3211,Merchant,,"Ratta, Walia and Thaker",0.0,test,
+n_3212,Director,,Benjamin Sarin,,,
+n_3213,Director,,Aarna Rana,,,
+n_3214,BankAccount,,,,,PEYQ7991609114131
+n_3215,IPAddress,143.227.231.105,,,,
+n_3216,Merchant,,Gade-Jayaraman,0.0,test,
+n_3217,Director,,Hritik Kaul,,,
+n_3218,Director,,Vaishnavi Reddy,,,
+n_3219,BankAccount,,,,,AKFH0458816502544
+n_3220,Merchant,,Dhillon-Lala,0.0,test,
+n_3221,Director,,Gunbir Sanghvi,,,
+n_3222,BankAccount,,,,,KUBG4409661771824
+n_3223,IPAddress,130.173.91.129,,,,
+n_3224,Merchant,,"Agate, Rattan and Shenoy",0.0,test,
+n_3225,Director,,Gunbir Magar,,,
+n_3226,BankAccount,,,,,COIN8135926648698
+n_3227,Merchant,,"Kothari, Randhawa and Sarraf",0.0,test,
+n_3228,Director,,Yashawini Raj,,,
+n_3229,Director,,Gautam Narang,,,
+n_3230,BankAccount,,,,,KSIK0119292075360
+n_3231,IPAddress,36.129.42.118,,,,
+n_3232,Merchant,,Brar-Sami,0.0,test,
+n_3233,Director,,Utkarsh Yogi,,,
+n_3234,BankAccount,,,,,YYRZ6365362189455
+n_3235,IPAddress,152.65.65.154,,,,
+n_3236,Merchant,,Amble-Bawa,0.0,test,
+n_3237,Director,,Charvi Deshpande,,,
+n_3238,Director,,Zashil Gola,,,
+n_3239,BankAccount,,,,,BJMM4896676056420
+n_3240,IPAddress,174.124.102.88,,,,
+n_3241,Merchant,,Sampath-Patla,0.0,test,
+n_3242,Director,,Saanvi Oak,,,
+n_3243,Director,,Shravya Morar,,,
+n_3244,BankAccount,,,,,YKHG8906235466226
+n_3245,IPAddress,50.130.24.161,,,,
+n_3246,Merchant,,Chopra Group,0.0,test,
+n_3247,BankAccount,,,,,UKTT5300622122427
+n_3248,IPAddress,31.78.195.230,,,,
+n_3249,Merchant,,"Som, Mukhopadhyay and Rattan",0.0,test,
+n_3250,Director,,Diya Bhavsar,,,
+n_3251,BankAccount,,,,,MADC2411584886008
+n_3252,IPAddress,94.95.155.34,,,,
+n_3253,Merchant,,"Varty, Randhawa and Srivastava",0.0,test,
+n_3254,Director,,Joshua Hayre,,,
+n_3255,BankAccount,,,,,CFST5704726426121
+n_3256,IPAddress,209.182.9.69,,,,
+n_3257,Merchant,,Wadhwa LLC,0.0,test,
+n_3258,Director,,Varenya Oommen,,,
+n_3259,Director,,Qushi Pal,,,
+n_3260,BankAccount,,,,,WSXM8078525482421
+n_3261,IPAddress,142.226.70.98,,,,
+n_3262,Merchant,,"Nair, Kulkarni and Pathak",0.0,test,
+n_3263,Director,,Champak Balay,,,
+n_3264,BankAccount,,,,,VNIJ5475231123274
+n_3265,IPAddress,191.184.89.40,,,,
+n_3266,Merchant,,"Chad, Seshadri and Sarma",0.0,test,
+n_3267,Director,,Samuel Kibe,,,
+n_3268,Director,,Ojas Suri,,,
+n_3269,BankAccount,,,,,FAGR8621750801963
+n_3270,IPAddress,174.10.24.178,,,,
+n_3271,Merchant,,Hayer-Bali,0.0,test,
+n_3272,Director,,Victor Nair,,,
+n_3273,Director,,Amara Karnik,,,
+n_3274,BankAccount,,,,,KHJA0181677848165
+n_3275,IPAddress,197.29.139.240,,,,
+n_3276,Merchant,,Kumar-Parsa,0.0,test,
+n_3277,Director,,Adweta Sane,,,
+n_3278,BankAccount,,,,,BRGR5179937810539
+n_3279,IPAddress,93.55.47.196,,,,
+n_3280,Merchant,,"Vala, Kumer and Yohannan",0.0,test,
+n_3281,Director,,Pavani Wable,,,
+n_3282,BankAccount,,,,,QYEY9045792714724
+n_3283,IPAddress,34.84.219.18,,,,
+n_3284,Merchant,,Zachariah Ltd,0.0,test,
+n_3285,Director,,Zayyan Gill,,,
+n_3286,Director,,Kevin Jani,,,
+n_3287,BankAccount,,,,,RUHS7283391218706
+n_3288,IPAddress,213.7.24.226,,,,
+n_3289,Merchant,,"Kade, Gera and Varughese",0.0,test,
+n_3290,Director,,Simon Ganesh,,,
+n_3291,BankAccount,,,,,EDBD0232001867661
+n_3292,IPAddress,65.232.64.74,,,,
+n_3293,Merchant,,"Srivastava, Raju and Dara",0.0,test,
+n_3294,Director,,Fiyaz Merchant,,,
+n_3295,BankAccount,,,,,GLMZ1403845319807
+n_3296,IPAddress,124.141.146.29,,,,
+n_3297,Merchant,,Murty LLC,0.0,test,
+n_3298,Director,,Diya Chaudhari,,,
+n_3299,Director,,Aarush Issac,,,
+n_3300,BankAccount,,,,,XYAO6205459671500
+n_3301,IPAddress,28.122.86.248,,,,
+n_3302,Merchant,,Luthra-Chanda,0.0,test,
+n_3303,Director,,Agastya Ramaswamy,,,
+n_3304,Director,,Chandani Chadha,,,
+n_3305,BankAccount,,,,,WCWH4078516994970
+n_3306,Merchant,,"Aurora, Pillai and Hayer",0.0,test,
+n_3307,Director,,Oni Jain,,,
+n_3308,BankAccount,,,,,JREM8999626970838
+n_3309,IPAddress,19.201.56.237,,,,
+n_3310,Merchant,,Wadhwa-Sundaram,0.0,test,
+n_3311,Director,,Januja Balasubramanian,,,
+n_3312,Director,,Pushti Gole,,,
+n_3313,BankAccount,,,,,LOCS7609320126578
+n_3314,IPAddress,139.244.18.108,,,,
+n_3315,Merchant,,Aurora-Mittal,0.0,test,
+n_3316,Director,,Abdul Pillay,,,
+n_3317,Director,,Elijah Shenoy,,,
+n_3318,BankAccount,,,,,LKQK1777412746921
+n_3319,IPAddress,73.66.0.112,,,,
+n_3320,Merchant,,Chanda-Rau,0.0,test,
+n_3321,Director,,Rajata Lata,,,
+n_3322,BankAccount,,,,,FFET7589170454218
+n_3323,Merchant,,Memon-Pradhan,0.0,test,
+n_3324,Director,,Chakradev Nagar,,,
+n_3325,Director,,Yashasvi Date,,,
+n_3326,BankAccount,,,,,ASEE5709001635640
+n_3327,IPAddress,22.194.189.188,,,,
+n_3328,Merchant,,Mallick Group,0.0,test,
+n_3329,Director,,Yahvi Gaba,,,
+n_3330,BankAccount,,,,,RTKX4001788224731
+n_3331,IPAddress,90.220.31.189,,,,
+n_3332,Merchant,,Ramachandran PLC,0.0,test,
+n_3333,Director,,Abeer Subramaniam,,,
+n_3334,BankAccount,,,,,CBZL8011950927115
+n_3335,IPAddress,96.165.159.154,,,,
+n_3336,Merchant,,"Bassi, Patil and Karan",0.0,test,
+n_3337,Director,,Chatresh Deshpande,,,
+n_3338,Director,,Caleb Bali,,,
+n_3339,BankAccount,,,,,OCZN9500741894854
+n_3340,Merchant,,Dhaliwal PLC,0.0,test,
+n_3341,Director,,Odika Kala,,,
+n_3342,Director,,Hemangini Deep,,,
+n_3343,BankAccount,,,,,TIIP1619827348131
+n_3344,IPAddress,85.68.61.225,,,,
+n_3345,Merchant,,Dube LLC,0.0,test,
+n_3346,Director,,Tristan Goswami,,,
+n_3347,BankAccount,,,,,COJG5748352680648
+n_3348,IPAddress,29.188.141.253,,,,
+n_3349,Merchant,,Hari-Kanda,0.0,test,
+n_3350,Director,,Chandani Thakur,,,
+n_3351,Director,,Chavvi Goel,,,
+n_3352,BankAccount,,,,,KZHM4628055077406
+n_3353,IPAddress,53.121.223.128,,,,
+n_3354,Merchant,,Buch-Patla,0.0,test,
+n_3355,Director,,Nathaniel Jha,,,
+n_3356,BankAccount,,,,,SFXA9085510740913
+n_3357,IPAddress,69.85.90.229,,,,
+n_3358,Merchant,,Shere PLC,0.0,test,
+n_3359,Director,,Girish Bahl,,,
+n_3360,BankAccount,,,,,EKZJ7602206953541
+n_3361,IPAddress,128.10.166.108,,,,
+n_3362,BankAccount,,,,,CVEF7595002601515
+n_3363,BankAccount,,,,,GXFL9479507407173
+n_3364,Director,,Ubika Bawa,,,
+n_3365,Merchant,,Pau-Bala (Ring 0),1.0,train,
+n_3366,Director,,Dominic Bava,,,
+n_3367,Merchant,,Ramaswamy LLC (Ring 0),1.0,train,
+n_3368,Director,,Daksha Arora,,,
+n_3369,Merchant,,Dani Inc (Ring 0),1.0,train,
+n_3370,IPAddress,124.129.20.244,,,,
+n_3371,Director,,Tanish Sangha,,,
+n_3372,Merchant,,Toor PLC (Ring 0),1.0,train,
+n_3373,Director,,Devansh Bora,,,
+n_3374,Merchant,,"Mital, Chandra and Kant (Ring 0)",1.0,train,
+n_3375,IPAddress,197.88.228.233,,,,
+n_3376,Merchant,,"Ghosh, Parmer and Pal (Ring 0)",1.0,train,
+n_3377,IPAddress,183.203.211.48,,,,
+n_3378,Director,,Harini Din,,,
+n_3379,BankAccount,,,,,BLMC0067990069680
+n_3380,BankAccount,,,,,CRMW7740378423394
+n_3381,Director,,Kavya Kar,,,
+n_3382,Merchant,,Agate Group (Ring 1),1.0,train,
+n_3383,Merchant,,Shanker-Purohit (Ring 1),1.0,train,
+n_3384,IPAddress,181.7.148.253,,,,
+n_3385,Merchant,,Narang-Anand (Ring 1),1.0,train,
+n_3386,IPAddress,117.145.40.83,,,,
+n_3387,Director,,Elijah Tak,,,
+n_3388,Merchant,,Raghavan LLC (Ring 1),1.0,train,
+n_3389,IPAddress,123.33.26.16,,,,
+n_3390,Merchant,,Mangal Inc (Ring 1),1.0,train,
+n_3391,IPAddress,24.39.21.221,,,,
+n_3392,Merchant,,Bhat Ltd (Ring 1),1.0,train,
+n_3393,IPAddress,97.50.19.178,,,,
+n_3394,Director,,Timothy Morar,,,
+n_3395,BankAccount,,,,,KDCA0906053088684
+n_3396,BankAccount,,,,,HAED1667329045759
+n_3397,Director,,Ekiya Grewal,,,
+n_3398,Merchant,,Garg PLC (Ring 2),1.0,train,
+n_3399,IPAddress,189.141.75.29,,,,
+n_3400,Director,,Oliver Rana,,,
+n_3401,Merchant,,Kashyap and Sons (Ring 2),1.0,train,
+n_3402,Director,,Praneel Anand,,,
+n_3403,Merchant,,"Dhaliwal, Shankar and Pingle (Ring 2)",1.0,train,
+n_3404,BankAccount,,,,,LQFC4770920711523
+n_3405,BankAccount,,,,,WYRA2362192158189
+n_3406,Director,,Aayush Pau,,,
+n_3407,Merchant,,"Chandra, Saraf and Cherian (Ring 3)",1.0,train,
+n_3408,IPAddress,189.248.14.192,,,,
+n_3409,Director,,Kamya Natarajan,,,
+n_3410,Merchant,,"Bumb, Munshi and Sheth (Ring 3)",1.0,train,
+n_3411,IPAddress,158.27.198.26,,,,
+n_3412,Director,,Girindra Raj,,,
+n_3413,Merchant,,"Varughese, Basu and Bedi (Ring 3)",1.0,train,
+n_3414,IPAddress,186.222.146.79,,,,
+n_3415,Merchant,,Srinivas PLC (Ring 3),1.0,train,
+n_3416,Director,,Ekalinga Prashad,,,
+n_3417,Merchant,,"Dubey, Trivedi and Srinivasan (Ring 3)",1.0,train,
+n_3418,Director,,Yashodhara Majumdar,,,
+n_3419,Merchant,,Mukhopadhyay-Bera (Ring 3),1.0,train,
+n_3420,BankAccount,,,,,VDQE2720028394823
+n_3421,BankAccount,,,,,EVEB4144743281165
+n_3422,Director,,Advaith Date,,,
+n_3423,Merchant,,"Arya, Datta and Banik (Ring 4)",1.0,train,
+n_3424,IPAddress,131.62.203.98,,,,
+n_3425,Director,,Manthan Kanda,,,
+n_3426,Merchant,,De Ltd (Ring 4),1.0,train,
+n_3427,Director,,Widisha Parmer,,,
+n_3428,Merchant,,Chauhan and Sons (Ring 4),1.0,train,
+n_3429,IPAddress,44.105.229.13,,,,
+n_3430,Director,,Kalpit Thakur,,,
+n_3431,Merchant,,Sahni LLC (Ring 4),1.0,train,
+n_3432,Director,,Niharika Kulkarni,,,
+n_3433,Merchant,,Hegde-Agate (Ring 4),1.0,train,
+n_3434,Merchant,,"Bhandari, Padmanabhan and Kashyap (Ring 4)",1.0,train,
+n_3435,IPAddress,207.133.15.46,,,,
+n_3436,BankAccount,,,,,OOLM9198321029161
+n_3437,BankAccount,,,,,PJMT0298310438419
+n_3438,Director,,Manya Gaba,,,
+n_3439,Merchant,,Bumb and Sons (Ring 5),1.0,train,
+n_3440,IPAddress,207.91.191.223,,,,
+n_3441,Director,,Akshay Thaker,,,
+n_3442,Merchant,,Peri Group (Ring 5),1.0,train,
+n_3443,IPAddress,3.121.107.145,,,,
+n_3444,Director,,Maya Sharma,,,
+n_3445,Merchant,,Rajagopal and Sons (Ring 5),1.0,train,
+n_3446,Director,,Michael Chad,,,
+n_3447,Merchant,,"Vala, Ramesh and Pathak (Ring 5)",1.0,train,
+n_3448,Director,,Darpan Mitter,,,
+n_3449,BankAccount,,,,,SJYY4407663493396
+n_3450,BankAccount,,,,,LAJU9627322626114
+n_3451,Director,,Aadhya Kalita,,,
+n_3452,Merchant,,Devan-Oza (Ring 6),1.0,train,
+n_3453,Merchant,,"Nagi, Lata and Dora (Ring 6)",1.0,train,
+n_3454,IPAddress,66.131.189.133,,,,
+n_3455,Director,,Guneet Reddy,,,
+n_3456,Merchant,,Khatri Ltd (Ring 6),1.0,train,
+n_3457,IPAddress,37.106.170.142,,,,
+n_3458,Merchant,,"Rai, Lall and Kannan (Ring 6)",1.0,train,
+n_3459,Merchant,,Nigam and Sons (Ring 6),1.0,train,
+n_3460,Merchant,,Manda Group (Ring 6),1.0,train,
+n_3461,IPAddress,193.95.145.196,,,,
+n_3462,Director,,Dakshesh Patla,,,
+n_3463,BankAccount,,,,,RHHH4303115876054
+n_3464,BankAccount,,,,,LOYX6947576945353
+n_3465,Director,,Kamala Sodhi,,,
+n_3466,Merchant,,Ramaswamy-Raju (Ring 7),1.0,train,
+n_3467,Director,,Devansh Sankar,,,
+n_3468,Merchant,,Mand and Sons (Ring 7),1.0,train,
+n_3469,IPAddress,85.247.238.135,,,,
+n_3470,Director,,Kala Bains,,,
+n_3471,Merchant,,"Anand, Natarajan and Mohan (Ring 7)",1.0,train,
+n_3472,IPAddress,13.119.144.115,,,,
+n_3473,Director,,Mohini Dhar,,,
+n_3474,Merchant,,Prabhu-Raj (Ring 7),1.0,train,
+n_3475,IPAddress,60.150.121.177,,,,
+n_3476,BankAccount,,,,,FDHA7423591426140
+n_3477,BankAccount,,,,,VIUR9332614543079
+n_3478,Director,,Thomas Shankar,,,
+n_3479,Merchant,,Chawla Ltd (Ring 8),1.0,train,
+n_3480,Director,,Ayushman Walla,,,
+n_3481,Merchant,,"Dara, Tandon and Wali (Ring 8)",1.0,train,
+n_3482,Director,,Oliver Dhar,,,
+n_3483,Merchant,,Buch LLC (Ring 8),1.0,train,
+n_3484,Director,,George Mand,,,
+n_3485,BankAccount,,,,,KFGL4268744701732
+n_3486,BankAccount,,,,,UVAW8652377729665
+n_3487,Director,,Raghav Hayer,,,
+n_3488,Merchant,,Aggarwal-Choudhury (Ring 9),1.0,train,
+n_3489,Merchant,,Bhatia-Batra (Ring 9),1.0,train,
+n_3490,IPAddress,219.109.113.198,,,,
+n_3491,Director,,Reva Yadav,,,
+n_3492,Merchant,,Bakshi LLC (Ring 9),1.0,train,
+n_3493,IPAddress,34.235.155.74,,,,
+n_3494,Merchant,,Bakshi and Sons (Ring 9),1.0,train,
+n_3495,IPAddress,21.179.169.123,,,,
+n_3496,Director,,Dominic More,,,
+n_3497,BankAccount,,,,,FKOV3160943913681
+n_3498,BankAccount,,,,,PFBG1369552862092
+n_3499,Director,,Yatin Padmanabhan,,,
+n_3500,Merchant,,Prakash PLC (Ring 10),1.0,train,
+n_3501,Director,,Tanay Keer,,,
+n_3502,Merchant,,Gara and Sons (Ring 10),1.0,train,
+n_3503,Merchant,,"Savant, Karan and Gupta (Ring 10)",1.0,train,
+n_3504,IPAddress,213.147.234.224,,,,
+n_3505,Director,,Bhavna Patla,,,
+n_3506,BankAccount,,,,,PWWZ3532366185076
+n_3507,BankAccount,,,,,CBRO0826971823601
+n_3508,Director,,Vyanjana Dash,,,
+n_3509,Merchant,,Randhawa Inc (Ring 11),1.0,train,
+n_3510,IPAddress,46.57.135.197,,,,
+n_3511,Director,,Gaurav Tailor,,,
+n_3512,Merchant,,"Saran, Lala and Walla (Ring 11)",1.0,train,
+n_3513,Merchant,,Rau-Sridhar (Ring 11),1.0,train,
+n_3514,Director,,Ekta Savant,,,
+n_3515,BankAccount,,,,,YIEE3322280194425
+n_3516,BankAccount,,,,,RVXS2225606295350
+n_3517,Director,,Xavier Srinivas,,,
+n_3518,Merchant,,Bhavsar Ltd (Ring 12),1.0,train,
+n_3519,Director,,Christopher Magar,,,
+n_3520,Merchant,,Swamy-Majumdar (Ring 12),1.0,train,
+n_3521,Director,,Warinder Ahuja,,,
+n_3522,Merchant,,Murty-Karnik (Ring 12),1.0,train,
+n_3523,IPAddress,217.193.169.173,,,,
+n_3524,Merchant,,Naik and Sons (Ring 12),1.0,train,
+n_3525,BankAccount,,,,,AVCH6260846397561
+n_3526,BankAccount,,,,,KXIZ7055491215164
+n_3527,Director,,Faras Oommen,,,
+n_3528,Merchant,,Sangha-Magar (Ring 13),1.0,train,
+n_3529,IPAddress,69.216.64.136,,,,
+n_3530,Director,,Siddharth Nagi,,,
+n_3531,Merchant,,Taneja-Parmar (Ring 13),1.0,train,
+n_3532,IPAddress,160.246.146.79,,,,
+n_3533,Director,,Aadi Devan,,,
+n_3534,Merchant,,Kulkarni and Sons (Ring 13),1.0,train,
+n_3535,Director,,Nathan Aurora,,,
+n_3536,Merchant,,Taneja Inc (Ring 13),1.0,train,
+n_3537,Merchant,,Chakraborty and Sons (Ring 13),1.0,train,
+n_3538,IPAddress,44.234.13.20,,,,
+n_3539,BankAccount,,,,,SHYW6967897609873
+n_3540,BankAccount,,,,,CFNP7319227607598
+n_3541,Director,,Osha Pandey,,,
+n_3542,Merchant,,Johal Ltd (Ring 14),1.0,train,
+n_3543,Merchant,,"More, Jain and D’Alia (Ring 14)",1.0,train,
+n_3544,Merchant,,"Chand, Raja and Narasimhan (Ring 14)",1.0,train,
+n_3545,IPAddress,33.249.228.96,,,,
+n_3546,Director,,Qabil Kaul,,,
+n_3547,BankAccount,,,,,DEBF1915057644974
+n_3548,BankAccount,,,,,PAWB0268764486764
+n_3549,Director,,Shivani More,,,
+n_3550,Merchant,,Saini and Sons (Ring 15),1.0,train,
+n_3551,IPAddress,54.62.102.253,,,,
+n_3552,Director,,Bahadurjit Kurian,,,
+n_3553,Merchant,,Bali-Bajaj (Ring 15),1.0,train,
+n_3554,Director,,Yash Pandit,,,
+n_3555,Merchant,,Kannan-Singhal (Ring 15),1.0,train,
+n_3556,Director,,Baljiwan Raju,,,
+n_3557,Merchant,,Sandhu-Grewal (Ring 15),1.0,train,
+n_3558,IPAddress,203.60.63.143,,,,
+n_3559,BankAccount,,,,,CDUS5296353059702
+n_3560,BankAccount,,,,,LLDF8276364315948
+n_3561,Director,,Maya Palla,,,
+n_3562,Merchant,,Sachdev-Saran (Ring 16),1.0,train,
+n_3563,Director,,Chanchal Narayanan,,,
+n_3564,Merchant,,Master-Kant (Ring 16),1.0,train,
+n_3565,IPAddress,48.121.52.228,,,,
+n_3566,Merchant,,Mody PLC (Ring 16),1.0,train,
+n_3567,IPAddress,79.167.85.30,,,,
+n_3568,BankAccount,,,,,YTHW4497439464088
+n_3569,BankAccount,,,,,FEHB9586297398894
+n_3570,Director,,Zaid Dugar,,,
+n_3571,Merchant,,Anand PLC (Ring 17),1.0,train,
+n_3572,IPAddress,17.245.97.247,,,,
+n_3573,Director,,Ishwar Srinivas,,,
+n_3574,Merchant,,Srinivas LLC (Ring 17),1.0,train,
+n_3575,Merchant,,Venkataraman-Pall (Ring 17),1.0,train,
+n_3576,IPAddress,99.77.105.83,,,,
+n_3577,Director,,Gayathri Sodhi,,,
+n_3578,Merchant,,"Deo, Dass and Barad (Ring 17)",1.0,train,
+n_3579,IPAddress,112.175.195.43,,,,
+n_3580,Director,,Arunima Sant,,,
+n_3581,Merchant,,Raj-Bhatt (Ring 17),1.0,train,
+n_3582,Director,,Udant Bhagat,,,
+n_3583,Merchant,,Dhaliwal Ltd (Ring 17),1.0,train,
+n_3584,IPAddress,211.105.144.20,,,,
+n_3585,Director,,Ishwar Jani,,,
+n_3586,BankAccount,,,,,XOKM5896359570861
+n_3587,BankAccount,,,,,STGC4584345663113
+n_3588,Director,,Chanakya Jayaraman,,,
+n_3589,Merchant,,Goswami-Halder (Ring 18),1.0,train,
+n_3590,Director,,Nakul Deshmukh,,,
+n_3591,Merchant,,Kothari and Sons (Ring 18),1.0,train,
+n_3592,IPAddress,50.188.127.221,,,,
+n_3593,Merchant,,Lanka Group (Ring 18),1.0,train,
+n_3594,IPAddress,101.55.47.32,,,,
+n_3595,Director,,Charvi Kata,,,
+n_3596,Merchant,,"Seshadri, Sagar and Thaman (Ring 18)",1.0,train,
+n_3597,IPAddress,188.174.10.29,,,,
+n_3598,BankAccount,,,,,ZRAB8529469021774
+n_3599,BankAccount,,,,,COIG0435023850228
+n_3600,Director,,Pahal Raman,,,
+n_3601,Merchant,,Golla-Sen (Ring 19),1.0,train,
+n_3602,Merchant,,Dutta-Issac (Ring 19),1.0,train,
+n_3603,IPAddress,102.156.255.101,,,,
+n_3604,Director,,Aditya Deshpande,,,
+n_3605,Merchant,,Desai LLC (Ring 19),1.0,train,
+n_3606,IPAddress,38.230.79.224,,,,
+n_3607,Director,,Samarth Anne,,,
+n_3608,BankAccount,,,,,HAHG4677116750762
+n_3609,BankAccount,,,,,YPTT5530245301239
+n_3610,Director,,Vinaya Garde,,,
+n_3611,Merchant,,Balakrishnan and Sons (Ring 20),1.0,train,
+n_3612,IPAddress,124.134.249.50,,,,
+n_3613,Director,,Joshua Zachariah,,,
+n_3614,Merchant,,Shanker-Bir (Ring 20),1.0,train,
+n_3615,Merchant,,"Babu, Chand and Sha (Ring 20)",1.0,train,
+n_3616,IPAddress,181.58.160.115,,,,
+n_3617,Director,,Brinda Ben,,,
+n_3618,Merchant,,Bhardwaj-Sarna (Ring 20),1.0,train,
+n_3619,BankAccount,,,,,XNIV8717754619924
+n_3620,BankAccount,,,,,BMLU8387272581225
+n_3621,Director,,Hemal Rajan,,,
+n_3622,Merchant,,Walla-Manda (Ring 21),1.0,train,
+n_3623,IPAddress,180.183.197.33,,,,
+n_3624,Director,,Vedika Krish,,,
+n_3625,Merchant,,"Guha, Seth and Bose (Ring 21)",1.0,train,
+n_3626,Merchant,,Chaudhry and Sons (Ring 21),1.0,train,
+n_3627,IPAddress,67.4.113.211,,,,
+n_3628,Director,,Tanvi Varghese,,,
+n_3629,Merchant,,Keer Ltd (Ring 21),1.0,train,
+n_3630,IPAddress,58.158.147.57,,,,
+n_3631,Director,,Ethan Sha,,,
+n_3632,Merchant,,Sundaram LLC (Ring 21),1.0,train,
+n_3633,IPAddress,142.111.43.141,,,,
+n_3634,Director,,Indira Chawla,,,
+n_3635,BankAccount,,,,,STTI5295171222764
+n_3636,BankAccount,,,,,HHRO2205422162654
+n_3637,Director,,Rehaan Hayer,,,
+n_3638,Merchant,,"Agarwal, Zacharia and Hayre (Ring 22)",1.0,train,
+n_3639,Director,,Bimala Menon,,,
+n_3640,Merchant,,Savant-Badami (Ring 22),1.0,train,
+n_3641,IPAddress,63.241.47.79,,,,
+n_3642,Merchant,,"Narayanan, Arora and Madan (Ring 22)",1.0,train,
+n_3643,IPAddress,21.81.151.223,,,,
+n_3644,Director,,Kavya Purohit,,,
+n_3645,Merchant,,"Palla, Bora and Munshi (Ring 22)",1.0,train,
+n_3646,IPAddress,99.149.231.72,,,,
+n_3647,BankAccount,,,,,PITW2663295634277
+n_3648,BankAccount,,,,,PKZF2592061658129
+n_3649,Director,,Ayaan Pillay,,,
+n_3650,Merchant,,"Dugar, Dora and Mangal (Ring 23)",1.0,train,
+n_3651,Director,,Ekbal Naidu,,,
+n_3652,Merchant,,Kamdar-Basak (Ring 23),1.0,train,
+n_3653,IPAddress,109.21.124.243,,,,
+n_3654,Director,,Neelima Kaul,,,
+n_3655,Merchant,,Konda-Sheth (Ring 23),1.0,train,
+n_3656,IPAddress,137.221.233.2,,,,
+n_3657,Director,,Orinder Minhas,,,
+n_3658,Merchant,,"Gole, Basak and Sankar (Ring 23)",1.0,train,
+n_3659,BankAccount,,,,,MCKV4980851331380
+n_3660,BankAccount,,,,,BISR3211221215481
+n_3661,Director,,Mitesh Saran,,,
+n_3662,Merchant,,"Sahni, Wason and Tata (Ring 24)",1.0,test,
+n_3663,Director,,Chanchal Anand,,,
+n_3664,Merchant,,Choudhary PLC (Ring 24),1.0,test,
+n_3665,Director,,Adweta Yogi,,,
+n_3666,Merchant,,Ramachandran LLC (Ring 24),1.0,test,
+n_3667,IPAddress,196.136.197.81,,,,
+n_3668,Merchant,,"Acharya, Basak and Rama (Ring 24)",1.0,test,
+n_3669,Director,,Yadavi Tank,,,
+n_3670,Merchant,,Vohra-Srinivasan (Ring 24),1.0,test,
+n_3671,IPAddress,117.4.211.158,,,,
+n_3672,BankAccount,,,,,QKYX6646419623421
+n_3673,BankAccount,,,,,TEWN2213204104294
+n_3674,Director,,Isaiah Manda,,,
+n_3675,Merchant,,"Sunder, Vaidya and Choudhury (Ring 25)",1.0,test,
+n_3676,IPAddress,92.147.173.99,,,,
+n_3677,Director,,Niharika Mall,,,
+n_3678,Merchant,,"Vyas, Char and Dyal (Ring 25)",1.0,test,
+n_3679,Merchant,,"Issac, Choudhry and Bahri (Ring 25)",1.0,test,
+n_3680,Director,,Theodore Sankaran,,,
+n_3681,Merchant,,Rout-Bail (Ring 25),1.0,test,
+n_3682,Director,,Aarnav Bhatia,,,
+n_3683,BankAccount,,,,,ALGX2853863105052
+n_3684,BankAccount,,,,,IHQH8058269299007
+n_3685,Director,,Rachana Gade,,,
+n_3686,Merchant,,Sarin-Kohli (Ring 26),1.0,test,
+n_3687,IPAddress,213.172.134.221,,,,
+n_3688,Director,,Yachana Rajan,,,
+n_3689,Merchant,,"Jani, Kala and Sule (Ring 26)",1.0,test,
+n_3690,IPAddress,37.84.209.5,,,,
+n_3691,Director,,Ishaan Rau,,,
+n_3692,Merchant,,Rao Group (Ring 26),1.0,test,
+n_3693,Merchant,,Kota Group (Ring 26),1.0,test,
+n_3694,Director,,Ikbal Acharya,,,
+n_3695,BankAccount,,,,,CGEV8233921883527
+n_3696,BankAccount,,,,,XTXC8750677610659
+n_3697,Director,,Abeer Yohannan,,,
+n_3698,Merchant,,"Chaudhry, Lata and Kota (Ring 27)",1.0,test,
+n_3699,Merchant,,Datta Group (Ring 27),1.0,test,
+n_3700,IPAddress,154.57.94.158,,,,
+n_3701,Merchant,,Sharma PLC (Ring 27),1.0,test,
+n_3702,Director,,Indira Saini,,,
+n_3703,Merchant,,"Walla, Koshy and Mistry (Ring 27)",1.0,test,
+n_3704,BankAccount,,,,,LVPF0266568629591
+n_3705,BankAccount,,,,,EKOG4989925539460
+n_3706,Director,,Chanchal Deshpande,,,
+n_3707,Merchant,,"Bajaj, Saxena and Loyal (Ring 28)",1.0,test,
+n_3708,IPAddress,137.34.80.125,,,,
+n_3709,Merchant,,"Sabharwal, Sampath and Modi (Ring 28)",1.0,test,
+n_3710,IPAddress,92.6.27.115,,,,
+n_3711,Director,,Vedhika Bains,,,
+n_3712,Merchant,,"Aggarwal, Shankar and Mohanty (Ring 28)",1.0,test,
+n_3713,IPAddress,159.223.187.106,,,,
+n_3714,Merchant,,Pandey-Mane (Ring 28),1.0,test,
+n_3715,IPAddress,36.209.48.189,,,,
+n_3716,Merchant,,"Hari, Thaman and Mittal (Ring 28)",1.0,test,
+n_3717,Director,,Nirja Shere,,,
+n_3718,Merchant,,Mani Group (Ring 28),1.0,test,
+n_3719,Director,,Samuel Rastogi,,,
+n_3720,BankAccount,,,,,XSRZ8164980445092
+n_3721,BankAccount,,,,,VUQZ6052102627066
+n_3722,Director,,Darsh Badami,,,
+n_3723,Merchant,,"Gola, Madan and Warrior (Ring 29)",1.0,test,
+n_3724,IPAddress,174.222.89.143,,,,
+n_3725,Merchant,,"Chawla, Kant and Acharya (Ring 29)",1.0,test,
+n_3726,IPAddress,2.194.131.69,,,,
+n_3727,Director,,Forum Subramanian,,,
+n_3728,Merchant,,Zachariah-Khalsa (Ring 29),1.0,test,
+n_3729,Director,,Adweta Cherian,,,
